@@ -104,3 +104,7 @@
 |098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Python](./Python/098.md)|Medium|
 |099|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)|[Python](./Python/099.md)|Hard|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)|[Python](./Python/100.md)|Easy|
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Python](./Python/101.md)|Easy|
+|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Python](./Python/102.md)|Medium|
+|103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[Python](./Python/103.md)|Medium|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python](./Python/104.md)|Easy|
