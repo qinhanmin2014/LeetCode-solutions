@@ -108,3 +108,7 @@
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Python](./Python/102.md)|Medium|
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[Python](./Python/103.md)|Medium|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python](./Python/104.md)|Easy|
+|973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Python](./Python/973.md)|Easy|
+|974|[Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)|[Python](./Python/974.md)|Medium|
+|975|[Odd Even Jump](https://leetcode.com/problems/odd-even-jump/)|[Python](./Python/975.md)|Hard|
+|976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[Python](./Python/976.md)|Easy|
