@@ -128,3 +128,7 @@
 |974|[Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)|[Python](./Python/974.md)|Medium|
 |975|[Odd Even Jump](https://leetcode.com/problems/odd-even-jump/)|[Python](./Python/975.md)|Hard|
 |976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[Python](./Python/976.md)|Easy|
+|977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Python](./Python/977.md)|Easy|
+|978|[Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/)|[Python](./Python/978.md)|Medium|
+|979|[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/)|[Python](./Python/979.md)|Medium|
+|980|[Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)|[Python](./Python/980.md)|Hard|
