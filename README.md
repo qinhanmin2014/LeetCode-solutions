@@ -132,3 +132,7 @@
 |978|[Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/)|[Python](./Python/978.md)|Medium|
 |979|[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/)|[Python](./Python/979.md)|Medium|
 |980|[Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)|[Python](./Python/980.md)|Hard|
+|981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|[Python](./Python/981.md)|Medium|
+|982|[Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/)|[Python](./Python/982.md)|Hard|
+|983|[Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)|[Python](./Python/983.md)|Medium|
+|984|[String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/)|[Python](./Python/984.md)|Easy|
