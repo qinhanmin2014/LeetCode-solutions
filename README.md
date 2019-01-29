@@ -120,6 +120,10 @@
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Python](./Python/344.md)|Easy|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Python](./Python/349.md)|Easy|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[Python](./Python/371.md)|Easy|
+|965|[Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)|[Python](./Python/965.md)|Easy|
+|966|[Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/)|[Python](./Python/966.md)|Medium|
+|967|[Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/)|[Python](./Python/967.md)|Medium|
+|968|[Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/)|[Python](./Python/968.md)|Hard|
 |969|[Pancake Sorting](https://leetcode.com/problems/pancake-sorting/)|[Python](./Python/969.md)|Medium|
 |970|[Powerful Integers](https://leetcode.com/problems/powerful-integers/)|[Python](./Python/970.md)|Easy|
 |971|[Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/)|[Python](./Python/971.md)|Medium|
