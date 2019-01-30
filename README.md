@@ -120,6 +120,10 @@
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Python](./Python/344.md)|Easy|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Python](./Python/349.md)|Easy|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[Python](./Python/371.md)|Easy|
+|961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)|[Python](./Python/961.md)|Easy|
+|962|[Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/)|[Python](./Python/962.md)|Medium|
+|963|[Minimum Area Rectangle II](https://leetcode.com/problems/minimum-area-rectangle-ii/)|[Python](./Python/963.md)|Medium|
+|964|[Least Operators to Express Number](https://leetcode.com/problems/least-operators-to-express-number/)|[Python](./Python/964.md)|Hard|
 |965|[Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)|[Python](./Python/965.md)|Easy|
 |966|[Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/)|[Python](./Python/966.md)|Medium|
 |967|[Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/)|[Python](./Python/967.md)|Medium|
