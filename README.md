@@ -144,3 +144,7 @@
 |982|[Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/)|[Python](./Python/982.md)|Hard|
 |983|[Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)|[Python](./Python/983.md)|Medium|
 |984|[String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/)|[Python](./Python/984.md)|Easy|
+|985|[Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)|[Python](./Python/985.md)|Easy|
+|986|[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)|[Python](./Python/986.md)|Medium|
+|987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[Python](./Python/987.md)|Medium|
+|988|[Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/)|[Python](./Python/988.md)|Medium|
