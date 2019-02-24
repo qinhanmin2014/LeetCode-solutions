@@ -148,3 +148,7 @@
 |986|[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)|[Python](./Python/986.md)|Medium|
 |987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[Python](./Python/987.md)|Medium|
 |988|[Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/)|[Python](./Python/988.md)|Medium|
+|997|[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)|[Python](./Python/997.md)|Easy|
+|998|[Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/)|[Python](./Python/998.md)|Medium|
+|999|[Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/)|[Python](./Python/999.md)|Easy|
+|1001|[Grid Illumination](https://leetcode.com/problems/grid-illumination/)|[Python](./Python/1001.md)|Hard|
