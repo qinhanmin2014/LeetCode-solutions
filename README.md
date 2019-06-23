@@ -1,11 +1,11 @@
 # LeetCode
 
-[LeetCode](https://leetcode.com/) Solutions in Python
+[LeetCode](https://leetcode.com/) Solutions in Python, Java and C++
 
 | # | Title | Python | Java | C++ | Difficulty |
 |---| ----- | ------ | ---- | --- | ---------- |
 |001|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python](./Python/001.md)|[Java](./Java/001.md)|[C++](./C++/001.md)|Easy|
-|002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Python](./Python/002.md)|||Medium|
+|002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Python](./Python/002.md)|[Java](./Java/002.md)|[C++](./C++/002.md)|Medium|
 |003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Python](./Python/003.md)|||Medium|
 |004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Python](./Python/004.md)|||Hard|
 |005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Python](./Python/005.md)|||Medium|
