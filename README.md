@@ -9,7 +9,7 @@
 |003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Python](./Python/003.md)|[Java](./Java/003.md)|[C++](./C++/003.md)|Medium|
 |004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Python](./Python/004.md)|[Java](./Java/004.md)|[C++](./C++/004.md)|Hard|
 |005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Python](./Python/005.md)|[Java](./Java/005.md)|[C++](./C++/005.md)|Medium|
-|006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[Python](./Python/006.md)|||Medium|
+|006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[Python](./Python/006.md)|[Java](./Java/006.md)|[C++](./C++/006.md)|Medium|
 |007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Python](./Python/007.md)|||Easy|
 |008|[String to Integer](https://leetcode.com/problems/string-to-integer-atoi/)|[Python](./Python/008.md)|||Medium|
 |009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Python](./Python/009.md)|||Easy|
