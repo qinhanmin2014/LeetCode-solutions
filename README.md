@@ -11,7 +11,7 @@
 |005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Python](./Python/005.md)|[Java](./Java/005.md)|[C++](./C++/005.md)|Medium|
 |006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[Python](./Python/006.md)|[Java](./Java/006.md)|[C++](./C++/006.md)|Medium|
 |007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Python](./Python/007.md)|[Java](./Java/007.md)|[C++](./C++/007.md)|Easy|
-|008|[String to Integer](https://leetcode.com/problems/string-to-integer-atoi/)|[Python](./Python/008.md)|||Medium|
+|008|[String to Integer](https://leetcode.com/problems/string-to-integer-atoi/)|[Python](./Python/008.md)|[Java](./Java/008.md)|[C++](./C++/008.md)|Medium|
 |009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Python](./Python/009.md)|||Easy|
 |010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[Python](./Python/010.md)|||Hard|
 |011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Python](./Python/011.md)|||Medium|
