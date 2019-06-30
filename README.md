@@ -13,7 +13,7 @@
 |007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Python](./Python/007.md)|[Java](./Java/007.md)|[C++](./C++/007.md)|Easy|
 |008|[String to Integer](https://leetcode.com/problems/string-to-integer-atoi/)|[Python](./Python/008.md)|[Java](./Java/008.md)|[C++](./C++/008.md)|Medium|
 |009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Python](./Python/009.md)|[Java](./Java/009.md)|[C++](./C++/009.md)|Easy|
-|010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[Python](./Python/010.md)|||Hard|
+|010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[Python](./Python/010.md)|[Java](./Java/010.md)|[C++](./C++/010.md)|Hard|
 |011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Python](./Python/011.md)|||Medium|
 |012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Python](./Python/012.md)|||Medium|
 |013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Python](./Python/013.md)|||Easy|
