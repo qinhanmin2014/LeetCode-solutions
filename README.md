@@ -16,8 +16,8 @@
 |010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[Python](./Python/010.md)|[Java](./Java/010.md)|[C++](./C++/010.md)|Hard|
 |011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Python](./Python/011.md)|[Java](./Java/011.md)|[C++](./C++/011.md)|Medium|
 |012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Python](./Python/012.md)|[Java](./Java/012.md)|[C++](./C++/012.md)|Medium|
-|013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Python](./Python/013.md)|||Easy|
-|014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Python](./Python/014.md)|||Easy|
+|013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Python](./Python/013.md)|[Java](./Java/013.md)|[C++](./C++/013.md)|Easy|
+|014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Python](./Python/014.md)|[Java](./Java/014.md)|[C++](./C++/014.md)|Easy|
 |015|[3Sum](https://leetcode.com/problems/3sum/)|[Python](./Python/015.md)|||Medium|
 |016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Python](./Python/016.md)|||Medium|
 |017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Python](./Python/017.md)|||Medium|
