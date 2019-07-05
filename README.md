@@ -19,8 +19,8 @@
 |013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Python](./Python/013.md)|[Java](./Java/013.md)|[C++](./C++/013.md)|Easy|
 |014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Python](./Python/014.md)|[Java](./Java/014.md)|[C++](./C++/014.md)|Easy|
 |015|[3Sum](https://leetcode.com/problems/3sum/)|[Python](./Python/015.md)|[Java](./Java/015.md)|[C++](./C++/015.md)|Medium|
-|016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Python](./Python/016.md)|||Medium|
-|017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Python](./Python/017.md)|||Medium|
+|016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Python](./Python/016.md)|[Java](./Java/016.md)|[C++](./C++/016.md)|Medium|
+|017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Python](./Python/017.md)|[Java](./Java/017.md)|[C++](./C++/017.md)|Medium|
 |018|[4Sum](https://leetcode.com/problems/4sum/)|[Python](./Python/018.md)|||Medium|
 |019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Python](./Python/019.md)|||Medium|
 |020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Python](./Python/020.md)|||Easy|
