@@ -24,8 +24,8 @@
 |018|[4Sum](https://leetcode.com/problems/4sum/)|[Python](./Python/018.md)|[Java](./Java/018.md)|[C++](./C++/018.md)|Medium|
 |019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Python](./Python/019.md)|[Java](./Java/019.md)|[C++](./C++/019.md)|Medium|
 |020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Python](./Python/020.md)|[Java](./Java/020.md)|[C++](./C++/020.md)|Easy|
-|021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Python](./Python/021.md)|||Easy|
-|022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Python](./Python/022.md)|||Medium|
+|021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Python](./Python/021.md)|[Java](./Java/021.md)|[C++](./C++/021.md)|Easy|
+|022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Python](./Python/022.md)|[Java](./Java/022.md)|[C++](./C++/022.md)|Medium|
 |023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[Python](./Python/023.md)|||Hard|
 |024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Python](./Python/024.md)|||Medium|
 |025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[Python](./Python/025.md)|||Hard|
