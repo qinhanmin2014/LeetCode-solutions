@@ -29,9 +29,9 @@
 |023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[Python](./Python/023.md)|[Java](./Java/023.md)|[C++](./C++/023.md)|Hard|
 |024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Python](./Python/024.md)|[Java](./Java/024.md)|[C++](./C++/024.md)|Medium|
 |025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[Python](./Python/025.md)|[Java](./Java/025.md)|[C++](./C++/025.md)|Hard|
-|026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](./Python/026.md)|||Easy|
-|027|[Remove Element](https://leetcode.com/problems/remove-element/)|[Python](./Python/027.md)|||Easy|
-|028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Python](./Python/028.md)|||Easy|
+|026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](./Python/026.md)|[Java](./Java/026.md)|[C++](./C++/026.md)|Easy|
+|027|[Remove Element](https://leetcode.com/problems/remove-element/)|[Python](./Python/027.md)|[Java](./Java/027.md)|[C++](./C++/027.md)|Easy|
+|028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Python](./Python/028.md)|[Java](./Java/028.md)|[C++](./C++/028.md)|Easy|
 |029|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[Python](./Python/029.md)|||Medium|
 |030|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[Python](./Python/030.md)|||Hard|
 |031|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[Python](./Python/031.md)|||Medium|
