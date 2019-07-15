@@ -33,7 +33,7 @@
 |027|[Remove Element](https://leetcode.com/problems/remove-element/)|[Python](./Python/027.md)|[Java](./Java/027.md)|[C++](./C++/027.md)|Easy|
 |028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Python](./Python/028.md)|[Java](./Java/028.md)|[C++](./C++/028.md)|Easy|
 |029|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[Python](./Python/029.md)|[Java](./Java/029.md)|[C++](./C++/029.md)|Medium|
-|030|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[Python](./Python/030.md)|||Hard|
+|030|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[Python](./Python/030.md)|[Java](./Java/030.md)|[C++](./C++/030.md)|Hard|
 |031|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[Python](./Python/031.md)|||Medium|
 |032|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[Python](./Python/032.md)|||Hard|
 |033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Python](./Python/033.md)|||Medium|
