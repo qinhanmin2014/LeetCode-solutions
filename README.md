@@ -36,7 +36,7 @@
 |030|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[Python](./Python/030.md)|[Java](./Java/030.md)|[C++](./C++/030.md)|Hard|
 |031|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[Python](./Python/031.md)|[Java](./Java/031.md)|[C++](./C++/031.md)|Medium|
 |032|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[Python](./Python/032.md)|[Java](./Java/032.md)|[C++](./C++/032.md)|Hard|
-|033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Python](./Python/033.md)|||Medium|
+|033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Python](./Python/033.md)|[Java](./Java/033.md)|[C++](./C++/033.md)|Medium|
 |034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Python](./Python/034.md)|||Medium|
 |035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Python](./Python/035.md)|||Easy|
 |036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Python](./Python/036.md)|||Medium|
