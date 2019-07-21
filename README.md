@@ -40,8 +40,8 @@
 |034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Python](./Python/034.md)|[Java](./Java/034.md)|[C++](./C++/034.md)|Medium|
 |035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Python](./Python/035.md)|[Java](./Java/035.md)|[C++](./C++/035.md)|Easy|
 |036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Python](./Python/036.md)|[Java](./Java/036.md)|[C++](./C++/036.md)|Medium|
-|037|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[Python](./Python/037.md)|||Hard|
-|038|[Count and Say](https://leetcode.com/problems/count-and-say/)|[Python](./Python/038.md)|||Easy|
+|037|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[Python](./Python/037.md)|[Java](./Java/037.md)|[C++](./C++/037.md)|Hard|
+|038|[Count and Say](https://leetcode.com/problems/count-and-say/)|[Python](./Python/038.md)|[Java](./Java/038.md)|[C++](./C++/038.md)|Easy|
 |039|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Python](./Python/039.md)|||Medium|
 |040|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[Python](./Python/040.md)|||Medium|
 |041|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Python](./Python/041.md)|||Hard|
