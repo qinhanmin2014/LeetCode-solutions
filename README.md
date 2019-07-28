@@ -49,7 +49,7 @@
 |043|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[Python](./Python/043.md)|[Java](./Java/043.md)|[C++](./C++/043.md)|Medium|
 |044|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|[Python](./Python/044.md)|[Java](./Java/044.md)|[C++](./C++/044.md)|Hard|
 |045|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[Python](./Python/045.md)|[Java](./Java/045.md)|[C++](./C++/045.md)|Hard|
-|046|[Permutations](https://leetcode.com/problems/permutations/)|[Python](./Python/046.md)|||Medium|
+|046|[Permutations](https://leetcode.com/problems/permutations/)|[Python](./Python/046.md)|[Java](./Java/046.md)|[C++](./C++/046.md)|Medium|
 |047|[Permutaions II](https://leetcode.com/problems/permutations-ii/)|[Python](./Python/047.md)|||Medium|
 |048|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Python](./Python/048.md)|||Medium|
 |049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Python](./Python/049.md)|||Medium|
