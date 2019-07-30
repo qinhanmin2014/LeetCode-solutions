@@ -53,7 +53,7 @@
 |047|[Permutaions II](https://leetcode.com/problems/permutations-ii/)|[Python](./Python/047.md)|[Java](./Java/047.md)|[C++](./C++/047.md)|Medium|
 |048|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Python](./Python/048.md)|[Java](./Java/048.md)|[C++](./C++/048.md)|Medium|
 |049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Python](./Python/049.md)|[Java](./Java/049.md)|[C++](./C++/049.md)|Medium|
-|050|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Python](./Python/050.md)|||Medium|
+|050|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Python](./Python/050.md)|[Java](./Java/050.md)|[C++](./C++/050.md)|Medium|
 |051|[N-Queens](https://leetcode.com/problems/n-queens/)|[Python](./Python/051.md)|||Hard|
 |052|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[Python](./Python/052.md)|||Hard|
 |053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Python](./Python/053.md)|||Easy|
