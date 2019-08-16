@@ -59,7 +59,7 @@
 |053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Python](./Python/053.md)|[Java](./Java/053.md)|[C++](./C++/053.md)|Easy|
 |054|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Python](./Python/054.md)|[Java](./Java/054.md)|[C++](./C++/054.md)|Medium|
 |055|[Jump Game](https://leetcode.com/problems/jump-game/)|[Python](./Python/055.md)|[Java](./Java/055.md)|[C++](./C++/055.md)|Medium|
-|056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Python](./Python/056.md)|||Medium|
+|056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Python](./Python/056.md)|[Java](./Java/056.md)|[C++](./C++/056.md)|Medium|
 |057|[Insert Interval](https://leetcode.com/problems/insert-interval/)|[Python](./Python/057.md)|||Hard|
 |058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Python](./Python/058.md)|||Easy|
 |059|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[Python](./Python/059.md)|||Medium|
