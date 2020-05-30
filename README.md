@@ -114,6 +114,11 @@
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Python](./Python/108.md)|||Easy|
 |109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)|[Python](./Python/109.md)|||Medium|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Python](./Python/110.md)|||Easy|
+|111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Python](./Python/111.md)|||Easy|
+|112|[Path Sum](https://leetcode.com/problems/path-sum/)|[Python](./Python/112.md)|||Easy|
+|113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[Python](./Python/113.md)|||Medium|
+|114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Python](./Python/114.md)|||Medium|
+|115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)|[Python](./Python/115.md)|||Hard|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python](./Python/121.md)|||Easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Python](./Python/122.md)|||Easy|
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|[Python](./Python/123.md)|||Hard|
