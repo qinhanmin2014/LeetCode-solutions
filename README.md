@@ -123,6 +123,7 @@
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Python](./Python/122.md)|||Easy|
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|[Python](./Python/123.md)|||Hard|
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)|[Python](./Python/188.md)|||Hard|
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python](./Python/217.md)|||Easy|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Python](./Python/226.md)|||Easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[Python](./Python/258.md)|||Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Python](./Python/283.md)|||Easy|
