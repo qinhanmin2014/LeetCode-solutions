@@ -119,9 +119,13 @@
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[Python](./Python/113.md)|||Medium|
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Python](./Python/114.md)|||Medium|
 |115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)|[Python](./Python/115.md)|||Hard|
+|116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Python](./Python/116.md)|||Medium|
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Python](./Python/118.md)|||Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python](./Python/121.md)|||Easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Python](./Python/122.md)|||Easy|
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|[Python](./Python/123.md)|||Hard|
+|124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[Python](./Python/124.md)|||Hard|
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Python](./Python/125.md)|||Easy|
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)|[Python](./Python/188.md)|||Hard|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python](./Python/217.md)|||Easy|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Python](./Python/226.md)|||Easy|
