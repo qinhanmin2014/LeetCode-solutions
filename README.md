@@ -82,7 +82,7 @@
 |076|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Python](./Python/076.md)|||Hard|
 |077|[Combinations](https://leetcode.com/problems/combinations/)|[Python](./Python/077.md)|||Medium|
 |078|[Subsets](https://leetcode.com/problems/subsets/)|[Python](./Python/078.md)|||Medium|
-|079|[Word Search](https://leetcode.com/problems/word-search/)|[Python](./Python/079.md)|||Medium|
+|079|[Word Search](https://leetcode.com/problems/word-search/)|[Python](./Python/079.md)|[Java](./Java/079.md)|[C++](./C++/079.md)|Medium|
 |080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Python](./Python/080.md)|||Medium|
 |081|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Python](./Python/081.md)|||Medium|
 |082|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[Python](./Python/082.md)|||Medium|
