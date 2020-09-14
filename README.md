@@ -97,7 +97,7 @@
 |091|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[Python](./Python/091.md)|||Medium|
 |092|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[Python](./Python/092.md)|||Medium|
 |093|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)|[Python](./Python/093.md)|||Medium|
-|094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Python](./Python/094.md)|||Medium|
+|094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Python](./Python/094.md)|[Java](./Java/094.md)|[C++](./C++/094.md)|Medium|
 |095|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[Python](./Python/095.md)|||Medium|
 |096|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[Python](./Python/096.md)|||Medium|
 |097|[Interleaving String](https://leetcode.com/problems/interleaving-string/)|[Python](./Python/097.md)|||Hard|
