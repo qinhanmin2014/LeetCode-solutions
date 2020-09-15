@@ -128,6 +128,7 @@
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Python](./Python/125.md)|||Easy|
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|[Python](./Python/127.md)|||Medium|
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)|[Python](./Python/188.md)|||Hard|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python](./Python/206.md)|||Easy|
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|[Python](./Python/216.md)|||Medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python](./Python/217.md)|||Easy|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Python](./Python/226.md)|||Easy|
