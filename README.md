@@ -190,3 +190,7 @@
 |1593|[Split a String Into the Max Number of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/)|[Python](./Python/1593.md)|||Medium|
 |1594|[Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/)|[Python](./Python/1594.md)|||Medium|
 |1595|[Minimum Cost to Connect Two Groups of Points](https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/)|[Python](./Python/1595.md)|||Hard|
+|1598|[Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)|[Python](./Python/1598.md)|||Easy|
+|1599|[Maximum Profit of Operating a Centennial Wheel](https://leetcode.com/problems/maximum-profit-of-operating-a-centennial-wheel/)|[Python](./Python/1599.md)|||Medium|
+|1600|[Throne Inheritance](https://leetcode.com/problems/throne-inheritance/)|[Python](./Python/1600.md)|||Medium|
+|1601|[Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/)|[Python](./Python/1601.md)|||Hard|
