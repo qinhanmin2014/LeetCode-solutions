@@ -127,6 +127,8 @@
 |124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[Python](./Python/124.md)|||Hard|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Python](./Python/125.md)|||Easy|
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|[Python](./Python/127.md)|||Medium|
+|144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Python](./Python/144.md)|||Medium|
+|145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[Python](./Python/145.md)|||Medium|
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)|[Python](./Python/188.md)|||Hard|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python](./Python/206.md)|||Easy|
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|[Python](./Python/216.md)|||Medium|
