@@ -120,8 +120,10 @@
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Python](./Python/114.md)|||Medium|
 |115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)|[Python](./Python/115.md)|||Hard|
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Python](./Python/116.md)|||Medium|
-|116|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|[Python](./Python/117.md)|||Medium|
+|117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|[Python](./Python/117.md)|||Medium|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Python](./Python/118.md)|||Easy|
+|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Python](./Python/119.md)|||Easy|
+|120|[Triangle](https://leetcode.com/problems/triangle/)|[Python](./Python/120.md)|||Medium|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python](./Python/121.md)|||Easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Python](./Python/122.md)|||Easy|
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|[Python](./Python/123.md)|||Hard|
