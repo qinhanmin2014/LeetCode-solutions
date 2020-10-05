@@ -145,6 +145,7 @@
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|[Python](./Python/213.md)|||Medium|
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|[Python](./Python/216.md)|||Medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python](./Python/217.md)|||Easy|
+|221|[Maximal Square](https://leetcode.com/problems/maximal-square/)|[Python](./Python/221.md)|||Medium|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Python](./Python/226.md)|[Java](./Java/226.md)|[C++](./C++/226.md)|Easy|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[Python](./Python/235.md)|||Easy|
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Python](./Python/236.md)|||Medium|
@@ -198,6 +199,7 @@
 |998|[Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/)|[Python](./Python/998.md)|||Medium|
 |999|[Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/)|[Python](./Python/999.md)|||Easy|
 |1001|[Grid Illumination](https://leetcode.com/problems/grid-illumination/)|[Python](./Python/1001.md)|||Hard|
+|1277|[Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)|[Python](./Python/1277.md)|||Medium|
 |1582|[Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/)|[Python](./Python/1582.md)|||Easy|
 |1583|[Count Unhappy Friends](https://leetcode.com/problems/count-unhappy-friends/)|[Python](./Python/1583.md)|||Medium|
 |1584|[Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)|[Python](./Python/1584.md)|||Medium|
