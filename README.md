@@ -137,10 +137,12 @@
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Python](./Python/141.md)|||Easy|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Python](./Python/144.md)|||Medium|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[Python](./Python/145.md)|||Medium|
+|152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Python](./Python/152.md)|||Medium|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Python](./Python/160.md)|||Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Python](./Python/169.md)|||Easy|
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)|[Python](./Python/188.md)|||Hard|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[Python](./Python/198.md)|||Easy|
+|200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Python](./Python/200.md)|||Medium|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python](./Python/206.md)|||Easy|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|[Python](./Python/213.md)|||Medium|
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|[Python](./Python/216.md)|||Medium|
@@ -152,12 +154,14 @@
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[Python](./Python/258.md)|||Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Python](./Python/283.md)|||Easy|
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)|[Python](./Python/292.md)|||Easy|
+|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Python](./Python/300.md)|||Medium|
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[Python](./Python/315.md)|||Hard|
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|[Python](./Python/337.md)|||Medium|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Python](./Python/344.md)|||Easy|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Python](./Python/349.md)|||Easy|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[Python](./Python/371.md)|||Easy|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Python](./Python/404.md)|||Easy|
+|461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Python](./Python/461.md)|||Easy|
 |501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)|[Python](./Python/501.md)|[Java](./Java/501.md)|[C++](./C++/501.md)|Easy|
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)|[Python](./Python/538.md)|[Java](./Java/538.md)|[C++](./C++/538.md)|Easy|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Python](./Python/617.md)|[Java](./Java/617.md)|[C++](./C++/617.md)|Easy|
@@ -167,6 +171,7 @@
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Python](./Python/701.md)|[Java](./Java/701.md)|[C++](./C++/701.md)|Medium|
 |736|[Parse Lisp Expression](https://leetcode.com/problems/parse-lisp-expression/)|[Python](./Python/736.md)|||Hard|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python](./Python/771.md)|[Java](./Java/771.md)|[C++](./C++/771.md)|Easy|
+|834|[Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/)|[Python](./Python/834.md)|||Hard|
 |961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)|[Python](./Python/961.md)|||Easy|
 |962|[Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/)|[Python](./Python/962.md)|||Medium|
 |963|[Minimum Area Rectangle II](https://leetcode.com/problems/minimum-area-rectangle-ii/)|[Python](./Python/963.md)|||Medium|
