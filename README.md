@@ -157,7 +157,7 @@
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Python](./Python/300.md)|||Medium|
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[Python](./Python/315.md)|||Hard|
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|[Python](./Python/337.md)|||Medium|
-|344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Python](./Python/344.md)|||Easy|
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Python](./Python/344.md)|[Java](./Java/344.md)|[C++](./C++/344.md)|Easy|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Python](./Python/349.md)|||Easy|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[Python](./Python/371.md)|||Easy|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Python](./Python/404.md)|||Easy|
