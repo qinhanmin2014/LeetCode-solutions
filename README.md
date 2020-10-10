@@ -135,6 +135,7 @@
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Python](./Python/136.md)|||Easy|
 |139|[Word Break](https://leetcode.com/problems/word-break/)|[Python](./Python/139.md)|||Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Python](./Python/141.md)|||Easy|
+|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Python](./Python/142.md)|||Medium|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Python](./Python/144.md)|||Medium|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[Python](./Python/145.md)|||Medium|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Python](./Python/152.md)|||Medium|
