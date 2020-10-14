@@ -208,6 +208,7 @@
 |998|[Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/)|[Python](./Python/998.md)|||Medium|
 |999|[Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/)|[Python](./Python/999.md)|||Easy|
 |1001|[Grid Illumination](https://leetcode.com/problems/grid-illumination/)|[Python](./Python/1001.md)|||Hard|
+|1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[Python](./Python/1002.md)|||Easy|
 |1277|[Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)|[Python](./Python/1277.md)|||Medium|
 |1582|[Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/)|[Python](./Python/1582.md)|||Easy|
 |1583|[Count Unhappy Friends](https://leetcode.com/problems/count-unhappy-friends/)|[Python](./Python/1583.md)|||Medium|
