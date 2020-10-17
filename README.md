@@ -132,6 +132,9 @@
 |126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)|[Python](./Python/126.md)|||Hard|
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|[Python](./Python/127.md)|||Medium|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Python](./Python/128.md)|||Hard|
+|129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[Python](./Python/129.md)|||Medium|
+|130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[Python](./Python/130.md)|||Medium|
+|131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Python](./Python/131.md)|||Medium|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Python](./Python/136.md)|||Easy|
 |139|[Word Break](https://leetcode.com/problems/word-break/)|[Python](./Python/139.md)|||Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Python](./Python/141.md)|||Easy|
