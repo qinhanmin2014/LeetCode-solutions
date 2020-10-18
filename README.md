@@ -135,6 +135,7 @@
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[Python](./Python/129.md)|||Medium|
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[Python](./Python/130.md)|||Medium|
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Python](./Python/131.md)|||Medium|
+|132|[Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)|[Python](./Python/132.md)|||Hard|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Python](./Python/136.md)|||Easy|
 |139|[Word Break](https://leetcode.com/problems/word-break/)|[Python](./Python/139.md)|||Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Python](./Python/141.md)|||Easy|
