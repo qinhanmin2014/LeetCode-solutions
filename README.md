@@ -185,6 +185,7 @@
 |834|[Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/)|[Python](./Python/834.md)|||Hard|
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Python](./Python/844.md)|||Easy|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python](./Python/876.md)|||Easy|
+|925|[Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)|[Python](./Python/925.md)|||Easy|
 |961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)|[Python](./Python/961.md)|||Easy|
 |962|[Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/)|[Python](./Python/962.md)|||Medium|
 |963|[Minimum Area Rectangle II](https://leetcode.com/problems/minimum-area-rectangle-ii/)|[Python](./Python/963.md)|||Medium|
