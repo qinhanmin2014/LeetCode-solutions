@@ -182,6 +182,7 @@
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Python](./Python/700.md)|[Java](./Java/700.md)|[C++](./C++/700.md)|Easy|
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Python](./Python/701.md)|[Java](./Java/701.md)|[C++](./C++/701.md)|Medium|
 |736|[Parse Lisp Expression](https://leetcode.com/problems/parse-lisp-expression/)|[Python](./Python/736.md)|||Hard|
+|763|[Partition Labels](https://leetcode.com/problems/partition-labels/)|[Python](./Python/763.md)|||Medium|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python](./Python/771.md)|[Java](./Java/771.md)|[C++](./C++/771.md)|Easy|
 |783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|[Python](./Python/783.md)|||Easy|
 |834|[Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/)|[Python](./Python/834.md)|||Hard|
