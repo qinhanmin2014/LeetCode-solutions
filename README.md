@@ -138,6 +138,7 @@
 |132|[Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)|[Python](./Python/132.md)|||Hard|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Python](./Python/136.md)|||Easy|
 |139|[Word Break](https://leetcode.com/problems/word-break/)|[Python](./Python/139.md)|||Medium|
+|140|[Word Break II](https://leetcode.com/problems/word-break-ii/)|[Python](./Python/140.md)|||Hard|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Python](./Python/141.md)|||Easy|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Python](./Python/142.md)|||Medium|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/)|[Python](./Python/143.md)|||Medium|
@@ -183,6 +184,7 @@
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Python](./Python/617.md)|[Java](./Java/617.md)|[C++](./C++/617.md)|Easy|
 |637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[Python](./Python/637.md)|||Easy|
 |685|[Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/)|[Python](./Python/685.md)|||Hard|
+|695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Python](./Python/695.md)|||Medium|
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Python](./Python/700.md)|[Java](./Java/700.md)|[C++](./C++/700.md)|Easy|
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Python](./Python/701.md)|[Java](./Java/701.md)|[C++](./C++/701.md)|Medium|
 |736|[Parse Lisp Expression](https://leetcode.com/problems/parse-lisp-expression/)|[Python](./Python/736.md)|||Hard|
