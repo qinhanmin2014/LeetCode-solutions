@@ -190,6 +190,7 @@
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Python](./Python/700.md)|[Java](./Java/700.md)|[C++](./C++/700.md)|Easy|
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Python](./Python/701.md)|[Java](./Java/701.md)|[C++](./C++/701.md)|Medium|
 |736|[Parse Lisp Expression](https://leetcode.com/problems/parse-lisp-expression/)|[Python](./Python/736.md)|||Hard|
+|740|[Delete and Earn](https://leetcode.com/problems/delete-and-earn/)|[Python](./Python/740.md)|||Medium|
 |763|[Partition Labels](https://leetcode.com/problems/partition-labels/)|[Python](./Python/763.md)|||Medium|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python](./Python/771.md)|[Java](./Java/771.md)|[C++](./C++/771.md)|Easy|
 |783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|[Python](./Python/783.md)|||Easy|
@@ -197,7 +198,9 @@
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Python](./Python/844.md)|||Easy|
 |845|[Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)|[Python](./Python/845.md)|||Medium|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python](./Python/876.md)|||Easy|
+|918|[Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)|[Python](./Python/918.md)|||Medium|
 |925|[Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)|[Python](./Python/925.md)|||Easy|
+|941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[Python](./Python/941.md)|||Easy|
 |961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)|[Python](./Python/961.md)|||Easy|
 |962|[Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/)|[Python](./Python/962.md)|||Medium|
 |963|[Minimum Area Rectangle II](https://leetcode.com/problems/minimum-area-rectangle-ii/)|[Python](./Python/963.md)|||Medium|
