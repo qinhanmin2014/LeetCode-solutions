@@ -170,6 +170,7 @@
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Python](./Python/240.md)|||Medium|
 |256|[Paint House](https://leetcode.com/problems/paint-house/)|[Python](./Python/256.md)|||Medium|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[Python](./Python/258.md)|||Easy|
+|265|[Paint House II](https://leetcode.com/problems/paint-house-ii/)|[Python](./Python/265.md)|||Hard|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Python](./Python/279.md)|||Medium|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Python](./Python/283.md)|||Easy|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Python](./Python/287.md)|||Medium|
@@ -203,6 +204,7 @@
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Python](./Python/463.md)|||Easy|
 |494|[Target Sum](https://leetcode.com/problems/target-sum/)|[Python](./Python/494.md)|||Medium|
 |501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)|[Python](./Python/501.md)|[Java](./Java/501.md)|[C++](./C++/501.md)|Easy|
+|514|[Freedom Trail](https://leetcode.com/problems/freedom-trail/)|[Python](./Python/514.md)|||Hard|
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[Python](./Python/530.md)|||Easy|
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)|[Python](./Python/538.md)|[Java](./Java/538.md)|[C++](./C++/538.md)|Easy|
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Python](./Python/543.md)|||Easy|
@@ -228,6 +230,7 @@
 |845|[Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)|[Python](./Python/845.md)|||Medium|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python](./Python/876.md)|||Easy|
 |918|[Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)|[Python](./Python/918.md)|||Medium|
+|922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Python](./Python/922.md)|||Easy|
 |925|[Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)|[Python](./Python/925.md)|||Easy|
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[Python](./Python/941.md)|||Easy|
 |961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)|[Python](./Python/961.md)|||Easy|
