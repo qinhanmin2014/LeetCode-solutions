@@ -163,9 +163,12 @@
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python](./Python/217.md)|||Easy|
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/)|[Python](./Python/221.md)|||Medium|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Python](./Python/226.md)|[Java](./Java/226.md)|[C++](./C++/226.md)|Easy|
+|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Python](./Python/230.md)|||Easy|
+|231|[Power of Two](https://leetcode.com/problems/power-of-two/)|[Python](./Python/231.md)|||Easy|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Python](./Python/234.md)|||Easy|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[Python](./Python/235.md)|||Easy|
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Python](./Python/236.md)|||Medium|
+|237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Python](./Python/237.md)|||Easy|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Python](./Python/238.md)|||Medium|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[Python](./Python/239.md)|||Hard|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Python](./Python/240.md)|||Medium|
@@ -197,6 +200,7 @@
 |381|[Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/)|[Python](./Python/381.md)|||Hard|
 |394|[Decode String](https://leetcode.com/problems/decode-string/)|[Python](./Python/394.md)|||Medium|
 |399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[Python](./Python/399.md)|||Medium|
+|402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|[Python](./Python/402.md)|||Medium|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Python](./Python/404.md)|||Easy|
 |406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[Python](./Python/406.md)|||Medium|
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|[Python](./Python/416.md)|||Medium|
@@ -211,6 +215,7 @@
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[Python](./Python/530.md)|||Easy|
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)|[Python](./Python/538.md)|[Java](./Java/538.md)|[C++](./C++/538.md)|Easy|
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Python](./Python/543.md)|||Easy|
+|557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[Python](./Python/557.md)|||Easy|
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Python](./Python/560.md)|||Medium|
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[Python](./Python/581.md)|||Medium|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Python](./Python/617.md)|[Java](./Java/617.md)|[C++](./C++/617.md)|Easy|
