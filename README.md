@@ -149,6 +149,7 @@
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[Python](./Python/146.md)|||Medium|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[Python](./Python/147.md)|||Medium|
 |148|[Sort List](https://leetcode.com/problems/sort-list/)|[Python](./Python/148.md)|||Medium|
+|150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Python](./Python/150.md)|||Medium|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Python](./Python/152.md)|||Medium|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|[Python](./Python/155.md)|||Easy|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Python](./Python/160.md)|||Easy|
@@ -175,6 +176,7 @@
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Python](./Python/238.md)|||Medium|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[Python](./Python/239.md)|||Hard|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Python](./Python/240.md)|||Medium|
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Python](./Python/242.md)|||Easy|
 |253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[Python](./Python/253.md)|||Medium|
 |256|[Paint House](https://leetcode.com/problems/paint-house/)|[Python](./Python/256.md)|||Medium|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[Python](./Python/258.md)|||Easy|
@@ -297,3 +299,5 @@
 |1599|[Maximum Profit of Operating a Centennial Wheel](https://leetcode.com/problems/maximum-profit-of-operating-a-centennial-wheel/)|[Python](./Python/1599.md)|||Medium|
 |1600|[Throne Inheritance](https://leetcode.com/problems/throne-inheritance/)|[Python](./Python/1600.md)|||Medium|
 |1601|[Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/)|[Python](./Python/1601.md)|||Hard|
+|1608|[Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)|[Python](./Python/1608.md)|||Easy|
+|1609|[Even Odd Tree](https://leetcode.com/problems/even-odd-tree/)|[Python](./Python/1609.md)|||Medium|
