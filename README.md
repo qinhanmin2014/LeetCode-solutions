@@ -153,6 +153,7 @@
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Python](./Python/152.md)|||Medium|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|[Python](./Python/155.md)|||Easy|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Python](./Python/160.md)|||Easy|
+|164|[Maximum Gap](https://leetcode-cn.com/problems/maximum-gap/)|[Python](./Python/164.md)|||Hard|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Python](./Python/169.md)|||Easy|
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/)|[Python](./Python/174.md)|||Hard|
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)|[Python](./Python/188.md)|||Hard|
@@ -214,8 +215,10 @@
 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Python](./Python/438.md)|||Medium|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Python](./Python/448.md)|||Easy|
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)|[Python](./Python/452.md)|||Medium|
+|454|[4Sum II](https://leetcode-cn.com/problems/4sum-ii/)|[Python](./Python/454.md)|||Medium|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Python](./Python/461.md)|||Easy|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Python](./Python/463.md)|||Easy|
+|493|[Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)|[Python](./Python/493.md)|||Hard|
 |494|[Target Sum](https://leetcode.com/problems/target-sum/)|[Python](./Python/494.md)|||Medium|
 |501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)|[Python](./Python/501.md)|[Java](./Java/501.md)|[C++](./C++/501.md)|Easy|
 |514|[Freedom Trail](https://leetcode.com/problems/freedom-trail/)|[Python](./Python/514.md)|||Hard|
@@ -290,6 +293,7 @@
 |1356|[Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)|[Python](./Python/1356.md)|||Easy|
 |1365|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[Python](./Python/1365.md)|||Easy|
 |1370|[Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/)|[Python](./Python/1370.md)|||Easy|
+|1388|[Pizza With 3n Slices](https://leetcode.com/problems/pizza-with-3n-slices/)|[Python](./Python/1388.md)|||Hard|
 |1582|[Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/)|[Python](./Python/1582.md)|||Easy|
 |1583|[Count Unhappy Friends](https://leetcode.com/problems/count-unhappy-friends/)|[Python](./Python/1583.md)|||Medium|
 |1584|[Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)|[Python](./Python/1584.md)|||Medium|
