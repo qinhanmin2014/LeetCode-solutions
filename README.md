@@ -251,6 +251,7 @@
 |834|[Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/)|[Python](./Python/834.md)|||Hard|
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Python](./Python/844.md)|||Easy|
 |845|[Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)|[Python](./Python/845.md)|||Medium|
+|861|[Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/)|[Python](./Python/861.md)|||Medium|
 |873|[Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/)|[Python](./Python/873.md)|||Medium|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python](./Python/876.md)|||Easy|
 |918|[Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)|[Python](./Python/918.md)|||Medium|
