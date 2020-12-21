@@ -251,6 +251,7 @@
 |738|[Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/)|[Python](./Python/738.md)|||Medium|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Python](./Python/739.md)|||Medium|
 |740|[Delete and Earn](https://leetcode.com/problems/delete-and-earn/)|[Python](./Python/740.md)|||Medium|
+|746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Python](./Python/746.md)|||Easy|
 |763|[Partition Labels](https://leetcode.com/problems/partition-labels/)|[Python](./Python/763.md)|||Medium|
 |767|[Reorganize String](https://leetcode.com/problems/reorganize-string/)|[Python](./Python/767.md)|||Medium|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python](./Python/771.md)|[Java](./Java/771.md)|[C++](./C++/771.md)|Easy|
