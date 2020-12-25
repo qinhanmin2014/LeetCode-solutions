@@ -211,6 +211,7 @@
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)|[Python](./Python/376.md)|||Medium|
 |380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[Python](./Python/380.md)|||Medium|
 |381|[Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/)|[Python](./Python/381.md)|||Hard|
+|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Python](./Python/387.md)|||Easy|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[Python](./Python/389.md)|||Easy|
 |394|[Decode String](https://leetcode.com/problems/decode-string/)|[Python](./Python/394.md)|||Medium|
 |399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[Python](./Python/399.md)|||Medium|
@@ -223,6 +224,7 @@
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Python](./Python/448.md)|||Easy|
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)|[Python](./Python/452.md)|||Medium|
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/)|[Python](./Python/454.md)|||Medium|
+|455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/)|[Python](./Python/455.md)|||Easy|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Python](./Python/461.md)|||Easy|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Python](./Python/463.md)|||Easy|
 |493|[Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)|[Python](./Python/493.md)|||Hard|
