@@ -160,6 +160,7 @@
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[Python](./Python/198.md)|||Easy|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Python](./Python/200.md)|||Medium|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)|[Python](./Python/204.md)|||Easy|
+|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Python](./Python/205.md)|||Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python](./Python/206.md)|||Easy|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[Python](./Python/207.md)|||Medium|
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Python](./Python/208.md)|||Medium|
