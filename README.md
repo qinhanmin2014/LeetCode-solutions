@@ -201,6 +201,7 @@
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)|[Python](./Python/322.md)|||Medium|
 |327|[Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/)|[Python](./Python/327.md)|||Hard|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Python](./Python/328.md)|||Medium|
+|330|[Patching Array](https://leetcode.com/problems/patching-array/)|[Python](./Python/330.md)|||Hard|
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|[Python](./Python/337.md)|||Medium|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[Python](./Python/338.md)|||Medium|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Python](./Python/344.md)|[Java](./Java/344.md)|[C++](./C++/344.md)|Easy|
