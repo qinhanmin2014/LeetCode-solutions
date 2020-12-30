@@ -309,6 +309,7 @@
 |1024|[Video Stitching](https://leetcode.com/problems/video-stitching/)|[Python](./Python/1024.md)|||Medium|
 |1027|[Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/)|[Python](./Python/1027.md)|||Medium|
 |1030|[Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/)|[Python](./Python/1030.md)|||Easy|
+|1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[Python](./Python/1046.md)|||Easy|
 |1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)|[Python](./Python/1122.md)|||Easy|
 |1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[Python](./Python/1207.md)|||Easy|
 |1277|[Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)|[Python](./Python/1277.md)|||Medium|
