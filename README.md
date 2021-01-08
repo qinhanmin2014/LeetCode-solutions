@@ -157,6 +157,7 @@
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Python](./Python/169.md)|||Easy|
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/)|[Python](./Python/174.md)|||Hard|
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)|[Python](./Python/188.md)|||Hard|
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Python](./Python/189.md)|||Easy|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[Python](./Python/198.md)|||Easy|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Python](./Python/200.md)|||Medium|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)|[Python](./Python/204.md)|||Easy|
