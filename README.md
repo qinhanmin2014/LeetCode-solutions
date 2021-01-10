@@ -172,6 +172,7 @@
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/)|[Python](./Python/221.md)|||Medium|
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[Python](./Python/222.md)|||Medium|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Python](./Python/226.md)|[Java](./Java/226.md)|[C++](./C++/226.md)|Easy|
+|228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[Python](./Python/228.md)|||Easy|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Python](./Python/230.md)|||Easy|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)|[Python](./Python/231.md)|||Easy|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Python](./Python/234.md)|||Easy|
