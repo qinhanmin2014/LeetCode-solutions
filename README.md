@@ -267,6 +267,7 @@
 |767|[Reorganize String](https://leetcode.com/problems/reorganize-string/)|[Python](./Python/767.md)|||Medium|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python](./Python/771.md)|[Java](./Java/771.md)|[C++](./C++/771.md)|Easy|
 |783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|[Python](./Python/783.md)|||Easy|
+|803|[Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit/)|[Python](./Python/803.md)|||Hard|
 |830|[Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)|[Python](./Python/830.md)|||Easy|
 |834|[Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/)|[Python](./Python/834.md)|||Hard|
 |842|[Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence/)|[Python](./Python/842.md)|||Medium|
@@ -281,6 +282,7 @@
 |925|[Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)|[Python](./Python/925.md)|||Easy|
 |931|[Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)|[Python](./Python/931.md)|||Medium|
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[Python](./Python/941.md)|||Easy|
+|947|[Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)|[Python](./Python/947.md)|||Medium|
 |961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)|[Python](./Python/961.md)|||Easy|
 |962|[Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/)|[Python](./Python/962.md)|||Medium|
 |963|[Minimum Area Rectangle II](https://leetcode.com/problems/minimum-area-rectangle-ii/)|[Python](./Python/963.md)|||Medium|
