@@ -325,6 +325,7 @@
 |1202|[Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/)|[Python](./Python/1202.md)|||Medium|
 |1203|[Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/)|[Python](./Python/1203.md)|||Hard|
 |1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[Python](./Python/1207.md)|||Easy|
+|1232|[Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)|[Python](./Python/1232.md)|||Easy|
 |1277|[Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)|[Python](./Python/1277.md)|||Medium|
 |1356|[Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)|[Python](./Python/1356.md)|||Easy|
 |1365|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[Python](./Python/1365.md)|||Easy|
