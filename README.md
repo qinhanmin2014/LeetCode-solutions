@@ -225,6 +225,7 @@
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Python](./Python/404.md)|||Easy|
 |406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[Python](./Python/406.md)|||Medium|
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|[Python](./Python/416.md)|||Medium|
+|424|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[Python](./Python/424.md)|||Medium|
 |435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)|[Python](./Python/435.md)|||Medium|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[Python](./Python/437.md)|||Medium|
 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Python](./Python/438.md)|||Medium|
@@ -234,6 +235,7 @@
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/)|[Python](./Python/455.md)|||Easy|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Python](./Python/461.md)|||Easy|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Python](./Python/463.md)|||Easy|
+|480|[Sliding Window Median](https://leetcode.com/problems/sliding-window-median/)|[Python](./Python/480.md)|||Hard|
 |493|[Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)|[Python](./Python/493.md)|||Hard|
 |494|[Target Sum](https://leetcode.com/problems/target-sum/)|[Python](./Python/494.md)|||Medium|
 |501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)|[Python](./Python/501.md)|[Java](./Java/501.md)|[C++](./C++/501.md)|Easy|
@@ -251,6 +253,7 @@
 |621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/)|[Python](./Python/621.md)|||Medium|
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|[Python](./Python/628.md)|||Easy|
 |637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[Python](./Python/637.md)|||Easy|
+|643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)|[Python](./Python/643.md)|||Easy|
 |647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[Python](./Python/647.md)|||Medium|
 |649|[Dota2 Senate](https://leetcode.com/problems/dota2-senate/)|[Python](./Python/649.md)|||Medium|
 |659|[Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)|[Python](./Python/659.md)|||Medium|
@@ -326,6 +329,7 @@
 |999|[Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/)|[Python](./Python/999.md)|||Easy|
 |1001|[Grid Illumination](https://leetcode.com/problems/grid-illumination/)|[Python](./Python/1001.md)|||Hard|
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[Python](./Python/1002.md)|||Easy|
+|1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)|[Python](./Python/1004.md)|||Medium|
 |1018|[Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/)|[Python](./Python/1018.md)|||Easy|
 |1024|[Video Stitching](https://leetcode.com/problems/video-stitching/)|[Python](./Python/1024.md)|||Medium|
 |1027|[Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/)|[Python](./Python/1027.md)|||Medium|
