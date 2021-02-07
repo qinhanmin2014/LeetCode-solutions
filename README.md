@@ -258,6 +258,7 @@
 |647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[Python](./Python/647.md)|||Medium|
 |649|[Dota2 Senate](https://leetcode.com/problems/dota2-senate/)|[Python](./Python/649.md)|||Medium|
 |659|[Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)|[Python](./Python/659.md)|||Medium|
+|665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)|[Python](./Python/665.md)|||Easy|
 |673|[Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)|[Python](./Python/673.md)|||Medium|
 |684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/)|[Python](./Python/684.md)|||Medium|
 |685|[Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/)|[Python](./Python/685.md)|||Hard|
