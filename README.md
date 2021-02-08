@@ -158,6 +158,7 @@
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/)|[Python](./Python/174.md)|||Hard|
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)|[Python](./Python/188.md)|||Hard|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Python](./Python/189.md)|||Easy|
+|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Python](./Python/191.md)|||Easy|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[Python](./Python/198.md)|||Easy|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Python](./Python/200.md)|||Medium|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)|[Python](./Python/204.md)|||Easy|
@@ -189,6 +190,8 @@
 |256|[Paint House](https://leetcode.com/problems/paint-house/)|[Python](./Python/256.md)|||Medium|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[Python](./Python/258.md)|||Easy|
 |265|[Paint House II](https://leetcode.com/problems/paint-house-ii/)|[Python](./Python/265.md)|||Hard|
+|268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Python](./Python/268.md)|||Easy|
+|278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Python](./Python/278.md)|||Easy|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Python](./Python/279.md)|||Medium|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Python](./Python/283.md)|||Easy|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Python](./Python/287.md)|||Medium|
@@ -203,6 +206,7 @@
 |316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)|[Python](./Python/316.md)|||Medium|
 |321|[Create Maximum Number](https://leetcode.com/problems/create-maximum-number/)|[Python](./Python/321.md)|||Hard|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)|[Python](./Python/322.md)|||Medium|
+|326|[Power of Three](https://leetcode.com/problems/power-of-three/)|[Python](./Python/326.md)|||Medium|
 |327|[Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/)|[Python](./Python/327.md)|||Hard|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Python](./Python/328.md)|||Medium|
 |330|[Patching Array](https://leetcode.com/problems/patching-array/)|[Python](./Python/330.md)|||Hard|
@@ -218,6 +222,7 @@
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)|[Python](./Python/376.md)|||Medium|
 |380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[Python](./Python/380.md)|||Medium|
 |381|[Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/)|[Python](./Python/381.md)|||Hard|
+|384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|[Python](./Python/384.md)|||Medium|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Python](./Python/387.md)|||Easy|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[Python](./Python/389.md)|||Easy|
 |394|[Decode String](https://leetcode.com/problems/decode-string/)|[Python](./Python/394.md)|||Medium|
