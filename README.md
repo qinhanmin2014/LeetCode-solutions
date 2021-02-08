@@ -158,6 +158,7 @@
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/)|[Python](./Python/174.md)|||Hard|
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)|[Python](./Python/188.md)|||Hard|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Python](./Python/189.md)|||Easy|
+|190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[Python](./Python/190.md)|||Easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Python](./Python/191.md)|||Easy|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[Python](./Python/198.md)|||Easy|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Python](./Python/200.md)|||Medium|
@@ -230,6 +231,7 @@
 |402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|[Python](./Python/402.md)|||Medium|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Python](./Python/404.md)|||Easy|
 |406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[Python](./Python/406.md)|||Medium|
+|412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Python](./Python/412.md)|||Easy|
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|[Python](./Python/416.md)|||Medium|
 |424|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[Python](./Python/424.md)|||Medium|
 |435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)|[Python](./Python/435.md)|||Medium|
