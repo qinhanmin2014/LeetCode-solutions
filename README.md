@@ -175,8 +175,10 @@
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|[Python](./Python/216.md)|||Medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python](./Python/217.md)|||Easy|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[Python](./Python/219.md)|||Easy|
+|220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|[Python](./Python/220.md)|||Medium|
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/)|[Python](./Python/221.md)|||Medium|
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[Python](./Python/222.md)|||Medium|
+|224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[Python](./Python/224.md)|||Hard|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Python](./Python/226.md)|[Java](./Java/226.md)|[C++](./C++/226.md)|Easy|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[Python](./Python/228.md)|||Easy|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Python](./Python/230.md)|||Easy|
@@ -240,6 +242,7 @@
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[Python](./Python/437.md)|||Medium|
 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Python](./Python/438.md)|||Medium|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Python](./Python/448.md)|||Easy|
+|450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[Python](./Python/450.md)|||Medium|
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)|[Python](./Python/452.md)|||Medium|
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/)|[Python](./Python/454.md)|||Medium|
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/)|[Python](./Python/455.md)|||Easy|
