@@ -155,6 +155,7 @@
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Python](./Python/160.md)|||Easy|
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/)|[Python](./Python/164.md)|||Hard|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Python](./Python/169.md)|||Easy|
+|173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[Python](./Python/173.md)|||Medium|
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/)|[Python](./Python/174.md)|||Hard|
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)|[Python](./Python/188.md)|||Hard|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Python](./Python/189.md)|||Easy|
@@ -173,6 +174,7 @@
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Python](./Python/215.md)|||Medium|
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|[Python](./Python/216.md)|||Medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python](./Python/217.md)|||Easy|
+|219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[Python](./Python/219.md)|||Easy|
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/)|[Python](./Python/221.md)|||Medium|
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[Python](./Python/222.md)|||Medium|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Python](./Python/226.md)|[Java](./Java/226.md)|[C++](./C++/226.md)|Easy|
@@ -255,6 +257,7 @@
 |547|[Number of Provinces](https://leetcode.com/problems/number-of-provinces/)|[Python](./Python/547.md)|||Medium|
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[Python](./Python/557.md)|||Easy|
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Python](./Python/560.md)|||Medium|
+|567|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[Python](./Python/581.md)|||Medium|
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[Python](./Python/581.md)|||Medium|
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[Python](./Python/605.md)|||Easy|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Python](./Python/617.md)|[Java](./Java/617.md)|[C++](./C++/617.md)|Easy|
@@ -272,6 +275,7 @@
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Python](./Python/695.md)|||Medium|
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Python](./Python/700.md)|[Java](./Java/700.md)|[C++](./C++/700.md)|Easy|
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Python](./Python/701.md)|[Java](./Java/701.md)|[C++](./C++/701.md)|Medium|
+|703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Python](./Python/703.md)|||Easy|
 |714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|[Python](./Python/714.md)|||Medium|
 |721|[Accounts Merge](https://leetcode.com/problems/accounts-merge/)|[Python](./Python/721.md)|||Medium|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Python](./Python/724.md)|||Easy|
@@ -333,6 +337,7 @@
 |987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[Python](./Python/987.md)|||Medium|
 |988|[Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/)|[Python](./Python/988.md)|||Medium|
 |989|[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)|[Python](./Python/989.md)|||Easy|
+|992|[Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)|[Python](./Python/992.md)|||Hard|
 |997|[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)|[Python](./Python/997.md)|||Easy|
 |998|[Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/)|[Python](./Python/998.md)|||Medium|
 |999|[Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/)|[Python](./Python/999.md)|||Easy|
