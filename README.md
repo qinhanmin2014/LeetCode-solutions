@@ -250,6 +250,7 @@
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Python](./Python/461.md)|||Easy|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Python](./Python/463.md)|||Easy|
 |480|[Sliding Window Median](https://leetcode.com/problems/sliding-window-median/)|[Python](./Python/480.md)|||Hard|
+|485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Python](./Python/485.md)|||Easy|
 |493|[Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)|[Python](./Python/493.md)|||Hard|
 |494|[Target Sum](https://leetcode.com/problems/target-sum/)|[Python](./Python/494.md)|||Medium|
 |501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)|[Python](./Python/501.md)|[Java](./Java/501.md)|[C++](./C++/501.md)|Easy|
@@ -261,6 +262,7 @@
 |547|[Number of Provinces](https://leetcode.com/problems/number-of-provinces/)|[Python](./Python/547.md)|||Medium|
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[Python](./Python/557.md)|||Easy|
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Python](./Python/560.md)|||Medium|
+|561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[Python](./Python/561.md)|||Easy|
 |567|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[Python](./Python/581.md)|||Medium|
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[Python](./Python/581.md)|||Medium|
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[Python](./Python/605.md)|||Easy|
@@ -289,6 +291,7 @@
 |740|[Delete and Earn](https://leetcode.com/problems/delete-and-earn/)|[Python](./Python/740.md)|||Medium|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Python](./Python/746.md)|||Easy|
 |763|[Partition Labels](https://leetcode.com/problems/partition-labels/)|[Python](./Python/763.md)|||Medium|
+|765|[Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/)|[Python](./Python/765.md)|||Hard|
 |767|[Reorganize String](https://leetcode.com/problems/reorganize-string/)|[Python](./Python/767.md)|||Medium|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python](./Python/771.md)|[Java](./Java/771.md)|[C++](./C++/771.md)|Easy|
 |778|[Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/)|[Python](./Python/778.md)|||Hard|
