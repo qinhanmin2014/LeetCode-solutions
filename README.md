@@ -345,6 +345,7 @@
 |987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[Python](./Python/987.md)|||Medium|
 |988|[Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/)|[Python](./Python/988.md)|||Medium|
 |989|[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)|[Python](./Python/989.md)|||Easy|
+|995|[Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/)|[Python](./Python/995.md)|||Hard|
 |992|[Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)|[Python](./Python/992.md)|||Hard|
 |997|[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)|[Python](./Python/997.md)|||Easy|
 |998|[Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/)|[Python](./Python/998.md)|||Medium|
