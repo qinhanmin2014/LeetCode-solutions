@@ -278,6 +278,7 @@
 |659|[Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)|[Python](./Python/659.md)|||Medium|
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)|[Python](./Python/665.md)|||Easy|
 |673|[Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)|[Python](./Python/673.md)|||Medium|
+|674|[Longest Continuous Increasing Subsequence](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/)|[Python](./Python/674.md)|||Easy|
 |684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/)|[Python](./Python/684.md)|||Medium|
 |685|[Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/)|[Python](./Python/685.md)|||Hard|
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Python](./Python/695.md)|||Medium|
