@@ -239,6 +239,7 @@
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Python](./Python/412.md)|||Easy|
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|[Python](./Python/416.md)|||Medium|
 |424|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[Python](./Python/424.md)|||Medium|
+|426|[Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/)|[Python](./Python/426.md)|||Medium|
 |435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)|[Python](./Python/435.md)|||Medium|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[Python](./Python/437.md)|||Medium|
 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Python](./Python/438.md)|||Medium|
@@ -299,6 +300,7 @@
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python](./Python/771.md)|[Java](./Java/771.md)|[C++](./C++/771.md)|Easy|
 |778|[Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/)|[Python](./Python/778.md)|||Hard|
 |783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|[Python](./Python/783.md)|||Easy|
+|785|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|[Python](./Python/785.md)|||Medium|
 |803|[Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit/)|[Python](./Python/803.md)|||Hard|
 |830|[Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)|[Python](./Python/830.md)|||Easy|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Python](./Python/830.md)|||Easy|
@@ -309,6 +311,7 @@
 |845|[Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)|[Python](./Python/845.md)|||Medium|
 |860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/)|[Python](./Python/860.md)|||Easy|
 |861|[Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/)|[Python](./Python/861.md)|||Medium|
+|867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[Python](./Python/867.md)|||Easy|
 |873|[Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/)|[Python](./Python/873.md)|||Medium|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python](./Python/876.md)|||Easy|
 |888|[Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)|[Python](./Python/888.md)|||Easy|
