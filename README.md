@@ -252,6 +252,7 @@
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/)|[Python](./Python/455.md)|||Easy|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Python](./Python/461.md)|||Easy|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Python](./Python/463.md)|||Easy|
+|474|[Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)|[Python](./Python/474.md)|[Java](./Java/474.md)|[C++](./C++/474.md)|Medium|
 |480|[Sliding Window Median](https://leetcode.com/problems/sliding-window-median/)|[Python](./Python/480.md)|||Hard|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Python](./Python/485.md)|||Easy|
 |493|[Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)|[Python](./Python/493.md)|||Hard|
