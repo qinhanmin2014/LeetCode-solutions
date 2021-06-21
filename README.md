@@ -235,6 +235,7 @@
 |394|[Decode String](https://leetcode.com/problems/decode-string/)|[Python](./Python/394.md)|||Medium|
 |395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[Python](./Python/395.md)|||Medium|
 |399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[Python](./Python/399.md)|||Medium|
+|401|[Binary Watch](https://leetcode.com/problems/binary-watch/)|[Python](./Python/401.md)|[Java](./Java/401.md)|[C++](./C++/401.md)|Easy|
 |402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|[Python](./Python/402.md)|||Medium|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Python](./Python/404.md)|||Easy|
 |406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[Python](./Python/406.md)|||Medium|
@@ -282,7 +283,7 @@
 |664|[Strange Printer](https://leetcode.com/problems/strange-printer/)|[Python](./Python/664.md)|||Hard|
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)|[Python](./Python/665.md)|||Easy|
 |673|[Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)|[Python](./Python/673.md)|||Medium|
-|674|[Longest Continuous Increasing Subsequence](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/)|[Python](./Python/674.md)|||Easy|
+|674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|[Python](./Python/674.md)|||Easy|
 |684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/)|[Python](./Python/684.md)|||Medium|
 |685|[Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/)|[Python](./Python/685.md)|||Hard|
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Python](./Python/695.md)|||Medium|
