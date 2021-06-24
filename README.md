@@ -139,6 +139,7 @@
 |134|[Gas Station](https://leetcode.com/problems/gas-station/)|[Python](./Python/134.md)|||Medium|
 |135|[Candy](https://leetcode.com/problems/candy/)|[Python](./Python/135.md)|||Hard|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Python](./Python/136.md)|||Easy|
+|137|[Single Number II](https://leetcode.com/problems/single-number-ii/)|[Python](./Python/137.md)|||Medium|
 |139|[Word Break](https://leetcode.com/problems/word-break/)|[Python](./Python/139.md)|||Medium|
 |140|[Word Break II](https://leetcode.com/problems/word-break-ii/)|[Python](./Python/140.md)|||Hard|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Python](./Python/141.md)|||Easy|
@@ -149,6 +150,7 @@
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[Python](./Python/146.md)|||Medium|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[Python](./Python/147.md)|||Medium|
 |148|[Sort List](https://leetcode.com/problems/sort-list/)|[Python](./Python/148.md)|||Medium|
+|149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)|[Python](./Python/149.md)|||Hard|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Python](./Python/150.md)|||Medium|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Python](./Python/152.md)|||Medium|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|[Python](./Python/155.md)|||Easy|
