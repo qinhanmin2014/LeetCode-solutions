@@ -301,6 +301,7 @@
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Python](./Python/739.md)|||Medium|
 |740|[Delete and Earn](https://leetcode.com/problems/delete-and-earn/)|[Python](./Python/740.md)|||Medium|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Python](./Python/746.md)|||Easy|
+|752|[Open the Lock](https://leetcode.com/problems/open-the-lock/)|[Python](./Python/752.md)|[Java](./Java/752.md)|[C++](./C++/752.md)|Medium|
 |763|[Partition Labels](https://leetcode.com/problems/partition-labels/)|[Python](./Python/763.md)|||Medium|
 |766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)|[Python](./Python/766.md)|||Easy|
 |765|[Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/)|[Python](./Python/765.md)|||Hard|
