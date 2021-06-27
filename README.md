@@ -307,6 +307,7 @@
 |765|[Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/)|[Python](./Python/765.md)|||Hard|
 |767|[Reorganize String](https://leetcode.com/problems/reorganize-string/)|[Python](./Python/767.md)|||Medium|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python](./Python/771.md)|[Java](./Java/771.md)|[C++](./C++/771.md)|Easy|
+|773|[Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/)|[Python](./Python/773.md)|[Java](./Java/773.md)|[C++](./C++/773.md)|Hard|
 |778|[Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/)|[Python](./Python/778.md)|||Hard|
 |783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|[Python](./Python/783.md)|||Easy|
 |785|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|[Python](./Python/785.md)|||Medium|
