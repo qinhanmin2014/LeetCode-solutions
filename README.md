@@ -298,6 +298,7 @@
 |703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Python](./Python/703.md)|||Easy|
 |714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|[Python](./Python/714.md)|||Medium|
 |721|[Accounts Merge](https://leetcode.com/problems/accounts-merge/)|[Python](./Python/721.md)|||Medium|
+|726|[Number of Atoms](https://leetcode.com/problems/number-of-atoms/)|[Python](./Python/726.md)|||Hard|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Python](./Python/724.md)|||Easy|
 |736|[Parse Lisp Expression](https://leetcode.com/problems/parse-lisp-expression/)|[Python](./Python/736.md)|||Hard|
 |738|[Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/)|[Python](./Python/738.md)|||Medium|
