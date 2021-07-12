@@ -203,7 +203,8 @@
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[Python](./Python/258.md)|||Easy|
 |265|[Paint House II](https://leetcode.com/problems/paint-house-ii/)|[Python](./Python/265.md)|||Hard|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Python](./Python/268.md)|||Easy|
-|274|[H-Index](https://leetcode.com/problems/h-index/)|[Python](./Python/274.md)|[Java](./Java/274.md)|[C++](./C++/274.md)|Hard|
+|274|[H-Index](https://leetcode.com/problems/h-index/)|[Python](./Python/274.md)|[Java](./Java/274.md)|[C++](./C++/274.md)|Medium|
+|275|[H-Index II](https://leetcode.com/problems/h-index-ii/)|[Python](./Python/275.md)|[Java](./Java/275.md)|[C++](./C++/275.md)|Medium|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Python](./Python/278.md)|||Easy|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Python](./Python/279.md)|||Medium|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Python](./Python/283.md)|||Easy|
