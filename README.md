@@ -154,9 +154,12 @@
 |148|[Sort List](https://leetcode.com/problems/sort-list/)|[Python](./Python/148.md)|||Medium|
 |149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)|[Python](./Python/149.md)|||Hard|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Python](./Python/150.md)|||Medium|
+|151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Python](./Python/151.md)|||Medium|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Python](./Python/152.md)|||Medium|
+|153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Python](./Python/153.md)|||Medium|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|[Python](./Python/155.md)|||Easy|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Python](./Python/160.md)|||Easy|
+|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Python](./Python/162.md)|||Medium|
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/)|[Python](./Python/164.md)|||Hard|
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[Python](./Python/165.md)|||Medium|
 |166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)|[Python](./Python/166.md)|||Medium|
