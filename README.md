@@ -316,6 +316,7 @@
 |738|[Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/)|[Python](./Python/738.md)|||Medium|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Python](./Python/739.md)|||Medium|
 |740|[Delete and Earn](https://leetcode.com/problems/delete-and-earn/)|[Python](./Python/740.md)|||Medium|
+|743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/)|[Python](./Python/743.md)|||Medium|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Python](./Python/746.md)|||Easy|
 |752|[Open the Lock](https://leetcode.com/problems/open-the-lock/)|[Python](./Python/752.md)|[Java](./Java/752.md)|[C++](./C++/752.md)|Medium|
 |763|[Partition Labels](https://leetcode.com/problems/partition-labels/)|[Python](./Python/763.md)|||Medium|
