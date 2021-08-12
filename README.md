@@ -224,6 +224,7 @@
 |301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)|[Python](./Python/301.md)|||Hard|
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[Python](./Python/309.md)|||Medium|
 |312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/)|[Python](./Python/312.md)|||Hard|
+|313|[Super Ugly Number](https://leetcode.com/problems/super-ugly-number/)|[Python](./Python/313.md)|||Medium|
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[Python](./Python/315.md)|||Hard|
 |316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)|[Python](./Python/316.md)|||Medium|
 |321|[Create Maximum Number](https://leetcode.com/problems/create-maximum-number/)|[Python](./Python/321.md)|||Hard|
