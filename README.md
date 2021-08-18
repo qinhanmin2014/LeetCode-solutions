@@ -289,6 +289,7 @@
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Python](./Python/543.md)|||Easy|
 |547|[Number of Provinces](https://leetcode.com/problems/number-of-provinces/)|[Python](./Python/547.md)|||Medium|
 |551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)|[Python](./Python/551.md)|||Easy|
+|552|[Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/)|[Python](./Python/552.md)|||Hard|
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[Python](./Python/557.md)|||Easy|
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Python](./Python/560.md)|||Medium|
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[Python](./Python/561.md)|||Easy|
