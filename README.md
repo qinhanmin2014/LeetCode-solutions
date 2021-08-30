@@ -287,6 +287,7 @@
 |514|[Freedom Trail](https://leetcode.com/problems/freedom-trail/)|[Python](./Python/514.md)|||Hard|
 |516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)|[Python](./Python/516.md)|||Medium|
 |526|[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/)|[Python](./Python/526.md)|||Medium|
+|528|[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)|[Python](./Python/528.md)|||Medium|
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[Python](./Python/530.md)|||Easy|
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)|[Python](./Python/538.md)|[Java](./Java/538.md)|[C++](./C++/538.md)|Easy|
 |541|[Reverse String II](https://leetcode.com/problems/reverse-string-ii/)|[Python](./Python/541.md)|||Easy|
