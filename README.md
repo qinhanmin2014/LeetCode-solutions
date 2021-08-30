@@ -249,11 +249,13 @@
 |363|[Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)|[Python](./Python/363.md)|||Hard|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[Python](./Python/371.md)|||Easy|
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)|[Python](./Python/376.md)|||Medium|
+|377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|[Python](./Python/377.md)|||Medium|
 |380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[Python](./Python/380.md)|||Medium|
 |381|[Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/)|[Python](./Python/381.md)|||Hard|
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|[Python](./Python/384.md)|||Medium|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Python](./Python/387.md)|||Easy|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[Python](./Python/389.md)|||Easy|
+|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Python](./Python/392.md)|||Easy|
 |394|[Decode String](https://leetcode.com/problems/decode-string/)|[Python](./Python/394.md)|||Medium|
 |395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[Python](./Python/395.md)|||Medium|
 |399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[Python](./Python/399.md)|||Medium|
