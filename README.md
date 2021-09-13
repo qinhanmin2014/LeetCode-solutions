@@ -273,6 +273,7 @@
 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Python](./Python/438.md)|||Medium|
 |443|[String Compression](https://leetcode.com/problems/string-compression/)|[Python](./Python/443.md)|||Medium|
 |446|[Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/)|[Python](./Python/446.md)|||Hard|
+|447|[Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/)|[Python](./Python/447.md)|||Medium|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Python](./Python/448.md)|||Easy|
 |450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[Python](./Python/450.md)|||Medium|
 |451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[Python](./Python/451.md)|[Java](./Java/451.md)|[C++](./C++/451.md)|Easy|
