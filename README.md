@@ -290,6 +290,7 @@
 |493|[Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)|[Python](./Python/493.md)|||Hard|
 |494|[Target Sum](https://leetcode.com/problems/target-sum/)|[Python](./Python/494.md)|||Medium|
 |501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)|[Python](./Python/501.md)|[Java](./Java/501.md)|[C++](./C++/501.md)|Easy|
+|502|[IPO](https://leetcode.com/problems/ipo/)|[Python](./Python/502.md)|||Hard|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python](./Python/509.md)|||Easy|
 |514|[Freedom Trail](https://leetcode.com/problems/freedom-trail/)|[Python](./Python/514.md)|||Hard|
 |516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)|[Python](./Python/516.md)|||Medium|
