@@ -294,6 +294,7 @@
 |514|[Freedom Trail](https://leetcode.com/problems/freedom-trail/)|[Python](./Python/514.md)|||Hard|
 |516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)|[Python](./Python/516.md)|||Medium|
 |518|[Coin Change 2](https://leetcode.com/problems/coin-change-2/)|[Python](./Python/518.md)|||Medium|
+|524|[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)|[Python](./Python/524.md)|||Medium|
 |526|[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/)|[Python](./Python/526.md)|||Medium|
 |528|[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)|[Python](./Python/528.md)|||Medium|
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[Python](./Python/530.md)|||Easy|
