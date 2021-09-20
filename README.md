@@ -320,6 +320,7 @@
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[Python](./Python/645.md)|[Java](./Java/645.md)|[C++](./C++/645.md)|Easy|
 |647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[Python](./Python/647.md)|||Medium|
 |649|[Dota2 Senate](https://leetcode.com/problems/dota2-senate/)|[Python](./Python/649.md)|||Medium|
+|650|[2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/)|[Python](./Python/650.md)|||Medium|
 |659|[Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)|[Python](./Python/659.md)|||Medium|
 |664|[Strange Printer](https://leetcode.com/problems/strange-printer/)|[Python](./Python/664.md)|||Hard|
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)|[Python](./Python/665.md)|||Easy|
