@@ -340,8 +340,9 @@
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[Python](./Python/704.md)|||Easy|
 |714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|[Python](./Python/714.md)|||Medium|
 |721|[Accounts Merge](https://leetcode.com/problems/accounts-merge/)|[Python](./Python/721.md)|||Medium|
-|726|[Number of Atoms](https://leetcode.com/problems/number-of-atoms/)|[Python](./Python/726.md)|[Java](./Java/726.md)|[C++](./C++/726.md)|Hard|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Python](./Python/724.md)|||Easy|
+|725|[Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/)|[Python](./Python/725.md)|||Medium|
+|726|[Number of Atoms](https://leetcode.com/problems/number-of-atoms/)|[Python](./Python/726.md)|[Java](./Java/726.md)|[C++](./C++/726.md)|Hard|
 |736|[Parse Lisp Expression](https://leetcode.com/problems/parse-lisp-expression/)|[Python](./Python/736.md)|||Hard|
 |738|[Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/)|[Python](./Python/738.md)|||Medium|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Python](./Python/739.md)|||Medium|
