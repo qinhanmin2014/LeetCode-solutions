@@ -312,6 +312,7 @@
 |567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/)|[Python](./Python/567.md)|||Medium|
 |576|[Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/)|[Python](./Python/576.md)|||Medium|
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[Python](./Python/581.md)|||Medium|
+|583|[Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)|[Python](./Python/583.md)|||Medium|
 |600|[Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/)|[Python](./Python/600.md)|||Hard|
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[Python](./Python/605.md)|||Easy|
 |611|[Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)|[Python](./Python/611.md)|||Medium|
