@@ -192,6 +192,7 @@
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|[Python](./Python/220.md)|||Medium|
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/)|[Python](./Python/221.md)|||Medium|
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[Python](./Python/222.md)|||Medium|
+|223|[Rectangle Area](https://leetcode.com/problems/rectangle-area/)|[Python](./Python/223.md)|||Medium|
 |224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[Python](./Python/224.md)|||Hard|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Python](./Python/226.md)|[Java](./Java/226.md)|[C++](./C++/226.md)|Easy|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[Python](./Python/228.md)|||Easy|
