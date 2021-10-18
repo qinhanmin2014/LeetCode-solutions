@@ -295,6 +295,7 @@
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Python](./Python/463.md)|||Easy|
 |470|[Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/)|[Python](./Python/470.md)|||Medium|
 |474|[Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)|[Python](./Python/474.md)|[Java](./Java/474.md)|[C++](./C++/474.md)|Medium|
+|476|[Number Complement](https://leetcode.com/problems/number-complement/)|[Python](./Python/476.md)|||Easy|
 |480|[Sliding Window Median](https://leetcode.com/problems/sliding-window-median/)|[Python](./Python/480.md)|||Hard|
 |482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/)|[Python](./Python/482.md)|||Easy|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Python](./Python/485.md)|||Easy|
@@ -442,6 +443,7 @@
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[Python](./Python/1002.md)|||Easy|
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)|[Python](./Python/1004.md)|||Medium|
 |1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[Python](./Python/1008.md)|||Medium|
+|1009|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)|[Python](./Python/1009.md)|||Easy|
 |1014|[Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/)|[Python](./Python/1014.md)|||Medium|
 |1018|[Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/)|[Python](./Python/1018.md)|||Easy|
 |1024|[Video Stitching](https://leetcode.com/problems/video-stitching/)|[Python](./Python/1024.md)|||Medium|
