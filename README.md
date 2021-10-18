@@ -220,6 +220,7 @@
 |275|[H-Index II](https://leetcode.com/problems/h-index-ii/)|[Python](./Python/275.md)|[Java](./Java/275.md)|[C++](./C++/275.md)|Medium|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Python](./Python/278.md)|||Easy|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Python](./Python/279.md)|||Medium|
+|282|[Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)|[Python](./Python/282.md)|||Hard|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Python](./Python/283.md)|||Easy|
 |284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|[Python](./Python/284.md)|||Medium|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Python](./Python/287.md)|||Medium|
