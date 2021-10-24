@@ -197,6 +197,7 @@
 |224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[Python](./Python/224.md)|||Hard|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Python](./Python/226.md)|[Java](./Java/226.md)|[C++](./C++/226.md)|Easy|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[Python](./Python/228.md)|||Easy|
+|229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/)|[Python](./Python/229.md)|||Medium|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Python](./Python/230.md)|||Easy|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)|[Python](./Python/231.md)|||Easy|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Python](./Python/232.md)|||Easy|
@@ -301,6 +302,7 @@
 |480|[Sliding Window Median](https://leetcode.com/problems/sliding-window-median/)|[Python](./Python/480.md)|||Hard|
 |482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/)|[Python](./Python/482.md)|||Easy|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Python](./Python/485.md)|||Easy|
+|492|[Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)|[Python](./Python/492.md)|||Easy|
 |493|[Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)|[Python](./Python/493.md)|||Hard|
 |494|[Target Sum](https://leetcode.com/problems/target-sum/)|[Python](./Python/494.md)|||Medium|
 |501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)|[Python](./Python/501.md)|[Java](./Java/501.md)|[C++](./C++/501.md)|Easy|
@@ -335,6 +337,7 @@
 |621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/)|[Python](./Python/621.md)|||Medium|
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|[Python](./Python/628.md)|||Easy|
 |637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[Python](./Python/637.md)|||Easy|
+|638|[Shopping Offers](https://leetcode.com/problems/shopping-offers/)|[Python](./Python/638.md)|||Medium|
 |639|[Decode Ways II](https://leetcode.com/problems/decode-ways-ii/)|[Python](./Python/639.md)|||Hard|
 |643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)|[Python](./Python/643.md)|||Easy|
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[Python](./Python/645.md)|[Java](./Java/645.md)|[C++](./C++/645.md)|Easy|
