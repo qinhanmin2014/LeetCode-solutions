@@ -396,6 +396,7 @@
 |860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/)|[Python](./Python/860.md)|||Easy|
 |861|[Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/)|[Python](./Python/861.md)|||Medium|
 |867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[Python](./Python/867.md)|||Easy|
+|869|[Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/)|[Python](./Python/869.md)|||Medium|
 |873|[Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/)|[Python](./Python/873.md)|||Medium|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python](./Python/876.md)|||Easy|
 |881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[Python](./Python/881.md)|||Medium|
