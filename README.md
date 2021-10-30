@@ -244,6 +244,7 @@
 |327|[Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/)|[Python](./Python/327.md)|||Hard|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Python](./Python/328.md)|||Medium|
 |330|[Patching Array](https://leetcode.com/problems/patching-array/)|[Python](./Python/330.md)|||Hard|
+|335|[Self Crossing](https://leetcode.com/problems/self-crossing/)|[Python](./Python/335.md)|||Hard|
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|[Python](./Python/337.md)|||Medium|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[Python](./Python/338.md)|||Medium|
 |343|[Integer Break](https://leetcode.com/problems/integer-break/)|[Python](./Python/343.md)|||Medium|
