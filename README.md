@@ -213,6 +213,7 @@
 |253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[Python](./Python/253.md)|||Medium|
 |256|[Paint House](https://leetcode.com/problems/paint-house/)|[Python](./Python/256.md)|||Medium|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[Python](./Python/258.md)|||Easy|
+|260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|[Python](./Python/260.md)|||Medium|
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|[Python](./Python/264.md)|||Medium|
 |265|[Paint House II](https://leetcode.com/problems/paint-house-ii/)|[Python](./Python/265.md)|||Hard|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Python](./Python/268.md)|||Easy|
