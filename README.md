@@ -331,6 +331,7 @@
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[Python](./Python/561.md)|||Easy|
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|[Python](./Python/566.md)|||Easy|
 |567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/)|[Python](./Python/567.md)|||Medium|
+|575|[Distribute Candies](https://leetcode.com/problems/distribute-candies/)|[Python](./Python/575.md)|||Easy|
 |576|[Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/)|[Python](./Python/576.md)|||Medium|
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[Python](./Python/581.md)|||Medium|
 |583|[Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)|[Python](./Python/583.md)|||Medium|
