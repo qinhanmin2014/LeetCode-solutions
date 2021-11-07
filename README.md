@@ -256,6 +256,7 @@
 |352|[Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)|[Python](./Python/352.md)|||Hard|
 |354|[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|[Python](./Python/354.md)|||Hard|
 |363|[Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)|[Python](./Python/363.md)|||Hard|
+|367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[Python](./Python/367.md)|||Easy|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[Python](./Python/371.md)|||Easy|
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)|[Python](./Python/376.md)|||Medium|
 |377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|[Python](./Python/377.md)|||Medium|
@@ -273,6 +274,7 @@
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Python](./Python/404.md)|||Easy|
 |405|[Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/)|[Python](./Python/405.md)|||Easy|
 |406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[Python](./Python/406.md)|||Medium|
+|407|[Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/)|[Python](./Python/407.md)|||Hard|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Python](./Python/412.md)|||Easy|
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)|[Python](./Python/413.md)|||Medium|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[Python](./Python/414.md)|||Easy|
@@ -335,6 +337,7 @@
 |576|[Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/)|[Python](./Python/576.md)|||Medium|
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[Python](./Python/581.md)|||Medium|
 |583|[Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)|[Python](./Python/583.md)|||Medium|
+|598|[Range Addition II](https://leetcode.com/problems/range-addition-ii/)|[Python](./Python/598.md)|||Easy|
 |600|[Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/)|[Python](./Python/600.md)|||Hard|
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[Python](./Python/605.md)|||Easy|
 |611|[Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)|[Python](./Python/611.md)|||Medium|
@@ -472,6 +475,7 @@
 |1203|[Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/)|[Python](./Python/1203.md)|||Hard|
 |1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[Python](./Python/1207.md)|||Easy|
 |1208|[Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/)|[Python](./Python/1208.md)|||Medium|
+|1218|[Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/)|[Python](./Python/1218.md)|||Medium|
 |1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[Python](./Python/1221.md)|||Easy|
 |1232|[Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)|[Python](./Python/1232.md)|||Easy|
 |1239|[Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)|[Python](./Python/1239.md)|[Java](./Java/1239.md)|[C++](./C++/1239.md)|Medium|
