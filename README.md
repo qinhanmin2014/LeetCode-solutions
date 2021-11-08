@@ -230,6 +230,7 @@
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)|[Python](./Python/292.md)|||Easy|
 |295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[Python](./Python/295.md)|||Hard|
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[Python](./Python/297.md)|[Java](./Java/297.md)|[C++](./C++/297.md)|Hard|
+|299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[Python](./Python/299.md)|||Medium|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Python](./Python/300.md)|||Medium|
 |301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)|[Python](./Python/301.md)|||Hard|
 |304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[Python](./Python/304.md)|||Medium|
