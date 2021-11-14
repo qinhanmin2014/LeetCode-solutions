@@ -259,6 +259,7 @@
 |363|[Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)|[Python](./Python/363.md)|||Hard|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[Python](./Python/367.md)|||Easy|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[Python](./Python/371.md)|||Easy|
+|375|[Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)|[Python](./Python/375.md)|||Medium|
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)|[Python](./Python/376.md)|||Medium|
 |377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|[Python](./Python/377.md)|||Medium|
 |380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[Python](./Python/380.md)|||Medium|
@@ -311,6 +312,7 @@
 |492|[Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)|[Python](./Python/492.md)|||Easy|
 |493|[Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)|[Python](./Python/493.md)|||Hard|
 |494|[Target Sum](https://leetcode.com/problems/target-sum/)|[Python](./Python/494.md)|||Medium|
+|495|[Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)|[Python](./Python/495.md)|||Easy|
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[Python](./Python/496.md)|||Easy|
 |500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/)|[Python](./Python/500.md)|||Easy|
 |501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)|[Python](./Python/501.md)|[Java](./Java/501.md)|[C++](./C++/501.md)|Easy|
@@ -320,6 +322,7 @@
 |516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)|[Python](./Python/516.md)|||Medium|
 |517|[Super Washing Machines](https://leetcode.com/problems/super-washing-machines/)|[Python](./Python/517.md)|||Medium|
 |518|[Coin Change 2](https://leetcode.com/problems/coin-change-2/)|[Python](./Python/518.md)|||Medium|
+|520|[Detect Capital](https://leetcode.com/problems/detect-capital/)|[Python](./Python/520.md)|||Easy|
 |524|[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)|[Python](./Python/524.md)|||Medium|
 |526|[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/)|[Python](./Python/526.md)|||Medium|
 |528|[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)|[Python](./Python/528.md)|||Medium|
@@ -346,6 +349,7 @@
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Python](./Python/617.md)|[Java](./Java/617.md)|[C++](./C++/617.md)|Easy|
 |621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/)|[Python](./Python/621.md)|||Medium|
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|[Python](./Python/628.md)|||Easy|
+|629|[K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/)|[Python](./Python/629.md)|||Hard|
 |637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[Python](./Python/637.md)|||Easy|
 |638|[Shopping Offers](https://leetcode.com/problems/shopping-offers/)|[Python](./Python/638.md)|||Medium|
 |639|[Decode Ways II](https://leetcode.com/problems/decode-ways-ii/)|[Python](./Python/639.md)|||Hard|
@@ -359,6 +363,7 @@
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)|[Python](./Python/665.md)|||Easy|
 |673|[Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)|[Python](./Python/673.md)|||Medium|
 |674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|[Python](./Python/674.md)|||Easy|
+|677|[Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/)|[Python](./Python/677.md)|||Medium|
 |678|[Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)|[Python](./Python/678.md)|||Medium|
 |684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/)|[Python](./Python/684.md)|||Medium|
 |685|[Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/)|[Python](./Python/685.md)|||Hard|
