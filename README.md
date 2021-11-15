@@ -239,6 +239,7 @@
 |313|[Super Ugly Number](https://leetcode.com/problems/super-ugly-number/)|[Python](./Python/313.md)|||Medium|
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[Python](./Python/315.md)|||Hard|
 |316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)|[Python](./Python/316.md)|||Medium|
+|319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)|[Python](./Python/319.md)|||Easy|
 |321|[Create Maximum Number](https://leetcode.com/problems/create-maximum-number/)|[Python](./Python/321.md)|||Hard|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)|[Python](./Python/322.md)|||Medium|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/)|[Python](./Python/326.md)|||Medium|
