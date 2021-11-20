@@ -239,6 +239,7 @@
 |313|[Super Ugly Number](https://leetcode.com/problems/super-ugly-number/)|[Python](./Python/313.md)|||Medium|
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[Python](./Python/315.md)|||Hard|
 |316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)|[Python](./Python/316.md)|||Medium|
+|318|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)|[Python](./Python/318.md)|||Medium|
 |319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)|[Python](./Python/319.md)|||Easy|
 |321|[Create Maximum Number](https://leetcode.com/problems/create-maximum-number/)|[Python](./Python/321.md)|||Hard|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)|[Python](./Python/322.md)|||Medium|
@@ -268,9 +269,11 @@
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|[Python](./Python/384.md)|||Medium|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Python](./Python/387.md)|||Easy|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[Python](./Python/389.md)|||Easy|
+|391|[Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/)|[Python](./Python/391.md)|||Hard|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Python](./Python/392.md)|||Easy|
 |394|[Decode String](https://leetcode.com/problems/decode-string/)|[Python](./Python/394.md)|||Medium|
 |395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[Python](./Python/395.md)|||Medium|
+|397|[Integer Replacement](https://leetcode.com/problems/integer-replacement/)|[Python](./Python/397.md)|||Medium|
 |399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[Python](./Python/399.md)|||Medium|
 |401|[Binary Watch](https://leetcode.com/problems/binary-watch/)|[Python](./Python/401.md)|[Java](./Java/401.md)|[C++](./C++/401.md)|Easy|
 |402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|[Python](./Python/402.md)|||Medium|
@@ -337,12 +340,14 @@
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[Python](./Python/557.md)|||Easy|
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Python](./Python/560.md)|||Medium|
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[Python](./Python/561.md)|||Easy|
+|563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)|[Python](./Python/563.md)|||Easy|
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|[Python](./Python/566.md)|||Easy|
 |567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/)|[Python](./Python/567.md)|||Medium|
 |575|[Distribute Candies](https://leetcode.com/problems/distribute-candies/)|[Python](./Python/575.md)|||Easy|
 |576|[Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/)|[Python](./Python/576.md)|||Medium|
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[Python](./Python/581.md)|||Medium|
 |583|[Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)|[Python](./Python/583.md)|||Medium|
+|594|[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)|[Python](./Python/594.md)|||Easy|
 |598|[Range Addition II](https://leetcode.com/problems/range-addition-ii/)|[Python](./Python/598.md)|||Easy|
 |600|[Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/)|[Python](./Python/600.md)|||Hard|
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[Python](./Python/605.md)|||Easy|
