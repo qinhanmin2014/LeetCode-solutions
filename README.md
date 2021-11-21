@@ -338,6 +338,7 @@
 |551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)|[Python](./Python/551.md)|||Easy|
 |552|[Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/)|[Python](./Python/552.md)|||Hard|
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[Python](./Python/557.md)|||Easy|
+|559|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[Python](./Python/559.md)|||Easy|
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Python](./Python/560.md)|||Medium|
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[Python](./Python/561.md)|||Easy|
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)|[Python](./Python/563.md)|||Easy|
