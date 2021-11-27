@@ -305,6 +305,7 @@
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/)|[Python](./Python/454.md)|||Medium|
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/)|[Python](./Python/455.md)|||Easy|
 |457|[Circular Array Loop](https://leetcode.com/problems/circular-array-loop/)|[Python](./Python/457.md)|||Medium|
+|458|[Poor Pigs](https://leetcode.com/problems/poor-pigs/)|[Python](./Python/458.md)|||Hard|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Python](./Python/461.md)|||Easy|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Python](./Python/463.md)|||Easy|
 |470|[Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/)|[Python](./Python/470.md)|||Medium|
