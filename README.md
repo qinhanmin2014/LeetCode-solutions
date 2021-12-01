@@ -275,6 +275,7 @@
 |395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[Python](./Python/395.md)|||Medium|
 |397|[Integer Replacement](https://leetcode.com/problems/integer-replacement/)|[Python](./Python/397.md)|||Medium|
 |399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[Python](./Python/399.md)|||Medium|
+|400|[Nth Digit](https://leetcode.com/problems/nth-digit/)|[Python](./Python/400.md)|||Medium|
 |401|[Binary Watch](https://leetcode.com/problems/binary-watch/)|[Python](./Python/401.md)|[Java](./Java/401.md)|[C++](./C++/401.md)|Easy|
 |402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|[Python](./Python/402.md)|||Medium|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Python](./Python/404.md)|||Easy|
@@ -510,6 +511,7 @@
 |1423|[Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)|[Python](./Python/1423.md)|||Medium|
 |1436|[Destination City](https://leetcode.com/problems/destination-city/)|[Python](./Python/1436.md)|||Easy|
 |1438|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)|[Python](./Python/1438.md)|||Medium|
+|1446|[Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)|[Python](./Python/1446.md)|||Easy|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Python](./Python/1480.md)|||Easy|
 |1489|[Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/)|[Python](./Python/1489.md)|||Hard|
 |1534|[Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)|[Python](./Python/1534.md)|||Easy|
