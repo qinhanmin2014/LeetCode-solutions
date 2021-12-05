@@ -261,6 +261,7 @@
 |363|[Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)|[Python](./Python/363.md)|||Hard|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[Python](./Python/367.md)|||Easy|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[Python](./Python/371.md)|||Easy|
+|372|[Super Pow](https://leetcode.com/problems/super-pow/)|[Python](./Python/372.md)|||Medium|
 |375|[Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)|[Python](./Python/375.md)|||Medium|
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)|[Python](./Python/376.md)|||Medium|
 |377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|[Python](./Python/377.md)|||Medium|
