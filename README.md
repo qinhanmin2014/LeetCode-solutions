@@ -388,6 +388,7 @@
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Python](./Python/701.md)|[Java](./Java/701.md)|[C++](./C++/701.md)|Medium|
 |703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Python](./Python/703.md)|||Easy|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[Python](./Python/704.md)|||Easy|
+|709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Python](./Python/709.md)|||Easy|
 |714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|[Python](./Python/714.md)|||Medium|
 |721|[Accounts Merge](https://leetcode.com/problems/accounts-merge/)|[Python](./Python/721.md)|||Medium|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Python](./Python/724.md)|||Easy|
