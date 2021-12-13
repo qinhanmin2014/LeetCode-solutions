@@ -418,6 +418,7 @@
 |797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)|[Python](./Python/797.md)|||Medium|
 |802|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)|[Python](./Python/802.md)|||Medium|
 |803|[Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit/)|[Python](./Python/803.md)|||Hard|
+|807|[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|[Python](./Python/807.md)|||Medium|
 |815|[Bus Routes](https://leetcode.com/problems/bus-routes/)|[Python](./Python/815.md)|[Java](./Java/815.md)|[C++](./C++/815.md)|Hard|
 |830|[Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)|[Python](./Python/830.md)|||Easy|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Python](./Python/830.md)|||Easy|
