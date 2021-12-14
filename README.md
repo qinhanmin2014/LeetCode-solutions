@@ -364,6 +364,7 @@
 |621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/)|[Python](./Python/621.md)|||Medium|
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|[Python](./Python/628.md)|||Easy|
 |629|[K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/)|[Python](./Python/629.md)|||Hard|
+|630|[Course Schedule III](https://leetcode.com/problems/course-schedule-iii/)|[Python](./Python/630.md)|||Hard|
 |637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[Python](./Python/637.md)|||Easy|
 |638|[Shopping Offers](https://leetcode.com/problems/shopping-offers/)|[Python](./Python/638.md)|||Medium|
 |639|[Decode Ways II](https://leetcode.com/problems/decode-ways-ii/)|[Python](./Python/639.md)|||Hard|
