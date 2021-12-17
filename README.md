@@ -429,6 +429,7 @@
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Python](./Python/844.md)|||Easy|
 |845|[Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)|[Python](./Python/845.md)|||Medium|
 |847|[Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)|[Python](./Python/847.md)|||Hard|
+|851|[Loud and Rich](https://leetcode.com/problems/loud-and-rich/)|[Python](./Python/851.md)|||Medium|
 |859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/)|[Python](./Python/859.md)|||Easy|
 |860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/)|[Python](./Python/860.md)|||Easy|
 |861|[Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/)|[Python](./Python/861.md)|||Medium|
@@ -526,6 +527,7 @@
 |1446|[Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)|[Python](./Python/1446.md)|||Easy|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Python](./Python/1480.md)|||Easy|
 |1489|[Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/)|[Python](./Python/1489.md)|||Hard|
+|1518|[Water Bottles](https://leetcode.com/problems/water-bottles/)|[Python](./Python/1518.md)|||Easy|
 |1534|[Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)|[Python](./Python/1534.md)|||Easy|
 |1535|[Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/)|[Python](./Python/1535.md)|||Medium|
 |1536|[Minimum Swaps to Arrange a Binary Grid](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/)|[Python](./Python/1536.md)|||Medium|
@@ -547,6 +549,7 @@
 |1601|[Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/)|[Python](./Python/1601.md)|||Hard|
 |1608|[Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)|[Python](./Python/1608.md)|||Easy|
 |1609|[Even Odd Tree](https://leetcode.com/problems/even-odd-tree/)|[Python](./Python/1609.md)|||Medium|
+|1610|[Maximum Number of Visible Points](https://leetcode.com/problems/maximum-number-of-visible-points/)|[Python](./Python/1610.md)|||Hard|
 |1631|[Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)|[Python](./Python/1631.md)|||Medium|
 |1646|[Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/)|[Python](./Python/1646.md)|||Easy|
 |1711|[Count Good Meals](https://leetcode.com/problems/count-good-meals/)|[Python](./Python/1711.md)|[Java](./Java/1711.md)|[C++](./C++/1711.md)|Medium|
