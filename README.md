@@ -559,3 +559,7 @@
 |1846|[Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/)|[Python](./Python/1846.md)|||Medium|
 |1894|[Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/)|[Python](./Python/1894.md)|||Medium|
 |2016|[Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/)|[Python](./Python/2016.md)|||Easy|
+|2103|[Rings and Rods](https://leetcode.com/problems/rings-and-rods/)|[Python](./Python/2103.md)|||Easy|
+|2104|[Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges/)|[Python](./Python/2104.md)|||Medium|
+|2105|[Watering Plants II](https://leetcode.com/problems/watering-plants-ii/)|[Python](./Python/2015.md)|||Medium|
+|2106|[Maximum Fruits Harvested After at Most K Steps](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/)|[Python](./Python/2106.md)|||Hard|
