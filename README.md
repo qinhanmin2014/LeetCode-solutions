@@ -572,3 +572,7 @@
 |2104|[Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges/)|[Python](./Python/2104.md)|||Medium|
 |2105|[Watering Plants II](https://leetcode.com/problems/watering-plants-ii/)|[Python](./Python/2105.md)|||Medium|
 |2106|[Maximum Fruits Harvested After at Most K Steps](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/)|[Python](./Python/2106.md)|||Hard|
+|2108|[Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/)|[Python](./Python/2108.md)|||Easy|
+|2109|[Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/)|[Python](./Python/2109.md)|||Medium|
+|2110|[Number of Smooth Descent Periods of a Stock](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/)|[Python](./Python/2110.md)|||Medium|
+|2111|[Minimum Operations to Make the Array K-Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-k-increasing/)|[Python](./Python/2111.md)|||Hard|
