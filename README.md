@@ -505,6 +505,7 @@
 |1128|[Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/)|[Python](./Python/1128.md)|||Easy|
 |1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[Python](./Python/1137.md)|||Easy|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[Python](./Python/1143.md)|||Medium|
+|1154|[Day of the Year](https://leetcode.com/problems/day-of-the-year/)|[Python](./Python/1154.md)|||Easy|
 |1178|[Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/)|[Python](./Python/1178.md)|||Hard|
 |1202|[Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/)|[Python](./Python/1202.md)|||Medium|
 |1203|[Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/)|[Python](./Python/1203.md)|||Hard|
