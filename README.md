@@ -384,6 +384,7 @@
 |678|[Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)|[Python](./Python/678.md)|||Medium|
 |684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/)|[Python](./Python/684.md)|||Medium|
 |685|[Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/)|[Python](./Python/685.md)|||Hard|
+|686|[Repeated String Match](https://leetcode.com/problems/repeated-string-match/)|[Python](./Python/686.md)|||Medium|
 |689|[Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/)|[Python](./Python/689.md)|||Hard|
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Python](./Python/695.md)|||Medium|
 |697|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/)|[Python](./Python/697.md)|||Easy|
