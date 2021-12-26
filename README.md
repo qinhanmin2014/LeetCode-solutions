@@ -499,6 +499,7 @@
 |1027|[Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/)|[Python](./Python/1027.md)|||Medium|
 |1030|[Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/)|[Python](./Python/1030.md)|||Easy|
 |1034|[Coloring A Border](https://leetcode.com/problems/coloring-a-border/)|[Python](./Python/1034.md)|||Medium|
+|1044|[Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/)|[Python](./Python/1044.md)|||Hard|
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[Python](./Python/1046.md)|||Easy|
 |1052|[Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/)|[Python](./Python/1052.md)|||Medium|
 |1078|[Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/)|[Python](./Python/1078.md)|||Easy|
