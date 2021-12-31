@@ -331,6 +331,7 @@
 |501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)|[Python](./Python/501.md)|[Java](./Java/501.md)|[C++](./C++/501.md)|Easy|
 |502|[IPO](https://leetcode.com/problems/ipo/)|[Python](./Python/502.md)|||Hard|
 |506|[Relative Ranks](https://leetcode.com/problems/relative-ranks/)|[Python](./Python/506.md)|||Easy|
+|507|[Perfect Number](https://leetcode.com/problems/perfect-number/)|[Python](./Python/507.md)|||Easy|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python](./Python/509.md)|||Easy|
 |514|[Freedom Trail](https://leetcode.com/problems/freedom-trail/)|[Python](./Python/514.md)|||Hard|
 |516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)|[Python](./Python/516.md)|||Medium|
