@@ -272,6 +272,7 @@
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|[Python](./Python/384.md)|||Medium|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Python](./Python/387.md)|||Easy|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[Python](./Python/389.md)|||Easy|
+|390|[Elimination Game](https://leetcode.com/problems/elimination-game/)|[Python](./Python/390.md)|||Medium|
 |391|[Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/)|[Python](./Python/391.md)|||Hard|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Python](./Python/392.md)|||Easy|
 |394|[Decode String](https://leetcode.com/problems/decode-string/)|[Python](./Python/394.md)|||Medium|
