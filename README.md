@@ -451,6 +451,7 @@
 |896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[Python](./Python/896.md)|||Easy|
 |909|[Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)|[Python](./Python/909.md)|[Java](./Java/909.md)|[C++](./C++/909.md)|Medium|
 |911|[Online Election](https://leetcode.com/problems/online-election/)|[Python](./Python/911.md)|||Medium|
+|913|[Cat and Mouse](https://leetcode.com/problems/cat-and-mouse/)|[Python](./Python/913.md)|||Hard|
 |918|[Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)|[Python](./Python/918.md)|||Medium|
 |922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Python](./Python/922.md)|||Easy|
 |925|[Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)|[Python](./Python/925.md)|||Easy|
@@ -546,6 +547,7 @@
 |1536|[Minimum Swaps to Arrange a Binary Grid](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/)|[Python](./Python/1536.md)|||Medium|
 |1537|[Get the Maximum Score](https://leetcode.com/problems/get-the-maximum-score/)|[Python](./Python/1537.md)|||Hard|
 |1567|[Maximum Length of Subarray With Positive Product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/)|[Python](./Python/1567.md)|||Medium|
+|1576|[Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/)|[Python](./Python/1576.md)|||Easy|
 |1579|[Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/)|[Python](./Python/1579.md)|||Hard|
 |1582|[Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/)|[Python](./Python/1582.md)|||Easy|
 |1583|[Count Unhappy Friends](https://leetcode.com/problems/count-unhappy-friends/)|[Python](./Python/1583.md)|||Medium|
@@ -563,6 +565,10 @@
 |1608|[Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)|[Python](./Python/1608.md)|||Easy|
 |1609|[Even Odd Tree](https://leetcode.com/problems/even-odd-tree/)|[Python](./Python/1609.md)|||Medium|
 |1610|[Maximum Number of Visible Points](https://leetcode.com/problems/maximum-number-of-visible-points/)|[Python](./Python/1610.md)|||Hard|
+|1614|[Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)|[Python](./Python/1614.md)|||Easy|
+|1615|[Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/)|[Python](./Python/1615.md)|||Medium|
+|1616|[Split Two Strings to Make Palindrome](https://leetcode.com/problems/split-two-strings-to-make-palindrome/)|[Python](./Python/1616.md)|||Medium|
+|1617|[Count Subtrees With Max Distance Between Cities](https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/)|[Python](./Python/1617.md)|||Hard|
 |1631|[Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)|[Python](./Python/1631.md)|||Medium|
 |1646|[Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/)|[Python](./Python/1646.md)|||Easy|
 |1705|[Maximum Number of Eaten Apples](https://leetcode.com/problems/maximum-number-of-eaten-apples/)|[Python](./Python/1705.md)|||Medium|
