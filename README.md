@@ -573,6 +573,7 @@
 |1629|[Slowest Key](https://leetcode.com/problems/slowest-key/)|[Python](./Python/1629.md)|||Easy|
 |1630|[Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/)|[Python](./Python/1630.md)|||Medium|
 |1631|[Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)|[Python](./Python/1631.md)|||Medium|
+|1632|[Rank Transform of a Matrix](https://leetcode.com/problems/rank-transform-of-a-matrix/)|[Python](./Python/1632.md)|||Hard|
 |1646|[Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/)|[Python](./Python/1646.md)|||Easy|
 |1705|[Maximum Number of Eaten Apples](https://leetcode.com/problems/maximum-number-of-eaten-apples/)|[Python](./Python/1705.md)|||Medium|
 |1711|[Count Good Meals](https://leetcode.com/problems/count-good-meals/)|[Python](./Python/1711.md)|[Java](./Java/1711.md)|[C++](./C++/1711.md)|Medium|
