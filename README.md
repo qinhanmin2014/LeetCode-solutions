@@ -349,6 +349,7 @@
 |528|[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)|[Python](./Python/528.md)|||Medium|
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[Python](./Python/530.md)|||Easy|
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)|[Python](./Python/538.md)|[Java](./Java/538.md)|[C++](./C++/538.md)|Easy|
+|539|[Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)|[Python](./Python/539.md)|||Medium|
 |541|[Reverse String II](https://leetcode.com/problems/reverse-string-ii/)|[Python](./Python/541.md)|||Easy|
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Python](./Python/543.md)|||Easy|
 |547|[Number of Provinces](https://leetcode.com/problems/number-of-provinces/)|[Python](./Python/547.md)|||Medium|
@@ -598,6 +599,9 @@
 |1995|[Count Special Quadruplets](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/)|[Python](./Python/1894.md)|||Medium|
 |2016|[Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/)|[Python](./Python/2016.md)|||Easy|
 |2022|[Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/)|[Python](./Python/2022.md)|||Easy|
+|2027|[Minimum Moves to Convert String](https://leetcode.com/problems/minimum-moves-to-convert-string/)|[Python](./Python/2022.md)|||Easy|
+|2028|[Find Missing Observations](https://leetcode.com/problems/find-missing-observations/)|[Python](./Python/2027.md)|||Medium|
+|2029|[Stone Game IX](https://leetcode.com/problems/stone-game-ix/)|[Python](./Python/2027.md)|||Medium|
 |2094|[Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/)|[Python](./Python/2094.md)|||Easy|
 |2095|[Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)|[Python](./Python/2095.md)|||Medium|
 |2096|[Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/)|[Python](./Python/2096.md)|||Medium|
