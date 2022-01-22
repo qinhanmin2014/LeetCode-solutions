@@ -545,6 +545,7 @@
 |1333|[Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/)|[Python](./Python/1333.md)|||Medium|
 |1334|[Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)|[Python](./Python/1334.md)|||Medium|
 |1337|[The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)|[Python](./Python/1337.md)|||Easy|
+|1345|[Jump Game IV](https://leetcode.com/problems/jump-game-iv/)|[Python](./Python/1345.md)|||Hard|
 |1356|[Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)|[Python](./Python/1356.md)|||Easy|
 |1365|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[Python](./Python/1365.md)|||Easy|
 |1370|[Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/)|[Python](./Python/1370.md)|||Easy|
