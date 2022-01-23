@@ -606,6 +606,9 @@
 |2027|[Minimum Moves to Convert String](https://leetcode.com/problems/minimum-moves-to-convert-string/)|[Python](./Python/2022.md)|||Easy|
 |2028|[Find Missing Observations](https://leetcode.com/problems/find-missing-observations/)|[Python](./Python/2027.md)|||Medium|
 |2029|[Stone Game IX](https://leetcode.com/problems/stone-game-ix/)|[Python](./Python/2027.md)|||Medium|
+|2032|[Two Out of Three](https://leetcode.com/problems/two-out-of-three/)|[Python](./Python/2022.md)|||Easy|
+|2033|[Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/)|[Python](./Python/2023.md)|||Medium|
+|2034|[Stock Price Fluctuation](https://leetcode.com/problems/stock-price-fluctuation/)|[Python](./Python/2024.md)|||Medium|
 |2094|[Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/)|[Python](./Python/2094.md)|||Easy|
 |2095|[Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)|[Python](./Python/2095.md)|||Medium|
 |2096|[Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/)|[Python](./Python/2096.md)|||Medium|
