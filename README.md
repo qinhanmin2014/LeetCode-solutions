@@ -616,6 +616,9 @@
 |2033|[Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/)|[Python](./Python/2023.md)|||Medium|
 |2034|[Stock Price Fluctuation](https://leetcode.com/problems/stock-price-fluctuation/)|[Python](./Python/2024.md)|||Medium|
 |2045|[Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination/)|[Python](./Python/2045.md)|||Hard|
+|2047|[Number of Valid Words in a Sentence](https://leetcode.com/problems/number-of-valid-words-in-a-sentence/)|[Python](./Python/2047.md)|||Easy|
+|2048|[Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number/)|[Python](./Python/2048.md)|||Medium|
+|2049|[Count Nodes With the Highest Score](https://leetcode.com/problems/count-nodes-with-the-highest-score/)|[Python](./Python/2049.md)|||Medium|
 |2094|[Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/)|[Python](./Python/2094.md)|||Easy|
 |2095|[Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)|[Python](./Python/2095.md)|||Medium|
 |2096|[Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/)|[Python](./Python/2096.md)|||Medium|
