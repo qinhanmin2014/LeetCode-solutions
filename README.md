@@ -179,6 +179,7 @@
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[Python](./Python/198.md)|||Easy|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Python](./Python/200.md)|||Medium|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Python](./Python/203.md)|[Java](./Java/203.md)|[C++](./C++/203.md)|Easy|
+|202|[Happy Number](https://leetcode.com/problems/happy-number/)|[Python](./Python/202.md)|||Easy|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)|[Python](./Python/204.md)|||Easy|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Python](./Python/205.md)|||Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python](./Python/206.md)|||Easy|
@@ -603,7 +604,9 @@
 |1833|[Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)|[Python](./Python/1833.md)|[Java](./Java/1833.md)|[C++](./C++/1833.md)|Medium|
 |1846|[Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/)|[Python](./Python/1846.md)|||Medium|
 |1894|[Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/)|[Python](./Python/1894.md)|||Medium|
-|1995|[Count Special Quadruplets](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/)|[Python](./Python/1894.md)|||Medium|
+|1995|[Count Special Quadruplets](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/)|[Python](./Python/1995.md)|||Easy|
+|1996|[The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)|[Python](./Python/1996.md)|||Medium|
+|1997|[First Day Where You Have Been in All the Rooms](https://leetcode.com/problems/first-day-where-you-have-been-in-all-the-rooms/)|[Python](./Python/1997.md)|||Medium|
 |2011|[Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)|[Python](./Python/2011.md)|||Easy|
 |2012|[Sum of Beauty in the Array](https://leetcode.com/problems/sum-of-beauty-in-the-array/)|[Python](./Python/2012.md)|||Medium|
 |2013|[Detect Squares](https://leetcode.com/problems/detect-squares/)|[Python](./Python/2013.md)|||Medium|
