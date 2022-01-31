@@ -352,6 +352,7 @@
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)|[Python](./Python/538.md)|[Java](./Java/538.md)|[C++](./C++/538.md)|Easy|
 |539|[Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)|[Python](./Python/539.md)|||Medium|
 |541|[Reverse String II](https://leetcode.com/problems/reverse-string-ii/)|[Python](./Python/541.md)|||Easy|
+|542|[01 Matrix](https://leetcode.com/problems/01-matrix/)|[Python](./Python/542.md)|||Medium|
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Python](./Python/543.md)|||Easy|
 |547|[Number of Provinces](https://leetcode.com/problems/number-of-provinces/)|[Python](./Python/547.md)|||Medium|
 |551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)|[Python](./Python/551.md)|||Easy|
@@ -500,6 +501,7 @@
 |987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[Python](./Python/987.md)|||Medium|
 |988|[Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/)|[Python](./Python/988.md)|||Medium|
 |989|[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)|[Python](./Python/989.md)|||Easy|
+|994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[Python](./Python/994.md)|||Medium|
 |995|[Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/)|[Python](./Python/995.md)|||Hard|
 |992|[Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)|[Python](./Python/992.md)|||Hard|
 |997|[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)|[Python](./Python/997.md)|||Easy|
