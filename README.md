@@ -622,6 +622,7 @@
 |1997|[First Day Where You Have Been in All the Rooms](https://leetcode.com/problems/first-day-where-you-have-been-in-all-the-rooms/)|[Python](./Python/1997.md)|||Medium|
 |2000|[Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)|[Python](./Python/2000.md)|||Easy|
 |2001|[Number of Pairs of Interchangeable Rectangles](https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/)|[Python](./Python/2001.md)|||Medium|
+|2002|[Maximum Product of the Length of Two Palindromic Subsequences](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/)|[Python](./Python/2002.md)|||Medium|
 |2011|[Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)|[Python](./Python/2011.md)|||Easy|
 |2012|[Sum of Beauty in the Array](https://leetcode.com/problems/sum-of-beauty-in-the-array/)|[Python](./Python/2012.md)|||Medium|
 |2013|[Detect Squares](https://leetcode.com/problems/detect-squares/)|[Python](./Python/2013.md)|||Medium|
