@@ -427,6 +427,7 @@
 |773|[Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/)|[Python](./Python/773.md)|[Java](./Java/773.md)|[C++](./C++/773.md)|Hard|
 |778|[Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/)|[Python](./Python/778.md)|||Hard|
 |783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|[Python](./Python/783.md)|||Easy|
+|784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[Python](./Python/784.md)|||Medium|
 |785|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|[Python](./Python/785.md)|||Medium|
 |786|[K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/)|[Python](./Python/786.md)|||Hard|
 |787|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|[Python](./Python/787.md)|||Medium|
@@ -619,6 +620,8 @@
 |1995|[Count Special Quadruplets](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/)|[Python](./Python/1995.md)|||Easy|
 |1996|[The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)|[Python](./Python/1996.md)|||Medium|
 |1997|[First Day Where You Have Been in All the Rooms](https://leetcode.com/problems/first-day-where-you-have-been-in-all-the-rooms/)|[Python](./Python/1997.md)|||Medium|
+|2000|[Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)|[Python](./Python/2000.md)|||Easy|
+|2001|[Number of Pairs of Interchangeable Rectangles](https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/)|[Python](./Python/2001.md)|||Medium|
 |2011|[Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)|[Python](./Python/2011.md)|||Easy|
 |2012|[Sum of Beauty in the Array](https://leetcode.com/problems/sum-of-beauty-in-the-array/)|[Python](./Python/2012.md)|||Medium|
 |2013|[Detect Squares](https://leetcode.com/problems/detect-squares/)|[Python](./Python/2013.md)|||Medium|
