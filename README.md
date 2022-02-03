@@ -561,6 +561,9 @@
 |1365|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[Python](./Python/1365.md)|||Easy|
 |1370|[Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/)|[Python](./Python/1370.md)|||Easy|
 |1388|[Pizza With 3n Slices](https://leetcode.com/problems/pizza-with-3n-slices/)|[Python](./Python/1388.md)|||Hard|
+|1413|[Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)|[Python](./Python/1413.md)|||Easy|
+|1414|[Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/)|[Python](./Python/1414.md)|||Medium|
+|1415|[The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/)|[Python](./Python/1415.md)|||Medium|
 |1418|[Display Table of Food Orders in a Restaurant](https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/)|[Python](./Python/1418.md)|[Java](./Java/1418.md)|[C++](./C++/1418.md)|Medium|
 |1423|[Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)|[Python](./Python/1423.md)|||Medium|
 |1436|[Destination City](https://leetcode.com/problems/destination-city/)|[Python](./Python/1436.md)|||Easy|
