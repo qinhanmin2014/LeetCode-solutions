@@ -636,6 +636,9 @@
 |2000|[Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)|[Python](./Python/2000.md)|||Easy|
 |2001|[Number of Pairs of Interchangeable Rectangles](https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/)|[Python](./Python/2001.md)|||Medium|
 |2002|[Maximum Product of the Length of Two Palindromic Subsequences](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/)|[Python](./Python/2002.md)|||Medium|
+|2006|[Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/)|[Python](./Python/2006.md)|||Easy|
+|2007|[Find Original Array From Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array/)|[Python](./Python/2007.md)|||Medium|
+|2008|[Maximum Earnings From Taxi](https://leetcode.com/problems/maximum-earnings-from-taxi/)|[Python](./Python/2008.md)|||Medium|
 |2011|[Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)|[Python](./Python/2011.md)|||Easy|
 |2012|[Sum of Beauty in the Array](https://leetcode.com/problems/sum-of-beauty-in-the-array/)|[Python](./Python/2012.md)|||Medium|
 |2013|[Detect Squares](https://leetcode.com/problems/detect-squares/)|[Python](./Python/2013.md)|||Medium|
