@@ -214,6 +214,7 @@
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Python](./Python/242.md)|||Easy|
 |253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[Python](./Python/253.md)|||Medium|
 |256|[Paint House](https://leetcode.com/problems/paint-house/)|[Python](./Python/256.md)|||Medium|
+|257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Python](./Python/257.md)|||Easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[Python](./Python/258.md)|||Easy|
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|[Python](./Python/260.md)|||Medium|
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|[Python](./Python/264.md)|||Medium|
@@ -573,6 +574,8 @@
 |1436|[Destination City](https://leetcode.com/problems/destination-city/)|[Python](./Python/1436.md)|||Easy|
 |1438|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)|[Python](./Python/1438.md)|||Medium|
 |1446|[Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)|[Python](./Python/1446.md)|||Easy|
+|1447|[Simplified Fractions](https://leetcode.com/problems/simplified-fractions/)|[Python](./Python/1447.md)|||Medium|
+|1448|[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)|[Python](./Python/1448.md)|||Medium|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Python](./Python/1480.md)|||Easy|
 |1489|[Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/)|[Python](./Python/1489.md)|||Hard|
 |1518|[Water Bottles](https://leetcode.com/problems/water-bottles/)|[Python](./Python/1518.md)|||Easy|
