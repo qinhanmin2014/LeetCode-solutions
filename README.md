@@ -539,6 +539,9 @@
 |1154|[Day of the Year](https://leetcode.com/problems/day-of-the-year/)|[Python](./Python/1154.md)|||Easy|
 |1178|[Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/)|[Python](./Python/1178.md)|||Hard|
 |1185|[Day of the Week](https://leetcode.com/problems/day-of-the-week/)|[Python](./Python/1185.md)|||Easy|
+|1189|[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)|[Python](./Python/1189.md)|||Easy|
+|1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)|[Python](./Python/1190.md)|||Medium|
+|1191|[K-Concatenation Maximum Sum](https://leetcode.com/problems/k-concatenation-maximum-sum/)|[Python](./Python/1191.md)|||Medium|
 |1202|[Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/)|[Python](./Python/1202.md)|||Medium|
 |1203|[Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/)|[Python](./Python/1203.md)|||Hard|
 |1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[Python](./Python/1207.md)|||Easy|
@@ -551,6 +554,7 @@
 |1232|[Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)|[Python](./Python/1232.md)|||Easy|
 |1239|[Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)|[Python](./Python/1239.md)|[Java](./Java/1239.md)|[C++](./C++/1239.md)|Medium|
 |1277|[Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)|[Python](./Python/1277.md)|||Medium|
+|1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[Python](./Python/1281.md)|||Easy|
 |1314|[Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/)|[Python](./Python/1314.md)|||Medium|
 |1319|[Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)|[Python](./Python/1319.md)|||Medium|
 |1332|[Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)|[Python](./Python/1332.md)|||Easy|
