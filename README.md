@@ -569,6 +569,7 @@
 |1356|[Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)|[Python](./Python/1356.md)|||Easy|
 |1365|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[Python](./Python/1365.md)|||Easy|
 |1370|[Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/)|[Python](./Python/1370.md)|||Easy|
+|1380|[Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)|[Python](./Python/1380.md)|||Easy|
 |1388|[Pizza With 3n Slices](https://leetcode.com/problems/pizza-with-3n-slices/)|[Python](./Python/1388.md)|||Hard|
 |1403|[Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/)|[Python](./Python/1403.md)|||Easy|
 |1404|[Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/)|[Python](./Python/1404.md)|||Medium|
@@ -586,6 +587,7 @@
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Python](./Python/1480.md)|||Easy|
 |1489|[Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/)|[Python](./Python/1489.md)|||Hard|
 |1491|[Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)|[Python](./Python/1491.md)|||Easy|
+|1502|[Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)|[Python](./Python/1502.md)|||Easy|
 |1518|[Water Bottles](https://leetcode.com/problems/water-bottles/)|[Python](./Python/1518.md)|||Easy|
 |1523|[Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)|[Python](./Python/1523.md)|||Easy|
 |1534|[Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)|[Python](./Python/1534.md)|||Easy|
@@ -640,6 +642,7 @@
 |1779|[Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/)|[Python](./Python/1779.md)|||Easy|
 |1816|[Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)|[Python](./Python/1816.md)|||Easy|
 |1818|[Minimum Absolute Sum Difference](https://leetcode.com/problems/minimum-absolute-sum-difference/)|[Python](./Python/1818.md)|||Medium|
+|1822|[Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)|[Python](./Python/1822.md)|||Easy|
 |1833|[Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)|[Python](./Python/1833.md)|[Java](./Java/1833.md)|[C++](./C++/1833.md)|Medium|
 |1846|[Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/)|[Python](./Python/1846.md)|||Medium|
 |1894|[Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/)|[Python](./Python/1894.md)|||Medium|
