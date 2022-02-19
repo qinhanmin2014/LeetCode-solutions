@@ -557,6 +557,7 @@
 |1239|[Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)|[Python](./Python/1239.md)|[Java](./Java/1239.md)|[C++](./C++/1239.md)|Medium|
 |1277|[Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)|[Python](./Python/1277.md)|||Medium|
 |1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[Python](./Python/1281.md)|||Easy|
+|1309|[Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/)|[Python](./Python/1309.md)|||Easy|
 |1314|[Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/)|[Python](./Python/1314.md)|||Medium|
 |1319|[Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)|[Python](./Python/1319.md)|||Medium|
 |1332|[Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)|[Python](./Python/1332.md)|||Easy|
@@ -625,6 +626,7 @@
 |1632|[Rank Transform of a Matrix](https://leetcode.com/problems/rank-transform-of-a-matrix/)|[Python](./Python/1632.md)|||Hard|
 |1646|[Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/)|[Python](./Python/1646.md)|||Easy|
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[Python](./Python/1672.md)|||Easy|
+|1678|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[Python](./Python/1678.md)|||Easy|
 |1688|[Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)|[Python](./Python/1688.md)|||Easy|
 |1689|[Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|[Python](./Python/1689.md)|||Medium|
 |1690|[Stone Game VII](https://leetcode.com/problems/stone-game-vii/)|[Python](./Python/1690.md)|||Medium|
@@ -643,6 +645,7 @@
 |1763|[Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/)|[Python](./Python/1763.md)|||Easy|
 |1764|[Form Array by Concatenating Subarrays of Another Array](https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array/)|[Python](./Python/1764.md)|||Medium|
 |1765|[Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/)|[Python](./Python/1765.md)|||Medium|
+|1768|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)|[Python](./Python/1768.md)|||Easy|
 |1779|[Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/)|[Python](./Python/1779.md)|||Easy|
 |1790|[Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/)|[Python](./Python/1790.md)|||Easy|
 |1791|[Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/)|[Python](./Python/1791.md)|||Easy|
