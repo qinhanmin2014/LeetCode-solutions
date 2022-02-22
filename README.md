@@ -662,6 +662,7 @@
 |1984|[Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/)|[Python](./Python/1984.md)|||Easy|
 |1985|[Find the Kth Largest Integer in the Array](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/)|[Python](./Python/1985.md)|||Medium|
 |1986|[Minimum Number of Work Sessions to Finish the Tasks](https://leetcode.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks/)|[Python](./Python/1986.md)|||Medium|
+|1994|[The Number of Good Subsets](https://leetcode.com/problems/the-number-of-good-subsets/)|[Python](./Python/1994.md)|||Hard|
 |1995|[Count Special Quadruplets](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/)|[Python](./Python/1995.md)|||Easy|
 |1996|[The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)|[Python](./Python/1996.md)|||Medium|
 |1997|[First Day Where You Have Been in All the Rooms](https://leetcode.com/problems/first-day-where-you-have-been-in-all-the-rooms/)|[Python](./Python/1997.md)|||Medium|
