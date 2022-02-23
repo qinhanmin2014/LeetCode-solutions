@@ -236,6 +236,7 @@
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[Python](./Python/299.md)|||Medium|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Python](./Python/300.md)|||Medium|
 |301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)|[Python](./Python/301.md)|||Hard|
+|303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[Python](./Python/303.md)|||Easy|
 |304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[Python](./Python/304.md)|||Medium|
 |306|[Additive Number](https://leetcode.com/problems/additive-number/)|[Python](./Python/306.md)|||Medium|
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[Python](./Python/309.md)|||Medium|
@@ -471,6 +472,7 @@
 |909|[Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)|[Python](./Python/909.md)|[Java](./Java/909.md)|[C++](./C++/909.md)|Medium|
 |911|[Online Election](https://leetcode.com/problems/online-election/)|[Python](./Python/911.md)|||Medium|
 |913|[Cat and Mouse](https://leetcode.com/problems/cat-and-mouse/)|[Python](./Python/913.md)|||Hard|
+|917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)|[Python](./Python/917.md)|||Easy|
 |918|[Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)|[Python](./Python/918.md)|||Medium|
 |922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Python](./Python/922.md)|||Easy|
 |925|[Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)|[Python](./Python/925.md)|||Easy|
@@ -617,6 +619,7 @@
 |1599|[Maximum Profit of Operating a Centennial Wheel](https://leetcode.com/problems/maximum-profit-of-operating-a-centennial-wheel/)|[Python](./Python/1599.md)|||Medium|
 |1600|[Throne Inheritance](https://leetcode.com/problems/throne-inheritance/)|[Python](./Python/1600.md)|[Java](./Java/1600.md)|[C++](./C++/1600.md)|Medium|
 |1601|[Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/)|[Python](./Python/1601.md)|||Hard|
+|1603|[Design Parking System](https://leetcode.com/problems/design-parking-system/)|[Python](./Python/1603.md)|||Easy|
 |1608|[Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)|[Python](./Python/1608.md)|||Easy|
 |1609|[Even Odd Tree](https://leetcode.com/problems/even-odd-tree/)|[Python](./Python/1609.md)|||Medium|
 |1610|[Maximum Number of Visible Points](https://leetcode.com/problems/maximum-number-of-visible-points/)|[Python](./Python/1610.md)|||Hard|
