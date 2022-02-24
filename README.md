@@ -638,6 +638,7 @@
 |1689|[Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|[Python](./Python/1689.md)|||Medium|
 |1690|[Stone Game VII](https://leetcode.com/problems/stone-game-vii/)|[Python](./Python/1690.md)|||Medium|
 |1705|[Maximum Number of Eaten Apples](https://leetcode.com/problems/maximum-number-of-eaten-apples/)|[Python](./Python/1705.md)|||Medium|
+|1706|[Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/)|[Python](./Python/1706.md)|||Medium|
 |1711|[Count Good Meals](https://leetcode.com/problems/count-good-meals/)|[Python](./Python/1711.md)|[Java](./Java/1711.md)|[C++](./C++/1711.md)|Medium|
 |1716|[Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/)|[Python](./Python/1716.md)|||Easy|
 |1717|[Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/)|[Python](./Python/1717.md)|||Medium|
