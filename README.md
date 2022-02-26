@@ -319,6 +319,7 @@
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/)|[Python](./Python/455.md)|||Easy|
 |457|[Circular Array Loop](https://leetcode.com/problems/circular-array-loop/)|[Python](./Python/457.md)|||Medium|
 |458|[Poor Pigs](https://leetcode.com/problems/poor-pigs/)|[Python](./Python/458.md)|||Hard|
+|459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|[Python](./Python/459.md)|||Easy|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Python](./Python/461.md)|||Easy|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Python](./Python/463.md)|||Easy|
 |470|[Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/)|[Python](./Python/470.md)|||Medium|
@@ -351,6 +352,7 @@
 |526|[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/)|[Python](./Python/526.md)|||Medium|
 |528|[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)|[Python](./Python/528.md)|||Medium|
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[Python](./Python/530.md)|||Easy|
+|537|[Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/)|[Python](./Python/537.md)|||Medium|
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)|[Python](./Python/538.md)|[Java](./Java/538.md)|[C++](./C++/538.md)|Easy|
 |539|[Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)|[Python](./Python/539.md)|||Medium|
 |540|[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[Python](./Python/540.md)|||Medium|
