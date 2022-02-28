@@ -579,6 +579,7 @@
 |1345|[Jump Game IV](https://leetcode.com/problems/jump-game-iv/)|[Python](./Python/1345.md)|||Hard|
 |1356|[Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)|[Python](./Python/1356.md)|||Easy|
 |1365|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[Python](./Python/1365.md)|||Easy|
+|1367|[Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/)|[Python](./Python/1367.md)|||Medium|
 |1370|[Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/)|[Python](./Python/1370.md)|||Easy|
 |1380|[Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)|[Python](./Python/1380.md)|||Easy|
 |1388|[Pizza With 3n Slices](https://leetcode.com/problems/pizza-with-3n-slices/)|[Python](./Python/1388.md)|||Hard|
