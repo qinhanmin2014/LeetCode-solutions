@@ -341,6 +341,7 @@
 |501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)|[Python](./Python/501.md)|[Java](./Java/501.md)|[C++](./C++/501.md)|Easy|
 |502|[IPO](https://leetcode.com/problems/ipo/)|[Python](./Python/502.md)|||Hard|
 |503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Python](./Python/503.md)|||Medium|
+|504|[Base 7](https://leetcode.com/problems/base-7/)|[Python](./Python/504.md)|||Easy|
 |506|[Relative Ranks](https://leetcode.com/problems/relative-ranks/)|[Python](./Python/506.md)|||Easy|
 |507|[Perfect Number](https://leetcode.com/problems/perfect-number/)|[Python](./Python/507.md)|||Easy|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python](./Python/509.md)|||Easy|
@@ -586,6 +587,7 @@
 |1365|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[Python](./Python/1365.md)|||Easy|
 |1367|[Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/)|[Python](./Python/1367.md)|||Medium|
 |1370|[Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/)|[Python](./Python/1370.md)|||Easy|
+|1376|[Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/)|[Python](./Python/1376.md)|||Medium|
 |1380|[Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)|[Python](./Python/1380.md)|||Easy|
 |1388|[Pizza With 3n Slices](https://leetcode.com/problems/pizza-with-3n-slices/)|[Python](./Python/1388.md)|||Hard|
 |1403|[Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/)|[Python](./Python/1403.md)|||Easy|
