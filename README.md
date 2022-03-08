@@ -418,6 +418,7 @@
 |703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Python](./Python/703.md)|||Easy|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[Python](./Python/704.md)|||Easy|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Python](./Python/709.md)|||Easy|
+|713|[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)|[Python](./Python/709.md)|||Medium|
 |714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|[Python](./Python/714.md)|||Medium|
 |717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/)|[Python](./Python/717.md)|||Easy|
 |721|[Accounts Merge](https://leetcode.com/problems/accounts-merge/)|[Python](./Python/721.md)|||Medium|
@@ -703,6 +704,7 @@
 |2047|[Number of Valid Words in a Sentence](https://leetcode.com/problems/number-of-valid-words-in-a-sentence/)|[Python](./Python/2047.md)|||Easy|
 |2048|[Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number/)|[Python](./Python/2048.md)|||Medium|
 |2049|[Count Nodes With the Highest Score](https://leetcode.com/problems/count-nodes-with-the-highest-score/)|[Python](./Python/2049.md)|||Medium|
+|2055|[Plates Between Candles](https://leetcode.com/problems/plates-between-candles/)|[Python](./Python/2055.md)|||Medium|
 |2094|[Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/)|[Python](./Python/2094.md)|||Easy|
 |2095|[Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)|[Python](./Python/2095.md)|||Medium|
 |2096|[Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/)|[Python](./Python/2096.md)|||Medium|
