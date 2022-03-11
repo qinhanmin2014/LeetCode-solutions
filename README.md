@@ -309,6 +309,7 @@
 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Python](./Python/438.md)|||Medium|
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[Python](./Python/441.md)|||Easy|
 |443|[String Compression](https://leetcode.com/problems/string-compression/)|[Python](./Python/443.md)|||Medium|
+|445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|[Python](./Python/445.md)|||Medium|
 |446|[Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/)|[Python](./Python/446.md)|||Hard|
 |447|[Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/)|[Python](./Python/447.md)|||Medium|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Python](./Python/448.md)|||Easy|
@@ -450,6 +451,7 @@
 |789|[Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/)|[Python](./Python/789.md)|||Medium|
 |794|[Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/)|[Python](./Python/794.md)|||Medium|
 |797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)|[Python](./Python/797.md)|||Medium|
+|798|[Smallest Rotation with Highest Score](https://leetcode.com/problems/smallest-rotation-with-highest-score/)|[Python](./Python/797.md)|||Medium|
 |802|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)|[Python](./Python/802.md)|||Medium|
 |803|[Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit/)|[Python](./Python/803.md)|||Hard|
 |807|[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|[Python](./Python/807.md)|||Medium|
@@ -480,6 +482,7 @@
 |888|[Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)|[Python](./Python/888.md)|||Easy|
 |896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[Python](./Python/896.md)|||Easy|
 |909|[Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)|[Python](./Python/909.md)|[Java](./Java/909.md)|[C++](./C++/909.md)|Medium|
+|910|[Smallest Range II](https://leetcode.com/problems/smallest-range-ii/)|[Python](./Python/910.md)|||Medium|
 |911|[Online Election](https://leetcode.com/problems/online-election/)|[Python](./Python/911.md)|||Medium|
 |913|[Cat and Mouse](https://leetcode.com/problems/cat-and-mouse/)|[Python](./Python/913.md)|||Hard|
 |917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)|[Python](./Python/917.md)|||Easy|
