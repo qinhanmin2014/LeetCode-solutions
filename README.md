@@ -282,6 +282,7 @@
 |390|[Elimination Game](https://leetcode.com/problems/elimination-game/)|[Python](./Python/390.md)|||Medium|
 |391|[Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/)|[Python](./Python/391.md)|||Hard|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Python](./Python/392.md)|||Easy|
+|393|[UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/)|[Python](./Python/393.md)|||Medium|
 |394|[Decode String](https://leetcode.com/problems/decode-string/)|[Python](./Python/394.md)|||Medium|
 |395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[Python](./Python/395.md)|||Medium|
 |397|[Integer Replacement](https://leetcode.com/problems/integer-replacement/)|[Python](./Python/397.md)|||Medium|
@@ -677,6 +678,7 @@
 |1818|[Minimum Absolute Sum Difference](https://leetcode.com/problems/minimum-absolute-sum-difference/)|[Python](./Python/1818.md)|||Medium|
 |1822|[Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)|[Python](./Python/1822.md)|||Easy|
 |1833|[Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)|[Python](./Python/1833.md)|[Java](./Java/1833.md)|[C++](./C++/1833.md)|Medium|
+|1845|[Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/)|[Python](./Python/1845.md)|||Medium|
 |1846|[Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/)|[Python](./Python/1846.md)|||Medium|
 |1886|[Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)|[Python](./Python/1894.md)|||Easy|
 |1894|[Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/)|[Python](./Python/1894.md)|||Medium|
