@@ -256,6 +256,7 @@
 |335|[Self Crossing](https://leetcode.com/problems/self-crossing/)|[Python](./Python/335.md)|||Hard|
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|[Python](./Python/337.md)|||Medium|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[Python](./Python/338.md)|||Medium|
+|341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[Python](./Python/341.md)|||Easy|
 |343|[Integer Break](https://leetcode.com/problems/integer-break/)|[Python](./Python/343.md)|||Medium|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Python](./Python/344.md)|[Java](./Java/344.md)|[C++](./C++/344.md)|Easy|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[Python](./Python/345.md)|||Easy|
@@ -385,6 +386,7 @@
 |590|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[Python](./Python/590.md)|||Easy|
 |594|[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)|[Python](./Python/594.md)|||Easy|
 |598|[Range Addition II](https://leetcode.com/problems/range-addition-ii/)|[Python](./Python/598.md)|||Easy|
+|598|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)|[Python](./Python/599.md)|||Easy|
 |600|[Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/)|[Python](./Python/600.md)|||Hard|
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[Python](./Python/605.md)|||Easy|
 |611|[Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)|[Python](./Python/611.md)|||Medium|
