@@ -708,6 +708,7 @@
 |2032|[Two Out of Three](https://leetcode.com/problems/two-out-of-three/)|[Python](./Python/2022.md)|||Easy|
 |2033|[Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/)|[Python](./Python/2023.md)|||Medium|
 |2034|[Stock Price Fluctuation](https://leetcode.com/problems/stock-price-fluctuation/)|[Python](./Python/2024.md)|||Medium|
+|2044|[Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/)|[Python](./Python/2044.md)|||Medium|
 |2045|[Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination/)|[Python](./Python/2045.md)|||Hard|
 |2047|[Number of Valid Words in a Sentence](https://leetcode.com/problems/number-of-valid-words-in-a-sentence/)|[Python](./Python/2047.md)|||Easy|
 |2048|[Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number/)|[Python](./Python/2048.md)|||Medium|
