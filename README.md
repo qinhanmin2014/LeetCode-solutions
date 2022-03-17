@@ -305,6 +305,7 @@
 |426|[Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/)|[Python](./Python/426.md)|||Medium|
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[Python](./Python/429.md)|||Medium|
 |430|[Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)|[Python](./Python/430.md)|||Medium|
+|432|[All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/)|[Python](./Python/432.md)|||Hard|
 |434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)|[Python](./Python/434.md)|||Easy|
 |435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)|[Python](./Python/435.md)|||Medium|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[Python](./Python/437.md)|||Medium|
@@ -428,6 +429,7 @@
 |713|[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)|[Python](./Python/709.md)|||Medium|
 |714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|[Python](./Python/714.md)|||Medium|
 |717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/)|[Python](./Python/717.md)|||Easy|
+|720|[Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/)|[Python](./Python/720.md)|||Easy|
 |721|[Accounts Merge](https://leetcode.com/problems/accounts-merge/)|[Python](./Python/721.md)|||Medium|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Python](./Python/724.md)|||Easy|
 |725|[Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/)|[Python](./Python/725.md)|||Medium|
