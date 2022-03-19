@@ -390,6 +390,7 @@
 |598|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)|[Python](./Python/599.md)|||Easy|
 |600|[Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/)|[Python](./Python/600.md)|||Hard|
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[Python](./Python/605.md)|||Easy|
+|606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)|[Python](./Python/606.md)|||Easy|
 |611|[Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)|[Python](./Python/611.md)|||Medium|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Python](./Python/617.md)|[Java](./Java/617.md)|[C++](./C++/617.md)|Easy|
 |621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/)|[Python](./Python/621.md)|||Medium|
