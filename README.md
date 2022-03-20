@@ -712,9 +712,10 @@
 |2027|[Minimum Moves to Convert String](https://leetcode.com/problems/minimum-moves-to-convert-string/)|[Python](./Python/2022.md)|||Easy|
 |2028|[Find Missing Observations](https://leetcode.com/problems/find-missing-observations/)|[Python](./Python/2027.md)|||Medium|
 |2029|[Stone Game IX](https://leetcode.com/problems/stone-game-ix/)|[Python](./Python/2027.md)|||Medium|
-|2032|[Two Out of Three](https://leetcode.com/problems/two-out-of-three/)|[Python](./Python/2022.md)|||Easy|
-|2033|[Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/)|[Python](./Python/2023.md)|||Medium|
-|2034|[Stock Price Fluctuation](https://leetcode.com/problems/stock-price-fluctuation/)|[Python](./Python/2024.md)|||Medium|
+|2032|[Two Out of Three](https://leetcode.com/problems/two-out-of-three/)|[Python](./Python/2032.md)|||Easy|
+|2033|[Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/)|[Python](./Python/2033.md)|||Medium|
+|2034|[Stock Price Fluctuation](https://leetcode.com/problems/stock-price-fluctuation/)|[Python](./Python/2034.md)|||Medium|
+|2039|[The Time When the Network Becomes Idle](https://leetcode.com/problems/the-time-when-the-network-becomes-idle/)|[Python](./Python/2039.md)|||Medium|
 |2043|[Simple Bank System](https://leetcode.com/problems/simple-bank-system/)|[Python](./Python/2043.md)|||Medium|
 |2044|[Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/)|[Python](./Python/2044.md)|||Medium|
 |2045|[Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination/)|[Python](./Python/2045.md)|||Hard|
