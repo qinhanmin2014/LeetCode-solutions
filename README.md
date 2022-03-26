@@ -310,6 +310,7 @@
 |435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)|[Python](./Python/435.md)|||Medium|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[Python](./Python/437.md)|||Medium|
 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Python](./Python/438.md)|||Medium|
+|440|[K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/)|[Python](./Python/440.md)|||Hard|
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[Python](./Python/441.md)|||Easy|
 |443|[String Compression](https://leetcode.com/problems/string-compression/)|[Python](./Python/443.md)|||Medium|
 |445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|[Python](./Python/445.md)|||Medium|
@@ -408,12 +409,14 @@
 |650|[2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/)|[Python](./Python/650.md)|||Medium|
 |653|[Two Sum IV - Input is a BST(https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)|[Python](./Python/653.md)|||Easy|
 |659|[Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)|[Python](./Python/659.md)|||Medium|
+|661|[Image Smoother](https://leetcode.com/problems/image-smoother/)|[Python](./Python/661.md)|||Easy|
 |664|[Strange Printer](https://leetcode.com/problems/strange-printer/)|[Python](./Python/664.md)|||Hard|
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)|[Python](./Python/665.md)|||Easy|
 |673|[Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)|[Python](./Python/673.md)|||Medium|
 |674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|[Python](./Python/674.md)|||Easy|
 |677|[Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/)|[Python](./Python/677.md)|||Medium|
 |678|[Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)|[Python](./Python/678.md)|||Medium|
+|682|[Redundant Connection](https://leetcode.com/problems/redundant-connection/)|[Python](./Python/684.md)|||Medium|
 |684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/)|[Python](./Python/684.md)|||Medium|
 |685|[Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/)|[Python](./Python/685.md)|||Hard|
 |686|[Repeated String Match](https://leetcode.com/problems/repeated-string-match/)|[Python](./Python/686.md)|||Medium|
