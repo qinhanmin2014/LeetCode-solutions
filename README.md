@@ -422,6 +422,7 @@
 |686|[Repeated String Match](https://leetcode.com/problems/repeated-string-match/)|[Python](./Python/686.md)|||Medium|
 |688|[Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/)|[Python](./Python/688.md)|||Medium|
 |689|[Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/)|[Python](./Python/689.md)|||Hard|
+|693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|[Python](./Python/693.md)|||Easy|
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Python](./Python/695.md)|||Medium|
 |697|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/)|[Python](./Python/697.md)|||Easy|
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Python](./Python/700.md)|[Java](./Java/700.md)|[C++](./C++/700.md)|Easy|
