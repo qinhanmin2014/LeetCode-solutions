@@ -439,6 +439,7 @@
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Python](./Python/724.md)|||Easy|
 |725|[Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/)|[Python](./Python/725.md)|||Medium|
 |726|[Number of Atoms](https://leetcode.com/problems/number-of-atoms/)|[Python](./Python/726.md)|[Java](./Java/726.md)|[C++](./C++/726.md)|Hard|
+|728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)|[Python](./Python/728.md)|||Medium|
 |729|[My Calendar I](https://leetcode.com/problems/my-calendar-i/)|[Python](./Python/729.md)|||Medium|
 |733|[Flood Fill](https://leetcode.com/problems/flood-fill/)|[Python](./Python/733.md)|||Easy|
 |736|[Parse Lisp Expression](https://leetcode.com/problems/parse-lisp-expression/)|[Python](./Python/736.md)|||Hard|
@@ -508,6 +509,7 @@
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[Python](./Python/941.md)|||Easy|
 |947|[Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)|[Python](./Python/947.md)|||Medium|
 |953|[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)|[Python](./Python/953.md)|||Easy|
+|954|[Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)|[Python](./Python/954.md)|||Medium|
 |959|[Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/)|[Python](./Python/959.md)|||Medium|
 |961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)|[Python](./Python/961.md)|||Easy|
 |962|[Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/)|[Python](./Python/962.md)|||Medium|
