@@ -651,6 +651,7 @@
 |1600|[Throne Inheritance](https://leetcode.com/problems/throne-inheritance/)|[Python](./Python/1600.md)|[Java](./Java/1600.md)|[C++](./C++/1600.md)|Medium|
 |1601|[Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/)|[Python](./Python/1601.md)|||Hard|
 |1603|[Design Parking System](https://leetcode.com/problems/design-parking-system/)|[Python](./Python/1603.md)|||Easy|
+|1606|[Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/)|[Python](./Python/1606.md)|||Hard|
 |1608|[Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)|[Python](./Python/1608.md)|||Easy|
 |1609|[Even Odd Tree](https://leetcode.com/problems/even-odd-tree/)|[Python](./Python/1609.md)|||Medium|
 |1610|[Maximum Number of Visible Points](https://leetcode.com/problems/maximum-number-of-visible-points/)|[Python](./Python/1610.md)|||Hard|
@@ -715,6 +716,7 @@
 |2013|[Detect Squares](https://leetcode.com/problems/detect-squares/)|[Python](./Python/2013.md)|||Medium|
 |2016|[Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/)|[Python](./Python/2016.md)|||Easy|
 |2022|[Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/)|[Python](./Python/2022.md)|||Easy|
+|2024|[Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/)|[Python](./Python/2024.md)|||Medium|
 |2027|[Minimum Moves to Convert String](https://leetcode.com/problems/minimum-moves-to-convert-string/)|[Python](./Python/2022.md)|||Easy|
 |2028|[Find Missing Observations](https://leetcode.com/problems/find-missing-observations/)|[Python](./Python/2027.md)|||Medium|
 |2029|[Stone Game IX](https://leetcode.com/problems/stone-game-ix/)|[Python](./Python/2027.md)|||Medium|
