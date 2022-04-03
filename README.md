@@ -448,6 +448,7 @@
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Python](./Python/739.md)|||Medium|
 |740|[Delete and Earn](https://leetcode.com/problems/delete-and-earn/)|[Python](./Python/740.md)|||Medium|
 |743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/)|[Python](./Python/743.md)|||Medium|
+|744|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[Python](./Python/743.md)|||Easy|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Python](./Python/746.md)|||Easy|
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)|[Python](./Python/747.md)|||Easy|
 |748|[Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/)|[Python](./Python/748.md)|||Easy|
