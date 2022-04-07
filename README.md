@@ -468,6 +468,7 @@
 |787|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|[Python](./Python/787.md)|||Medium|
 |789|[Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/)|[Python](./Python/789.md)|||Medium|
 |794|[Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/)|[Python](./Python/794.md)|||Medium|
+|796|[Rotate String](https://leetcode.com/problems/rotate-string/)|[Python](./Python/796.md)|||Easy|
 |797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)|[Python](./Python/797.md)|||Medium|
 |798|[Smallest Rotation with Highest Score](https://leetcode.com/problems/smallest-rotation-with-highest-score/)|[Python](./Python/797.md)|||Medium|
 |802|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)|[Python](./Python/802.md)|||Medium|
