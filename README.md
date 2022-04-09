@@ -241,6 +241,7 @@
 |306|[Additive Number](https://leetcode.com/problems/additive-number/)|[Python](./Python/306.md)|||Medium|
 |307|[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)|[Python](./Python/307.md)|||Medium|
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[Python](./Python/309.md)|||Medium|
+|310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)|[Python](./Python/310.md)|||Medium|
 |312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/)|[Python](./Python/312.md)|||Hard|
 |313|[Super Ugly Number](https://leetcode.com/problems/super-ugly-number/)|[Python](./Python/313.md)|||Medium|
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[Python](./Python/315.md)|||Hard|
