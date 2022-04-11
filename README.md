@@ -267,6 +267,7 @@
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Python](./Python/350.md)|||Easy|
 |352|[Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)|[Python](./Python/352.md)|||Hard|
 |354|[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|[Python](./Python/354.md)|||Hard|
+|357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)|[Python](./Python/357.md)|||Medium|
 |363|[Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)|[Python](./Python/363.md)|||Hard|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[Python](./Python/367.md)|||Easy|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[Python](./Python/371.md)|||Easy|
