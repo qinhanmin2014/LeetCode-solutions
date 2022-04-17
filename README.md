@@ -281,6 +281,7 @@
 |382|[Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)|[Python](./Python/382.md)|||Medium|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[Python](./Python/383.md)|||Easy|
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|[Python](./Python/384.md)|||Medium|
+|385|[Mini Parser](https://leetcode.com/problems/mini-parser/)|[Python](./Python/385.md)|||Medium|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Python](./Python/387.md)|||Easy|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[Python](./Python/389.md)|||Easy|
 |390|[Elimination Game](https://leetcode.com/problems/elimination-game/)|[Python](./Python/390.md)|||Medium|
@@ -478,8 +479,10 @@
 |802|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)|[Python](./Python/802.md)|||Medium|
 |803|[Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit/)|[Python](./Python/803.md)|||Hard|
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|[Python](./Python/804.md)|||Easy|
+|806|[Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/)|[Python](./Python/806.md)|||Easy|
 |807|[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|[Python](./Python/807.md)|||Medium|
 |815|[Bus Routes](https://leetcode.com/problems/bus-routes/)|[Python](./Python/815.md)|[Java](./Java/815.md)|[C++](./C++/815.md)|Hard|
+|819|[Most Common Word](https://leetcode.com/problems/most-common-word/)|[Python](./Python/819.md)|||Easy|
 |825|[Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/)|[Python](./Python/825.md)|||Medium|
 |830|[Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)|[Python](./Python/830.md)|||Easy|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Python](./Python/830.md)|||Easy|
