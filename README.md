@@ -282,6 +282,7 @@
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[Python](./Python/383.md)|||Easy|
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|[Python](./Python/384.md)|||Medium|
 |385|[Mini Parser](https://leetcode.com/problems/mini-parser/)|[Python](./Python/385.md)|||Medium|
+|386|[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)|[Python](./Python/386.md)|||Medium|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Python](./Python/387.md)|||Easy|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[Python](./Python/389.md)|||Easy|
 |390|[Elimination Game](https://leetcode.com/problems/elimination-game/)|[Python](./Python/390.md)|||Medium|
