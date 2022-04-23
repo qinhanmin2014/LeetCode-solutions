@@ -394,6 +394,7 @@
 |576|[Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/)|[Python](./Python/576.md)|||Medium|
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[Python](./Python/581.md)|||Medium|
 |583|[Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)|[Python](./Python/583.md)|||Medium|
+|587|[Erect the Fence](https://leetcode.com/problems/erect-the-fence/)|[Python](./Python/587.md)|||Hard|
 |590|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[Python](./Python/590.md)|||Easy|
 |594|[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)|[Python](./Python/594.md)|||Easy|
 |598|[Range Addition II](https://leetcode.com/problems/range-addition-ii/)|[Python](./Python/598.md)|||Easy|
