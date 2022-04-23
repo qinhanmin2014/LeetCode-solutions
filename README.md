@@ -284,6 +284,7 @@
 |385|[Mini Parser](https://leetcode.com/problems/mini-parser/)|[Python](./Python/385.md)|||Medium|
 |386|[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)|[Python](./Python/386.md)|||Medium|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Python](./Python/387.md)|||Easy|
+|388|[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/)|[Python](./Python/388.md)|||Medium|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[Python](./Python/389.md)|||Easy|
 |390|[Elimination Game](https://leetcode.com/problems/elimination-game/)|[Python](./Python/390.md)|||Medium|
 |391|[Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/)|[Python](./Python/391.md)|||Hard|
