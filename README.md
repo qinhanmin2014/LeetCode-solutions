@@ -291,6 +291,7 @@
 |393|[UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/)|[Python](./Python/393.md)|||Medium|
 |394|[Decode String](https://leetcode.com/problems/decode-string/)|[Python](./Python/394.md)|||Medium|
 |395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[Python](./Python/395.md)|||Medium|
+|396|[Rotate Function](https://leetcode.com/problems/rotate-function/)|[Python](./Python/396.md)|||Medium|
 |397|[Integer Replacement](https://leetcode.com/problems/integer-replacement/)|[Python](./Python/397.md)|||Medium|
 |399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[Python](./Python/399.md)|||Medium|
 |400|[Nth Digit](https://leetcode.com/problems/nth-digit/)|[Python](./Python/400.md)|||Medium|
