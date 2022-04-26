@@ -294,6 +294,7 @@
 |395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[Python](./Python/395.md)|||Medium|
 |396|[Rotate Function](https://leetcode.com/problems/rotate-function/)|[Python](./Python/396.md)|||Medium|
 |397|[Integer Replacement](https://leetcode.com/problems/integer-replacement/)|[Python](./Python/397.md)|||Medium|
+|398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|[Python](./Python/398.md)|||Medium|
 |399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[Python](./Python/399.md)|||Medium|
 |400|[Nth Digit](https://leetcode.com/problems/nth-digit/)|[Python](./Python/400.md)|||Medium|
 |401|[Binary Watch](https://leetcode.com/problems/binary-watch/)|[Python](./Python/401.md)|[Java](./Java/401.md)|[C++](./C++/401.md)|Easy|
@@ -511,6 +512,7 @@
 |873|[Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/)|[Python](./Python/873.md)|||Medium|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python](./Python/876.md)|||Easy|
 |881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[Python](./Python/881.md)|||Medium|
+|883|[Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/)|[Python](./Python/883.md)|||Easy|
 |884|[Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/)|[Python](./Python/884.md)|||Easy|
 |885|[Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)|[Python](./Python/885.md)|||Medium|
 |886|[Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)|[Python](./Python/886.md)|||Medium|
