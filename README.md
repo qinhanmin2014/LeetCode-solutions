@@ -519,6 +519,7 @@
 |886|[Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)|[Python](./Python/886.md)|||Medium|
 |888|[Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)|[Python](./Python/888.md)|||Easy|
 |896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[Python](./Python/896.md)|||Easy|
+|905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Python](./Python/905.md)|||Easy|
 |909|[Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)|[Python](./Python/909.md)|[Java](./Java/909.md)|[C++](./C++/909.md)|Medium|
 |910|[Smallest Range II](https://leetcode.com/problems/smallest-range-ii/)|[Python](./Python/910.md)|||Medium|
 |911|[Online Election](https://leetcode.com/problems/online-election/)|[Python](./Python/911.md)|||Medium|
