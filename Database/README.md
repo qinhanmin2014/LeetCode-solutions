@@ -11,6 +11,9 @@
 |182|Duplicate Emails|Solution(182.md)|Easy|
 |183|Customers Who Never Order|Solution(183.md)|Easy|
 |196|Delete Duplicate Emails|Solution(196.md)|Easy|
+|511|Game Play Analysis I|Solution(511.md)|Easy|
+|584|Find Customer Referee|Solution(584.md)|Easy|
+|586|Customer Placing the Largest Number of Orders|Solution(586.md)|Easy|
 |1075|Project Employees I|Solution(1075.md)|Easy|
 |1076|Project Employees II|Solution(1076.md)|Easy|
 |1077|Project Employees III|Solution(1077.md)|Medium|
