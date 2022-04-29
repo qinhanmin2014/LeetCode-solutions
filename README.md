@@ -313,6 +313,7 @@
 |423|[Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/)|[Python](./Python/423.md)|||Medium|
 |424|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[Python](./Python/424.md)|||Medium|
 |426|[Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/)|[Python](./Python/426.md)|||Medium|
+|427|[Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/)|[Python](./Python/427.md)|||Medium|
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[Python](./Python/429.md)|||Medium|
 |430|[Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)|[Python](./Python/430.md)|||Medium|
 |432|[All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/)|[Python](./Python/432.md)|||Hard|
