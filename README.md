@@ -399,6 +399,7 @@
 |583|[Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)|[Python](./Python/583.md)|||Medium|
 |587|[Erect the Fence](https://leetcode.com/problems/erect-the-fence/)|[Python](./Python/587.md)|||Hard|
 |590|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[Python](./Python/590.md)|||Easy|
+|591|[Tag Validator](https://leetcode.com/problems/tag-validator/)|[Python](./Python/591.md)|||Hard|
 |594|[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)|[Python](./Python/594.md)|||Easy|
 |598|[Range Addition II](https://leetcode.com/problems/range-addition-ii/)|[Python](./Python/598.md)|||Easy|
 |598|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)|[Python](./Python/599.md)|||Easy|
