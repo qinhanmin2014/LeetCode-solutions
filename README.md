@@ -533,6 +533,7 @@
 |925|[Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)|[Python](./Python/925.md)|||Easy|
 |930|[Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/)|[Python](./Python/930.md)|[Java](./Java/930.md)|[C++](./C++/930.md)|Medium|
 |931|[Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)|[Python](./Python/931.md)|||Medium|
+|933|[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)|[Python](./Python/933.md)|||Easy|
 |937|[Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)|[Python](./Python/937.md)|||Easy|
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[Python](./Python/941.md)|||Easy|
 |947|[Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)|[Python](./Python/947.md)|||Medium|
