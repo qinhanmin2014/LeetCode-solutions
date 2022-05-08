@@ -324,6 +324,7 @@
 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Python](./Python/438.md)|||Medium|
 |440|[K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/)|[Python](./Python/440.md)|||Hard|
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[Python](./Python/441.md)|||Easy|
+|442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[Python](./Python/442.md)|||Medium|
 |443|[String Compression](https://leetcode.com/problems/string-compression/)|[Python](./Python/443.md)|||Medium|
 |445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|[Python](./Python/445.md)|||Medium|
 |446|[Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/)|[Python](./Python/446.md)|||Hard|
