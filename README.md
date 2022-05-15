@@ -439,6 +439,7 @@
 |686|[Repeated String Match](https://leetcode.com/problems/repeated-string-match/)|[Python](./Python/686.md)|||Medium|
 |688|[Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/)|[Python](./Python/688.md)|||Medium|
 |689|[Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/)|[Python](./Python/689.md)|||Hard|
+|691|[Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word/)|[Python](./Python/691.md)|||Hard|
 |693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|[Python](./Python/693.md)|||Easy|
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Python](./Python/695.md)|||Medium|
 |697|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/)|[Python](./Python/697.md)|||Easy|
@@ -493,6 +494,7 @@
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|[Python](./Python/804.md)|||Easy|
 |806|[Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/)|[Python](./Python/806.md)|||Easy|
 |807|[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|[Python](./Python/807.md)|||Medium|
+|812|[Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/)|[Python](./Python/812.md)|||Easy|
 |815|[Bus Routes](https://leetcode.com/problems/bus-routes/)|[Python](./Python/815.md)|[Java](./Java/815.md)|[C++](./C++/815.md)|Hard|
 |819|[Most Common Word](https://leetcode.com/problems/most-common-word/)|[Python](./Python/819.md)|||Easy|
 |821|[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)|[Python](./Python/821.md)|||Easy|
