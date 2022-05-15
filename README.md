@@ -716,6 +716,7 @@
 |1725|[Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/)|[Python](./Python/1725.md)|||Easy|
 |1726|[Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/)|[Python](./Python/1726.md)|||Medium|
 |1727|[Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/)|[Python](./Python/1727.md)|||Medium|
+|1728|[Cat and Mouse II](https://leetcode.com/problems/cat-and-mouse-ii/)|[Python](./Python/1728.md)|||Hard|
 |1748|[Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/)|[Python](./Python/1748.md)|||Easy|
 |1749|[Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/)|[Python](./Python/1749.md)|||Medium|
 |1750|[Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/)|[Python](./Python/1750.md)|||Medium|
