@@ -19,6 +19,8 @@
 |596|Classes More Than 5 Students|Solution(596.md)|Easy|
 |607|Sales Person|Solution(607.md)|Easy|
 |620|Not Boring Movies|Solution(620.md)|Easy|
+|1050|Actors and Directors Who Cooperated At Least Three Times|Solution(1050.md)|Easy|
 |1075|Project Employees I|Solution(1075.md)|Easy|
 |1076|Project Employees II|Solution(1076.md)|Easy|
 |1077|Project Employees III|Solution(1077.md)|Medium|
+|1148|Article Views I|Solution(1148.md)|Easy|
