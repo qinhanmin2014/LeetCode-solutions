@@ -429,6 +429,7 @@
 |661|[Image Smoother](https://leetcode.com/problems/image-smoother/)|[Python](./Python/661.md)|||Easy|
 |664|[Strange Printer](https://leetcode.com/problems/strange-printer/)|[Python](./Python/664.md)|||Hard|
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)|[Python](./Python/665.md)|||Easy|
+|668|[Kth Smallest Number in Multiplication Table](https://leetcode.cn/problems/kth-smallest-number-in-multiplication-table/)|[Python](./Python/668.md)|||Hard|
 |673|[Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)|[Python](./Python/673.md)|||Medium|
 |674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|[Python](./Python/674.md)|||Easy|
 |677|[Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/)|[Python](./Python/677.md)|||Medium|
