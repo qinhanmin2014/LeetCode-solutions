@@ -433,13 +433,14 @@
 |661|[Image Smoother](https://leetcode.com/problems/image-smoother/)|[Python](./Python/661.md)|||Easy|
 |664|[Strange Printer](https://leetcode.com/problems/strange-printer/)|[Python](./Python/664.md)|||Hard|
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)|[Python](./Python/665.md)|||Easy|
-|668|[Kth Smallest Number in Multiplication Table](https://leetcode.cn/problems/kth-smallest-number-in-multiplication-table/)|[Python](./Python/668.md)|||Hard|
+|668|[Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/)|[Python](./Python/668.md)|||Hard|
 |673|[Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)|[Python](./Python/673.md)|||Medium|
 |674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|[Python](./Python/674.md)|||Easy|
+|675|[Cut Off Trees for Golf Event](https://leetcode.com/problems/cut-off-trees-for-golf-event/)|[Python](./Python/675.md)|||Hard|
 |677|[Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/)|[Python](./Python/677.md)|||Medium|
 |678|[Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)|[Python](./Python/678.md)|||Medium|
-|682|[Redundant Connection](https://leetcode.com/problems/redundant-connection/)|[Python](./Python/684.md)|||Medium|
-|684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/)|[Python](./Python/684.md)|||Medium|
+|682|[Redundant Connection](https://leetcode.com/problems/redundant-connection/)|[Python](./Python/682.md)|||Medium|
+|684|[Baseball Game](https://leetcode.com/problems/baseball-game/)|[Python](./Python/684.md)|||Easy|
 |685|[Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/)|[Python](./Python/685.md)|||Hard|
 |686|[Repeated String Match](https://leetcode.com/problems/repeated-string-match/)|[Python](./Python/686.md)|||Medium|
 |688|[Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/)|[Python](./Python/688.md)|||Medium|
