@@ -599,6 +599,7 @@
 |1018|[Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/)|[Python](./Python/1018.md)|||Easy|
 |1019|[Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)|[Python](./Python/1019.md)|||Medium|
 |1020|[Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/)|[Python](./Python/1020.md)|||Medium|
+|1021|[Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)|[Python](./Python/1021.md)|||Easy|
 |1024|[Video Stitching](https://leetcode.com/problems/video-stitching/)|[Python](./Python/1024.md)|||Medium|
 |1027|[Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/)|[Python](./Python/1027.md)|||Medium|
 |1030|[Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/)|[Python](./Python/1030.md)|||Easy|
