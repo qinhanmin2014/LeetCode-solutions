@@ -349,6 +349,7 @@
 |468|[Validate IP Address](https://leetcode.com/problems/validate-ip-address/)|[Python](./Python/468.md)|||Medium|
 |470|[Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/)|[Python](./Python/470.md)|||Medium|
 |472|[Concatenated Words](https://leetcode.com/problems/concatenated-words/)|[Python](./Python/472.md)|||Hard|
+|473|[Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)|[Python](./Python/473.md)|||Medium|
 |474|[Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)|[Python](./Python/474.md)|[Java](./Java/474.md)|[C++](./C++/474.md)|Medium|
 |475|[Heaters](https://leetcode.com/problems/heaters/)|[Python](./Python/475.md)|||Medium|
 |476|[Number Complement](https://leetcode.com/problems/number-complement/)|[Python](./Python/476.md)|||Easy|
