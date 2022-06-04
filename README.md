@@ -546,6 +546,7 @@
 |918|[Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)|[Python](./Python/918.md)|||Medium|
 |922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Python](./Python/922.md)|||Easy|
 |925|[Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)|[Python](./Python/925.md)|||Easy|
+|929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)|[Python](./Python/929.md)|||Easy|
 |930|[Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/)|[Python](./Python/930.md)|[Java](./Java/930.md)|[C++](./C++/930.md)|Medium|
 |931|[Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)|[Python](./Python/931.md)|||Medium|
 |933|[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)|[Python](./Python/933.md)|||Easy|
