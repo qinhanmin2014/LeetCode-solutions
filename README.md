@@ -353,6 +353,7 @@
 |474|[Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)|[Python](./Python/474.md)|[Java](./Java/474.md)|[C++](./C++/474.md)|Medium|
 |475|[Heaters](https://leetcode.com/problems/heaters/)|[Python](./Python/475.md)|||Medium|
 |476|[Number Complement](https://leetcode.com/problems/number-complement/)|[Python](./Python/476.md)|||Easy|
+|478|[Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/)|[Python](./Python/478.md)|||Medium|
 |479|[Largest Palindrome Product](https://leetcode.com/problems/largest-palindrome-product/)|[Python](./Python/479.md)|||Hard|
 |480|[Sliding Window Median](https://leetcode.com/problems/sliding-window-median/)|[Python](./Python/480.md)|||Hard|
 |482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/)|[Python](./Python/482.md)|||Easy|
