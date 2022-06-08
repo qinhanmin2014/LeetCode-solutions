@@ -530,6 +530,7 @@
 |868|[Binary Gap](https://leetcode.com/problems/binary-gap/)|[Python](./Python/868.md)|||Easy|
 |869|[Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/)|[Python](./Python/869.md)|||Medium|
 |873|[Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/)|[Python](./Python/873.md)|||Medium|
+|875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|[Python](./Python/875.md)|||Medium|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python](./Python/876.md)|||Easy|
 |881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[Python](./Python/881.md)|||Medium|
 |883|[Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/)|[Python](./Python/883.md)|||Easy|
@@ -614,6 +615,7 @@
 |1034|[Coloring A Border](https://leetcode.com/problems/coloring-a-border/)|[Python](./Python/1034.md)|||Medium|
 |1035|[Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)|[Python](./Python/1035.md)|||Medium|
 |1036|[Escape a Large Maze](https://leetcode.com/problems/escape-a-large-maze/)|[Python](./Python/1036.md)|||Hard|
+|1037|[Valid Boomerang](https://leetcode.com/problems/valid-boomerang/)|[Python](./Python/1037.md)|||Easy|
 |1044|[Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/)|[Python](./Python/1044.md)|||Hard|
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[Python](./Python/1046.md)|||Easy|
 |1052|[Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/)|[Python](./Python/1052.md)|||Medium|
