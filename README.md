@@ -540,6 +540,7 @@
 |885|[Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)|[Python](./Python/885.md)|||Medium|
 |886|[Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)|[Python](./Python/886.md)|||Medium|
 |888|[Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)|[Python](./Python/888.md)|||Easy|
+|890|[Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)|[Python](./Python/890.md)|||Medium|
 |896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[Python](./Python/896.md)|||Easy|
 |905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Python](./Python/905.md)|||Easy|
 |908|[Smallest Range I](https://leetcode.com/problems/smallest-range-i/)|[Python](./Python/908.md)|||Easy|
