@@ -622,6 +622,7 @@
 |1037|[Valid Boomerang](https://leetcode.com/problems/valid-boomerang/)|[Python](./Python/1037.md)|||Easy|
 |1044|[Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/)|[Python](./Python/1044.md)|||Hard|
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[Python](./Python/1046.md)|||Easy|
+|1051|[Height Checker](https://leetcode.com/problems/height-checker/)|[Python](./Python/1051.md)|||Easy|
 |1052|[Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/)|[Python](./Python/1052.md)|||Medium|
 |1078|[Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/)|[Python](./Python/1078.md)|||Easy|
 |1109|[Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/)|[Python](./Python/1109.md)|||Medium|
