@@ -365,6 +365,7 @@
 |495|[Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)|[Python](./Python/495.md)|||Easy|
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[Python](./Python/496.md)|||Easy|
 |497|[Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/)|[Python](./Python/497.md)|||Medium|
+|498|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)|[Python](./Python/498.md)|||Easy|
 |500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/)|[Python](./Python/500.md)|||Easy|
 |501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)|[Python](./Python/501.md)|[Java](./Java/501.md)|[C++](./C++/501.md)|Easy|
 |502|[IPO](https://leetcode.com/problems/ipo/)|[Python](./Python/502.md)|||Hard|
