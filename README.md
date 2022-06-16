@@ -385,6 +385,7 @@
 |526|[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/)|[Python](./Python/526.md)|||Medium|
 |528|[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)|[Python](./Python/528.md)|||Medium|
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[Python](./Python/530.md)|||Easy|
+|532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)|[Python](./Python/532.md)|||Medium|
 |537|[Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/)|[Python](./Python/537.md)|||Medium|
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)|[Python](./Python/538.md)|[Java](./Java/538.md)|[C++](./C++/538.md)|Easy|
 |539|[Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)|[Python](./Python/539.md)|||Medium|
