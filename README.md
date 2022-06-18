@@ -465,6 +465,7 @@
 |713|[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)|[Python](./Python/709.md)|||Medium|
 |714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|[Python](./Python/714.md)|||Medium|
 |717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/)|[Python](./Python/717.md)|||Easy|
+|719|[Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/)|[Python](./Python/719.md)|||Hard|
 |720|[Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/)|[Python](./Python/720.md)|||Easy|
 |721|[Accounts Merge](https://leetcode.com/problems/accounts-merge/)|[Python](./Python/721.md)|||Medium|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Python](./Python/724.md)|||Easy|
@@ -627,6 +628,7 @@
 |1051|[Height Checker](https://leetcode.com/problems/height-checker/)|[Python](./Python/1051.md)|||Easy|
 |1052|[Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/)|[Python](./Python/1052.md)|||Medium|
 |1078|[Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/)|[Python](./Python/1078.md)|||Easy|
+|1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[Python](./Python/1089.md)|||Easy|
 |1109|[Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/)|[Python](./Python/1109.md)|||Medium|
 |1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)|[Python](./Python/1122.md)|||Easy|
 |1128|[Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/)|[Python](./Python/1128.md)|||Easy|
