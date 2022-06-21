@@ -630,6 +630,7 @@
 |1052|[Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/)|[Python](./Python/1052.md)|||Medium|
 |1078|[Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/)|[Python](./Python/1078.md)|||Easy|
 |1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[Python](./Python/1089.md)|||Easy|
+|1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Python](./Python/1108.md)|||Easy|
 |1109|[Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/)|[Python](./Python/1109.md)|||Medium|
 |1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)|[Python](./Python/1122.md)|||Easy|
 |1128|[Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/)|[Python](./Python/1128.md)|||Easy|
