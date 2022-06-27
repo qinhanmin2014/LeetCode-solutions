@@ -383,6 +383,7 @@
 |519|[Random Flip Matrix](https://leetcode.com/problems/random-flip-matrix/)|[Python](./Python/519.md)|||Medium|
 |520|[Detect Capital](https://leetcode.com/problems/detect-capital/)|[Python](./Python/520.md)|||Easy|
 |521|[Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/)|[Python](./Python/521.md)|||Easy|
+|522|[Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/)|[Python](./Python/522.md)|||Medium|
 |524|[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)|[Python](./Python/524.md)|||Medium|
 |526|[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/)|[Python](./Python/526.md)|||Medium|
 |528|[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)|[Python](./Python/528.md)|||Medium|
