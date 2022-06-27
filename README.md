@@ -377,6 +377,7 @@
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python](./Python/509.md)|||Easy|
 |513|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)|[Python](./Python/513.md)|||Medium|
 |514|[Freedom Trail](https://leetcode.com/problems/freedom-trail/)|[Python](./Python/514.md)|||Hard|
+|515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|[Python](./Python/515.md)|||Medium|
 |516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)|[Python](./Python/516.md)|||Medium|
 |517|[Super Washing Machines](https://leetcode.com/problems/super-washing-machines/)|[Python](./Python/517.md)|||Medium|
 |518|[Coin Change 2](https://leetcode.com/problems/coin-change-2/)|[Python](./Python/518.md)|||Medium|
