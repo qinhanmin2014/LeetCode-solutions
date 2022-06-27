@@ -466,6 +466,7 @@
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[Python](./Python/704.md)|||Easy|
 |707|[Design Linked List](https://leetcode.com/problems/design-linked-list/)|[Python](./Python/707.md)|||Medium|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Python](./Python/709.md)|||Easy|
+|710|[Random Pick with Blacklist](https://leetcode.com/problems/random-pick-with-blacklist/)|[Python](./Python/710.md)|||Hard|
 |713|[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)|[Python](./Python/709.md)|||Medium|
 |714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|[Python](./Python/714.md)|||Medium|
 |715|[Range Module](https://leetcode.com/problems/range-module/)|[Python](./Python/715.md)|||Hard|
