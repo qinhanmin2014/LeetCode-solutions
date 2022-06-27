@@ -468,6 +468,7 @@
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Python](./Python/709.md)|||Easy|
 |713|[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)|[Python](./Python/709.md)|||Medium|
 |714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|[Python](./Python/714.md)|||Medium|
+|715|[Range Module](https://leetcode.com/problems/range-module/)|[Python](./Python/715.md)|||Hard|
 |717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/)|[Python](./Python/717.md)|||Easy|
 |719|[Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/)|[Python](./Python/719.md)|||Hard|
 |720|[Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/)|[Python](./Python/720.md)|||Easy|
