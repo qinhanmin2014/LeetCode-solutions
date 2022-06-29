@@ -250,6 +250,7 @@
 |319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)|[Python](./Python/319.md)|||Easy|
 |321|[Create Maximum Number](https://leetcode.com/problems/create-maximum-number/)|[Python](./Python/321.md)|||Hard|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)|[Python](./Python/322.md)|||Medium|
+|324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)|[Python](./Python/324.md)|||Medium|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/)|[Python](./Python/326.md)|||Medium|
 |327|[Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/)|[Python](./Python/327.md)|||Hard|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Python](./Python/328.md)|||Medium|
@@ -390,6 +391,7 @@
 |528|[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)|[Python](./Python/528.md)|||Medium|
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[Python](./Python/530.md)|||Easy|
 |532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)|[Python](./Python/532.md)|||Medium|
+|535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)|[Python](./Python/535.md)|||Medium|
 |537|[Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/)|[Python](./Python/537.md)|||Medium|
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)|[Python](./Python/538.md)|[Java](./Java/538.md)|[C++](./C++/538.md)|Easy|
 |539|[Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)|[Python](./Python/539.md)|||Medium|
