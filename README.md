@@ -644,6 +644,7 @@
 |1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[Python](./Python/1137.md)|||Easy|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[Python](./Python/1143.md)|||Medium|
 |1154|[Day of the Year](https://leetcode.com/problems/day-of-the-year/)|[Python](./Python/1154.md)|||Easy|
+|1175|[Prime Arrangements](https://leetcode.com/problems/prime-arrangements/)|[Python](./Python/1175.md)|||Easy|
 |1178|[Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/)|[Python](./Python/1178.md)|||Hard|
 |1185|[Day of the Week](https://leetcode.com/problems/day-of-the-week/)|[Python](./Python/1185.md)|||Easy|
 |1189|[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)|[Python](./Python/1189.md)|||Easy|
