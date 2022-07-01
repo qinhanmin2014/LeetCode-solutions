@@ -211,6 +211,7 @@
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Python](./Python/238.md)|||Medium|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[Python](./Python/239.md)|||Hard|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Python](./Python/240.md)|||Medium|
+|241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)|[Python](./Python/241.md)|||Hard|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Python](./Python/242.md)|||Easy|
 |253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[Python](./Python/253.md)|||Medium|
 |256|[Paint House](https://leetcode.com/problems/paint-house/)|[Python](./Python/256.md)|||Medium|
