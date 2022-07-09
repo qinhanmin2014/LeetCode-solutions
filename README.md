@@ -439,6 +439,7 @@
 |643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)|[Python](./Python/643.md)|||Easy|
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[Python](./Python/645.md)|[Java](./Java/645.md)|[C++](./C++/645.md)|Easy|
 |647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[Python](./Python/647.md)|||Medium|
+|648|[Replace Words](https://leetcode.com/problems/replace-words/)|[Python](./Python/648.md)|||Medium|
 |649|[Dota2 Senate](https://leetcode.com/problems/dota2-senate/)|[Python](./Python/649.md)|||Medium|
 |650|[2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/)|[Python](./Python/650.md)|||Medium|
 |653|[Two Sum IV - Input is a BST(https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)|[Python](./Python/653.md)|||Easy|
