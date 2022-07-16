@@ -406,6 +406,7 @@
 |553|[Optimal Division](https://leetcode.com/problems/optimal-division/)|[Python](./Python/553.md)|||Medium|
 |556|[Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)|[Python](./Python/556.md)|||Medium|
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[Python](./Python/557.md)|||Easy|
+|558|[Logical OR of Two Binary Grids Represented as Quad-Trees](https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/)|[Python](./Python/558.md)|||Medium|
 |559|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[Python](./Python/559.md)|||Easy|
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Python](./Python/560.md)|||Medium|
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[Python](./Python/561.md)|||Easy|
@@ -495,6 +496,7 @@
 |741|[Cherry Pickup](https://leetcode.com/problems/cherry-pickup/)|[Python](./Python/741.md)|||Hard|
 |743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/)|[Python](./Python/743.md)|||Medium|
 |744|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[Python](./Python/743.md)|||Easy|
+|745|[Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/)|[Python](./Python/745.md)|||Hard|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Python](./Python/746.md)|||Easy|
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)|[Python](./Python/747.md)|||Easy|
 |748|[Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/)|[Python](./Python/748.md)|||Easy|
