@@ -571,6 +571,7 @@
 |913|[Cat and Mouse](https://leetcode.com/problems/cat-and-mouse/)|[Python](./Python/913.md)|||Hard|
 |917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)|[Python](./Python/917.md)|||Easy|
 |918|[Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)|[Python](./Python/918.md)|||Medium|
+|919|[Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter/)|[Python](./Python/919.md)|||Medium|
 |922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Python](./Python/922.md)|||Easy|
 |925|[Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)|[Python](./Python/925.md)|||Easy|
 |926|[Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)|[Python](./Python/926.md)|||Medium|
