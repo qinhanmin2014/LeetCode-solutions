@@ -423,6 +423,7 @@
 |590|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[Python](./Python/590.md)|||Easy|
 |591|[Tag Validator](https://leetcode.com/problems/tag-validator/)|[Python](./Python/591.md)|||Hard|
 |592|[Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/)|[Python](./Python/592.md)|||Medium|
+|593|[Valid Square](https://leetcode.com/problems/valid-square/)|[Python](./Python/593.md)|||Medium|
 |594|[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)|[Python](./Python/594.md)|||Easy|
 |598|[Range Addition II](https://leetcode.com/problems/range-addition-ii/)|[Python](./Python/598.md)|||Easy|
 |599|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)|[Python](./Python/599.md)|||Easy|
