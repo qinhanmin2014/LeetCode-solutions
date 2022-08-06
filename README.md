@@ -506,6 +506,7 @@
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)|[Python](./Python/747.md)|||Easy|
 |748|[Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/)|[Python](./Python/748.md)|||Easy|
 |752|[Open the Lock](https://leetcode.com/problems/open-the-lock/)|[Python](./Python/752.md)|[Java](./Java/752.md)|[C++](./C++/752.md)|Medium|
+|757|[Set Intersection Size At Least Two](https://leetcode.com/problems/set-intersection-size-at-least-two/)|[Python](./Python/757.md)|||Hard|
 |762|[Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)|[Python](./Python/762.md)|||Easy|
 |763|[Partition Labels](https://leetcode.com/problems/partition-labels/)|[Python](./Python/763.md)|||Medium|
 |766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)|[Python](./Python/766.md)|||Easy|
