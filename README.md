@@ -708,6 +708,7 @@
 |1403|[Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/)|[Python](./Python/1403.md)|||Easy|
 |1404|[Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/)|[Python](./Python/1404.md)|||Medium|
 |1405|[Longest Happy String](https://leetcode.com/problems/longest-happy-string/)|[Python](./Python/1405.md)|||Medium|
+|1408|[String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/)|[Python](./Python/1408.md)|||Easy|
 |1413|[Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)|[Python](./Python/1413.md)|||Easy|
 |1414|[Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/)|[Python](./Python/1414.md)|||Medium|
 |1415|[The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/)|[Python](./Python/1415.md)|||Medium|
