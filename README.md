@@ -590,6 +590,7 @@
 |942|[DI String Match](https://leetcode.com/problems/di-string-match/)|[Python](./Python/942.md)|||Easy|
 |944|[Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)|[Python](./Python/944.md)|||Easy|
 |947|[Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)|[Python](./Python/947.md)|||Medium|
+|952|[Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/)|[Python](./Python/952.md)|||Hard|
 |953|[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)|[Python](./Python/953.md)|||Easy|
 |954|[Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)|[Python](./Python/954.md)|||Medium|
 |959|[Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/)|[Python](./Python/959.md)|||Medium|
