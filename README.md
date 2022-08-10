@@ -442,6 +442,7 @@
 |637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[Python](./Python/637.md)|||Easy|
 |638|[Shopping Offers](https://leetcode.com/problems/shopping-offers/)|[Python](./Python/638.md)|||Medium|
 |639|[Decode Ways II](https://leetcode.com/problems/decode-ways-ii/)|[Python](./Python/639.md)|||Hard|
+|640|[Solve the Equation](https://leetcode.com/problems/solve-the-equation/)|[Python](./Python/640.md)|||Medium|
 |643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)|[Python](./Python/643.md)|||Easy|
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[Python](./Python/645.md)|[Java](./Java/645.md)|[C++](./C++/645.md)|Easy|
 |647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[Python](./Python/647.md)|||Medium|
