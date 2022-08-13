@@ -525,6 +525,7 @@
 |785|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|[Python](./Python/785.md)|||Medium|
 |786|[K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/)|[Python](./Python/786.md)|||Hard|
 |787|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|[Python](./Python/787.md)|||Medium|
+|788|[Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/)|[Python](./Python/788.md)|||Hard|
 |789|[Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/)|[Python](./Python/789.md)|||Medium|
 |794|[Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/)|[Python](./Python/794.md)|||Medium|
 |796|[Rotate String](https://leetcode.com/problems/rotate-string/)|[Python](./Python/796.md)|||Easy|
