@@ -525,6 +525,7 @@
 |773|[Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/)|[Python](./Python/773.md)|[Java](./Java/773.md)|[C++](./C++/773.md)|Hard|
 |778|[Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/)|[Python](./Python/778.md)|||Hard|
 |780|[Reaching Points](https://leetcode.com/problems/reaching-points/)|[Python](./Python/780.md)|||Hard|
+|782|[Transform to Chessboard](https://leetcode.com/problems/transform-to-chessboard/)|[Python](./Python/782.md)|||Hard|
 |783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|[Python](./Python/783.md)|||Easy|
 |784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[Python](./Python/784.md)|||Medium|
 |785|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|[Python](./Python/785.md)|||Medium|
