@@ -456,6 +456,7 @@
 |658|[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)|[Python](./Python/658.md)|||Medium|
 |659|[Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)|[Python](./Python/659.md)|||Medium|
 |661|[Image Smoother](https://leetcode.com/problems/image-smoother/)|[Python](./Python/661.md)|||Easy|
+|662|[Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)|[Python](./Python/662.md)|||Medium|
 |664|[Strange Printer](https://leetcode.com/problems/strange-printer/)|[Python](./Python/664.md)|||Hard|
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)|[Python](./Python/665.md)|||Easy|
 |668|[Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/)|[Python](./Python/668.md)|||Hard|
