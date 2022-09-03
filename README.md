@@ -446,6 +446,7 @@
 |641|[Design Circular Deque](https://leetcode.com/problems/design-circular-deque/)|[Python](./Python/641.md)|||Medium|
 |643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)|[Python](./Python/643.md)|||Easy|
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[Python](./Python/645.md)|[Java](./Java/645.md)|[C++](./C++/645.md)|Easy|
+|646|[Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)|[Python](./Python/646.md)|||Medium|
 |647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[Python](./Python/647.md)|||Medium|
 |648|[Replace Words](https://leetcode.com/problems/replace-words/)|[Python](./Python/648.md)|||Medium|
 |649|[Dota2 Senate](https://leetcode.com/problems/dota2-senate/)|[Python](./Python/649.md)|||Medium|
