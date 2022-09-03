@@ -470,6 +470,7 @@
 |684|[Baseball Game](https://leetcode.com/problems/baseball-game/)|[Python](./Python/684.md)|||Easy|
 |685|[Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/)|[Python](./Python/685.md)|||Hard|
 |686|[Repeated String Match](https://leetcode.com/problems/repeated-string-match/)|[Python](./Python/686.md)|||Medium|
+|687|[Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/)|[Python](./Python/687.md)|||Medium|
 |688|[Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/)|[Python](./Python/688.md)|||Medium|
 |689|[Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/)|[Python](./Python/689.md)|||Hard|
 |691|[Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word/)|[Python](./Python/691.md)|||Hard|
