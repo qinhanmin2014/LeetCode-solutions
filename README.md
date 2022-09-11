@@ -568,6 +568,7 @@
 |846|[Hand of Straights](https://leetcode.com/problems/hand-of-straights/)|[Python](./Python/846.md)|||Medium|
 |847|[Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)|[Python](./Python/847.md)|||Hard|
 |851|[Loud and Rich](https://leetcode.com/problems/loud-and-rich/)|[Python](./Python/851.md)|||Medium|
+|857|[Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/)|[Python](./Python/857.md)|||Hard|
 |859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/)|[Python](./Python/859.md)|||Easy|
 |860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/)|[Python](./Python/860.md)|||Easy|
 |861|[Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/)|[Python](./Python/861.md)|||Medium|
