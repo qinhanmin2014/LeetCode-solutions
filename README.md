@@ -461,6 +461,7 @@
 |662|[Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)|[Python](./Python/662.md)|||Medium|
 |664|[Strange Printer](https://leetcode.com/problems/strange-printer/)|[Python](./Python/664.md)|||Hard|
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)|[Python](./Python/665.md)|||Easy|
+|667|[Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/)|[Python](./Python/667.md)|||Medium|
 |668|[Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/)|[Python](./Python/668.md)|||Hard|
 |669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)|[Python](./Python/669.md)|||Medium|
 |673|[Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)|[Python](./Python/673.md)|||Medium|
