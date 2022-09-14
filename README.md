@@ -790,6 +790,7 @@
 |1615|[Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/)|[Python](./Python/1615.md)|||Medium|
 |1616|[Split Two Strings to Make Palindrome](https://leetcode.com/problems/split-two-strings-to-make-palindrome/)|[Python](./Python/1616.md)|||Medium|
 |1617|[Count Subtrees With Max Distance Between Cities](https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/)|[Python](./Python/1617.md)|||Hard|
+|1619|[Mean of Array After Removing Some Elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/)|[Python](./Python/1619.md)|||Easy|
 |1629|[Slowest Key](https://leetcode.com/problems/slowest-key/)|[Python](./Python/1629.md)|||Easy|
 |1630|[Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/)|[Python](./Python/1630.md)|||Medium|
 |1631|[Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)|[Python](./Python/1631.md)|||Medium|
