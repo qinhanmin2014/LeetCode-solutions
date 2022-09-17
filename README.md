@@ -464,6 +464,7 @@
 |667|[Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/)|[Python](./Python/667.md)|||Medium|
 |668|[Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/)|[Python](./Python/668.md)|||Hard|
 |669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)|[Python](./Python/669.md)|||Medium|
+|670|[Maximum Swap](https://leetcode.com/problems/maximum-swap/)|[Python](./Python/670.md)|||Medium|
 |673|[Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)|[Python](./Python/673.md)|||Medium|
 |674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|[Python](./Python/674.md)|||Easy|
 |675|[Cut Off Trees for Golf Event](https://leetcode.com/problems/cut-off-trees-for-golf-event/)|[Python](./Python/675.md)|||Hard|
@@ -567,6 +568,7 @@
 |845|[Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)|[Python](./Python/845.md)|||Medium|
 |846|[Hand of Straights](https://leetcode.com/problems/hand-of-straights/)|[Python](./Python/846.md)|||Medium|
 |847|[Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)|[Python](./Python/847.md)|||Hard|
+|850|[Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/)|[Python](./Python/850.md)|||Hard|
 |851|[Loud and Rich](https://leetcode.com/problems/loud-and-rich/)|[Python](./Python/851.md)|||Medium|
 |857|[Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/)|[Python](./Python/857.md)|||Hard|
 |859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/)|[Python](./Python/859.md)|||Easy|
@@ -791,6 +793,7 @@
 |1616|[Split Two Strings to Make Palindrome](https://leetcode.com/problems/split-two-strings-to-make-palindrome/)|[Python](./Python/1616.md)|||Medium|
 |1617|[Count Subtrees With Max Distance Between Cities](https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/)|[Python](./Python/1617.md)|||Hard|
 |1619|[Mean of Array After Removing Some Elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/)|[Python](./Python/1619.md)|||Easy|
+|1624|[Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/)|[Python](./Python/1624.md)|||Easy|
 |1629|[Slowest Key](https://leetcode.com/problems/slowest-key/)|[Python](./Python/1629.md)|||Easy|
 |1630|[Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/)|[Python](./Python/1630.md)|||Medium|
 |1631|[Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)|[Python](./Python/1631.md)|||Medium|
