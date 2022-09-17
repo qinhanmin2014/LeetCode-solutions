@@ -465,6 +465,7 @@
 |668|[Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/)|[Python](./Python/668.md)|||Hard|
 |669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)|[Python](./Python/669.md)|||Medium|
 |670|[Maximum Swap](https://leetcode.com/problems/maximum-swap/)|[Python](./Python/670.md)|||Medium|
+|672|[Bulb Switcher II](https://leetcode.com/problems/bulb-switcher-ii/)|[Python](./Python/672.md)|||Medium|
 |673|[Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)|[Python](./Python/673.md)|||Medium|
 |674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|[Python](./Python/674.md)|||Easy|
 |675|[Cut Off Trees for Golf Event](https://leetcode.com/problems/cut-off-trees-for-golf-event/)|[Python](./Python/675.md)|||Hard|
