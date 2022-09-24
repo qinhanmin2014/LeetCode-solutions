@@ -483,6 +483,7 @@
 |693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|[Python](./Python/693.md)|||Easy|
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Python](./Python/695.md)|||Medium|
 |697|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/)|[Python](./Python/697.md)|||Easy|
+|698|[Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)|[Python](./Python/698.md)|||Medium|
 |699|[Falling Squares](https://leetcode.com/problems/falling-squares/)|[Python](./Python/699.md)|||Hard|
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Python](./Python/700.md)|[Java](./Java/700.md)|[C++](./C++/700.md)|Easy|
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Python](./Python/701.md)|[Java](./Java/701.md)|[C++](./C++/701.md)|Medium|
@@ -572,6 +573,7 @@
 |847|[Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)|[Python](./Python/847.md)|||Hard|
 |850|[Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/)|[Python](./Python/850.md)|||Hard|
 |851|[Loud and Rich](https://leetcode.com/problems/loud-and-rich/)|[Python](./Python/851.md)|||Medium|
+|854|[ K-Similar Strings](https://leetcode.com/problems/k-similar-strings/)|[Python](./Python/854.md)|||Hard|
 |857|[Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/)|[Python](./Python/857.md)|||Hard|
 |859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/)|[Python](./Python/859.md)|||Easy|
 |860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/)|[Python](./Python/860.md)|||Easy|
@@ -803,6 +805,7 @@
 |1636|[Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)|[Python](./Python/1636.md)|||Easy|
 |1640|[Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/)|[Python](./Python/1640.md)|||Easy|
 |1646|[Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/)|[Python](./Python/1646.md)|||Easy|
+|1652|[Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/)|[Python](./Python/1652.md)|||Easy|
 |1656|[Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream/)|[Python](./Python/1656.md)|||Easy|
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[Python](./Python/1672.md)|||Easy|
 |1678|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[Python](./Python/1678.md)|||Easy|
