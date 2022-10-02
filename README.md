@@ -532,6 +532,7 @@
 |768|[Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/)|[Python](./Python/768.md)|||Medium|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python](./Python/771.md)|[Java](./Java/771.md)|[C++](./C++/771.md)|Easy|
 |773|[Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/)|[Python](./Python/773.md)|[Java](./Java/773.md)|[C++](./C++/773.md)|Hard|
+|777|[Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/)|[Python](./Python/777.md)|||Medium|
 |778|[Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/)|[Python](./Python/778.md)|||Hard|
 |780|[Reaching Points](https://leetcode.com/problems/reaching-points/)|[Python](./Python/780.md)|||Hard|
 |782|[Transform to Chessboard](https://leetcode.com/problems/transform-to-chessboard/)|[Python](./Python/782.md)|||Hard|
