@@ -530,6 +530,7 @@
 |766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)|[Python](./Python/766.md)|||Easy|
 |767|[Reorganize String](https://leetcode.com/problems/reorganize-string/)|[Python](./Python/767.md)|||Medium|
 |768|[Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/)|[Python](./Python/768.md)|||Medium|
+|769|[Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/)|[Python](./Python/769.md)|||Medium|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python](./Python/771.md)|[Java](./Java/771.md)|[C++](./C++/771.md)|Easy|
 |773|[Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/)|[Python](./Python/773.md)|[Java](./Java/773.md)|[C++](./C++/773.md)|Hard|
 |777|[Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/)|[Python](./Python/777.md)|||Medium|
@@ -557,6 +558,7 @@
 |812|[Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/)|[Python](./Python/812.md)|||Easy|
 |814|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning//)|[Python](./Python/814.md)|||Medium|
 |815|[Bus Routes](https://leetcode.com/problems/bus-routes/)|[Python](./Python/815.md)|[Java](./Java/815.md)|[C++](./C++/815.md)|Hard|
+|817|[Linked List Components](https://leetcode.com/problems/linked-list-components/)|[Python](./Python/817.md)|||Medium|
 |819|[Most Common Word](https://leetcode.com/problems/most-common-word/)|[Python](./Python/819.md)|||Easy|
 |821|[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)|[Python](./Python/821.md)|||Easy|
 |824|[Goat Latin](https://leetcode.com/problems/goat-latin/)|[Python](./Python/824.md)|||Easy|
@@ -577,6 +579,7 @@
 |850|[Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/)|[Python](./Python/850.md)|||Hard|
 |851|[Loud and Rich](https://leetcode.com/problems/loud-and-rich/)|[Python](./Python/851.md)|||Medium|
 |854|[ K-Similar Strings](https://leetcode.com/problems/k-similar-strings/)|[Python](./Python/854.md)|||Hard|
+|856|[Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)|[Python](./Python/856.md)|||Medium|
 |857|[Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/)|[Python](./Python/857.md)|||Hard|
 |859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/)|[Python](./Python/859.md)|||Easy|
 |860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/)|[Python](./Python/860.md)|||Easy|
@@ -616,6 +619,7 @@
 |931|[Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)|[Python](./Python/931.md)|||Medium|
 |933|[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)|[Python](./Python/933.md)|||Easy|
 |937|[Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)|[Python](./Python/937.md)|||Easy|
+|940|[Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/)|[Python](./Python/940.md)|||Hard|
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[Python](./Python/941.md)|||Easy|
 |942|[DI String Match](https://leetcode.com/problems/di-string-match/)|[Python](./Python/942.md)|||Easy|
 |944|[Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)|[Python](./Python/944.md)|||Easy|
@@ -756,6 +760,7 @@
 |1423|[Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)|[Python](./Python/1423.md)|||Medium|
 |1436|[Destination City](https://leetcode.com/problems/destination-city/)|[Python](./Python/1436.md)|||Easy|
 |1438|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)|[Python](./Python/1438.md)|||Medium|
+|1441|[Build an Array With Stack Operations](https://leetcode.cn/problems/build-an-array-with-stack-operations/)|[Python](./Python/1441.md)|||Easy|
 |1446|[Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)|[Python](./Python/1446.md)|||Easy|
 |1447|[Simplified Fractions](https://leetcode.com/problems/simplified-fractions/)|[Python](./Python/1447.md)|||Medium|
 |1450|[Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)|[Python](./Python/1450.md)|||Easy|
