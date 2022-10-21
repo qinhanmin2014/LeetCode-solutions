@@ -602,6 +602,7 @@
 |890|[Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)|[Python](./Python/890.md)|||Medium|
 |896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[Python](./Python/896.md)|||Easy|
 |899|[Orderly Queue](https://leetcode.com/problems/orderly-queue/)|[Python](./Python/899.md)|||Hard|
+|904|[Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)|[Python](./Python/904.md)|||Medium|
 |905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Python](./Python/905.md)|||Easy|
 |908|[Smallest Range I](https://leetcode.com/problems/smallest-range-i/)|[Python](./Python/908.md)|||Easy|
 |909|[Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)|[Python](./Python/909.md)|[Java](./Java/909.md)|[C++](./C++/909.md)|Medium|
