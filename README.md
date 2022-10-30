@@ -603,6 +603,7 @@
 |896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[Python](./Python/896.md)|||Easy|
 |899|[Orderly Queue](https://leetcode.com/problems/orderly-queue/)|[Python](./Python/899.md)|||Hard|
 |901|[Online Stock Span](https://leetcode.com/problems/online-stock-span/)|[Python](./Python/901.md)|||Medium|
+|902|[Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/)|[Python](./Python/902.md)|||Hard|
 |904|[Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)|[Python](./Python/904.md)|||Medium|
 |905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Python](./Python/905.md)|||Easy|
 |908|[Smallest Range I](https://leetcode.com/problems/smallest-range-i/)|[Python](./Python/908.md)|||Easy|
@@ -827,6 +828,7 @@
 |1689|[Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|[Python](./Python/1689.md)|||Medium|
 |1690|[Stone Game VII](https://leetcode.com/problems/stone-game-vii/)|[Python](./Python/1690.md)|||Medium|
 |1694|[Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/)|[Python](./Python/1694.md)|||Easy|
+|1700|[Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)|[Python](./Python/1700.md)|||Easy|
 |1705|[Maximum Number of Eaten Apples](https://leetcode.com/problems/maximum-number-of-eaten-apples/)|[Python](./Python/1705.md)|||Medium|
 |1706|[Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/)|[Python](./Python/1706.md)|||Medium|
 |1711|[Count Good Meals](https://leetcode.com/problems/count-good-meals/)|[Python](./Python/1711.md)|[Java](./Java/1711.md)|[C++](./C++/1711.md)|Medium|
