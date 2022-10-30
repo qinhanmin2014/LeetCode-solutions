@@ -586,6 +586,7 @@
 |859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/)|[Python](./Python/859.md)|||Easy|
 |860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/)|[Python](./Python/860.md)|||Easy|
 |861|[Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/)|[Python](./Python/861.md)|||Medium|
+|862|[Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/)|[Python](./Python/862.md)|||Hard|
 |867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[Python](./Python/867.md)|||Easy|
 |868|[Binary Gap](https://leetcode.com/problems/binary-gap/)|[Python](./Python/868.md)|||Easy|
 |869|[Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/)|[Python](./Python/869.md)|||Medium|
@@ -625,6 +626,7 @@
 |930|[Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/)|[Python](./Python/930.md)|[Java](./Java/930.md)|[C++](./C++/930.md)|Medium|
 |931|[Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)|[Python](./Python/931.md)|||Medium|
 |933|[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)|[Python](./Python/933.md)|||Easy|
+|934|[Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)|[Python](./Python/934.md)|||Hard|
 |937|[Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)|[Python](./Python/937.md)|||Easy|
 |940|[Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/)|[Python](./Python/940.md)|||Hard|
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[Python](./Python/941.md)|||Easy|
