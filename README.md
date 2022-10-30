@@ -608,6 +608,7 @@
 |902|[Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/)|[Python](./Python/902.md)|||Hard|
 |904|[Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)|[Python](./Python/904.md)|||Medium|
 |905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Python](./Python/905.md)|||Easy|
+|907|[Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/)|[Python](./Python/907.md)|||Medium|
 |908|[Smallest Range I](https://leetcode.com/problems/smallest-range-i/)|[Python](./Python/908.md)|||Easy|
 |909|[Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)|[Python](./Python/909.md)|[Java](./Java/909.md)|[C++](./C++/909.md)|Medium|
 |910|[Smallest Range II](https://leetcode.com/problems/smallest-range-ii/)|[Python](./Python/910.md)|||Medium|
@@ -727,6 +728,7 @@
 |1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[Python](./Python/1221.md)|||Easy|
 |1224|[Maximum Equal Frequency](https://leetcode.com/problems/maximum-equal-frequency/)|[Python](./Python/1224.md)|||Hard|
 |1232|[Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)|[Python](./Python/1232.md)|||Easy|
+|1235|[Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)|[Python](./Python/1235.md)|||Hard|
 |1239|[Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)|[Python](./Python/1239.md)|[Java](./Java/1239.md)|[C++](./C++/1239.md)|Medium|
 |1252|[Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)|[Python](./Python/1252.md)|||Easy|
 |1260|[Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/)|[Python](./Python/1260.md)|||Easy|
