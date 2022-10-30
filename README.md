@@ -602,6 +602,7 @@
 |890|[Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)|[Python](./Python/890.md)|||Medium|
 |896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[Python](./Python/896.md)|||Easy|
 |899|[Orderly Queue](https://leetcode.com/problems/orderly-queue/)|[Python](./Python/899.md)|||Hard|
+|901|[Online Stock Span](https://leetcode.com/problems/online-stock-span/)|[Python](./Python/901.md)|||Medium|
 |904|[Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)|[Python](./Python/904.md)|||Medium|
 |905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Python](./Python/905.md)|||Easy|
 |908|[Smallest Range I](https://leetcode.com/problems/smallest-range-i/)|[Python](./Python/908.md)|||Easy|
@@ -844,6 +845,7 @@
 |1764|[Form Array by Concatenating Subarrays of Another Array](https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array/)|[Python](./Python/1764.md)|||Medium|
 |1765|[Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/)|[Python](./Python/1765.md)|||Medium|
 |1768|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)|[Python](./Python/1768.md)|||Easy|
+|1773|[Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)|[Python](./Python/1773.md)|||Easy|
 |1779|[Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/)|[Python](./Python/1779.md)|||Easy|
 |1784|[Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)|[Python](./Python/1784.md)|||Easy|
 |1790|[Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/)|[Python](./Python/1790.md)|||Easy|
