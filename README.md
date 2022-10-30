@@ -535,6 +535,7 @@
 |773|[Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/)|[Python](./Python/773.md)|[Java](./Java/773.md)|[C++](./C++/773.md)|Hard|
 |777|[Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/)|[Python](./Python/777.md)|||Medium|
 |778|[Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/)|[Python](./Python/778.md)|||Hard|
+|779|[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)|[Python](./Python/779.md)|||Medium|
 |780|[Reaching Points](https://leetcode.com/problems/reaching-points/)|[Python](./Python/780.md)|||Hard|
 |782|[Transform to Chessboard](https://leetcode.com/problems/transform-to-chessboard/)|[Python](./Python/782.md)|||Hard|
 |783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|[Python](./Python/783.md)|||Easy|
@@ -611,6 +612,7 @@
 |910|[Smallest Range II](https://leetcode.com/problems/smallest-range-ii/)|[Python](./Python/910.md)|||Medium|
 |911|[Online Election](https://leetcode.com/problems/online-election/)|[Python](./Python/911.md)|||Medium|
 |913|[Cat and Mouse](https://leetcode.com/problems/cat-and-mouse/)|[Python](./Python/913.md)|||Hard|
+|915|[Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/)|[Python](./Python/915.md)|||Medium|
 |917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)|[Python](./Python/917.md)|||Easy|
 |918|[Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)|[Python](./Python/918.md)|||Medium|
 |919|[Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter/)|[Python](./Python/919.md)|||Medium|
