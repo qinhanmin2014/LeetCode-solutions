@@ -358,6 +358,7 @@
 |478|[Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/)|[Python](./Python/478.md)|||Medium|
 |479|[Largest Palindrome Product](https://leetcode.com/problems/largest-palindrome-product/)|[Python](./Python/479.md)|||Hard|
 |480|[Sliding Window Median](https://leetcode.com/problems/sliding-window-median/)|[Python](./Python/480.md)|||Hard|
+|481|[Magical String](https://leetcode.com/problems/magical-string/)|[Python](./Python/481.md)|||Medium|
 |482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/)|[Python](./Python/482.md)|||Easy|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Python](./Python/485.md)|||Easy|
 |488|[Zuma Game](https://leetcode.com/problems/zuma-game/)|[Python](./Python/488.md)|||Hard|
