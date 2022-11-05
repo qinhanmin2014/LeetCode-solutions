@@ -523,6 +523,7 @@
 |748|[Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/)|[Python](./Python/748.md)|||Easy|
 |749|[Contain Virus](https://leetcode.com/problems/contain-virus/)|[Python](./Python/749.md)|||Hard|
 |752|[Open the Lock](https://leetcode.com/problems/open-the-lock/)|[Python](./Python/752.md)|[Java](./Java/752.md)|[C++](./C++/752.md)|Medium|
+|754|[Reach a Number](https://leetcode.com/problems/reach-a-number/)|[Python](./Python/754.md)|||Medium|
 |757|[Set Intersection Size At Least Two](https://leetcode.com/problems/set-intersection-size-at-least-two/)|[Python](./Python/757.md)|||Hard|
 |761|[Special Binary String](https://leetcode.com/problems/special-binary-string/)|[Python](./Python/761.md)|||Hard|
 |762|[Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)|[Python](./Python/762.md)|||Easy|
@@ -830,6 +831,7 @@
 |1652|[Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/)|[Python](./Python/1652.md)|||Easy|
 |1656|[Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream/)|[Python](./Python/1656.md)|||Easy|
 |1662|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[Python](./Python/1662.md)|||Easy|
+|1668|[Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/description/)|[Python](./Python/1668.md)|||Easy|
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[Python](./Python/1672.md)|||Easy|
 |1678|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[Python](./Python/1678.md)|||Easy|
 |1688|[Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)|[Python](./Python/1688.md)|||Easy|
