@@ -702,6 +702,7 @@
 |1052|[Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/)|[Python](./Python/1052.md)|||Medium|
 |1078|[Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/)|[Python](./Python/1078.md)|||Easy|
 |1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[Python](./Python/1089.md)|||Easy|
+|1106|[Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/description/)|[Python](./Python/1106.md)|||Hard|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Python](./Python/1108.md)|||Easy|
 |1109|[Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/)|[Python](./Python/1109.md)|||Medium|
 |1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)|[Python](./Python/1122.md)|||Easy|
@@ -773,7 +774,7 @@
 |1423|[Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)|[Python](./Python/1423.md)|||Medium|
 |1436|[Destination City](https://leetcode.com/problems/destination-city/)|[Python](./Python/1436.md)|||Easy|
 |1438|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)|[Python](./Python/1438.md)|||Medium|
-|1441|[Build an Array With Stack Operations](https://leetcode.cn/problems/build-an-array-with-stack-operations/)|[Python](./Python/1441.md)|||Easy|
+|1441|[Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)|[Python](./Python/1441.md)|||Easy|
 |1446|[Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)|[Python](./Python/1446.md)|||Easy|
 |1447|[Simplified Fractions](https://leetcode.com/problems/simplified-fractions/)|[Python](./Python/1447.md)|||Medium|
 |1450|[Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)|[Python](./Python/1450.md)|||Easy|
@@ -820,6 +821,7 @@
 |1616|[Split Two Strings to Make Palindrome](https://leetcode.com/problems/split-two-strings-to-make-palindrome/)|[Python](./Python/1616.md)|||Medium|
 |1617|[Count Subtrees With Max Distance Between Cities](https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/)|[Python](./Python/1617.md)|||Hard|
 |1619|[Mean of Array After Removing Some Elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/)|[Python](./Python/1619.md)|||Easy|
+|1620|[Coordinate With Maximum Network Quality](https://leetcode.com/problems/coordinate-with-maximum-network-quality/description/)|[Python](./Python/1620.md)|||Medium|
 |1624|[Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/)|[Python](./Python/1624.md)|||Easy|
 |1629|[Slowest Key](https://leetcode.com/problems/slowest-key/)|[Python](./Python/1629.md)|||Easy|
 |1630|[Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/)|[Python](./Python/1630.md)|||Medium|
