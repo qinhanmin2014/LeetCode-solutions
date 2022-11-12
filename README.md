@@ -547,6 +547,7 @@
 |787|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|[Python](./Python/787.md)|||Medium|
 |788|[Rotated Digits](https://leetcode.com/problems/rotated-digits/)|[Python](./Python/788.md)|||Medium|
 |789|[Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/)|[Python](./Python/789.md)|||Medium|
+|790|[Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/description/)|[Python](./Python/790.md)|||Medium|
 |793|[Preimage Size of Factorial Zeroes Function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/)|[Python](./Python/793.md)|||Hard|
 |794|[Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/)|[Python](./Python/794.md)|||Medium|
 |796|[Rotate String](https://leetcode.com/problems/rotate-string/)|[Python](./Python/796.md)|||Easy|
@@ -836,11 +837,13 @@
 |1668|[Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/description/)|[Python](./Python/1668.md)|||Easy|
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[Python](./Python/1672.md)|||Easy|
 |1678|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[Python](./Python/1678.md)|||Easy|
+|1684|[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|[Python](./Python/1684.md)|||Easy|
 |1688|[Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)|[Python](./Python/1688.md)|||Easy|
 |1689|[Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|[Python](./Python/1689.md)|||Medium|
 |1690|[Stone Game VII](https://leetcode.com/problems/stone-game-vii/)|[Python](./Python/1690.md)|||Medium|
 |1694|[Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/)|[Python](./Python/1694.md)|||Easy|
 |1700|[Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)|[Python](./Python/1700.md)|||Easy|
+|1704|[Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/description/)|[Python](./Python/1704.md)|||Easy|
 |1705|[Maximum Number of Eaten Apples](https://leetcode.com/problems/maximum-number-of-eaten-apples/)|[Python](./Python/1705.md)|||Medium|
 |1706|[Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/)|[Python](./Python/1706.md)|||Medium|
 |1711|[Count Good Meals](https://leetcode.com/problems/count-good-meals/)|[Python](./Python/1711.md)|[Java](./Java/1711.md)|[C++](./C++/1711.md)|Medium|
