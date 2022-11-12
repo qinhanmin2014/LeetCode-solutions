@@ -528,6 +528,7 @@
 |761|[Special Binary String](https://leetcode.com/problems/special-binary-string/)|[Python](./Python/761.md)|||Hard|
 |762|[Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)|[Python](./Python/762.md)|||Easy|
 |763|[Partition Labels](https://leetcode.com/problems/partition-labels/)|[Python](./Python/763.md)|||Medium|
+|764|[Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign/)|[Python](./Python/764.md)|||Medium|
 |765|[Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/)|[Python](./Python/765.md)|||Hard|
 |766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)|[Python](./Python/766.md)|||Easy|
 |767|[Reorganize String](https://leetcode.com/problems/reorganize-string/)|[Python](./Python/767.md)|||Medium|
@@ -563,6 +564,7 @@
 |812|[Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/)|[Python](./Python/812.md)|||Easy|
 |814|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning//)|[Python](./Python/814.md)|||Medium|
 |815|[Bus Routes](https://leetcode.com/problems/bus-routes/)|[Python](./Python/815.md)|[Java](./Java/815.md)|[C++](./C++/815.md)|Hard|
+|816|[Ambiguous Coordinates](https://leetcode.com/problems/ambiguous-coordinates/)|[Python](./Python/816.md)|||Medium|
 |817|[Linked List Components](https://leetcode.com/problems/linked-list-components/)|[Python](./Python/817.md)|||Medium|
 |819|[Most Common Word](https://leetcode.com/problems/most-common-word/)|[Python](./Python/819.md)|||Easy|
 |821|[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)|[Python](./Python/821.md)|||Easy|
@@ -590,6 +592,7 @@
 |860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/)|[Python](./Python/860.md)|||Easy|
 |861|[Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/)|[Python](./Python/861.md)|||Medium|
 |862|[Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/)|[Python](./Python/862.md)|||Hard|
+|864|[Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/description/)|[Python](./Python/864.md)|||Hard|
 |867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[Python](./Python/867.md)|||Easy|
 |868|[Binary Gap](https://leetcode.com/problems/binary-gap/)|[Python](./Python/868.md)|||Easy|
 |869|[Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/)|[Python](./Python/869.md)|||Medium|
