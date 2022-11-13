@@ -549,6 +549,7 @@
 |788|[Rotated Digits](https://leetcode.com/problems/rotated-digits/)|[Python](./Python/788.md)|||Medium|
 |789|[Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/)|[Python](./Python/789.md)|||Medium|
 |790|[Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/description/)|[Python](./Python/790.md)|||Medium|
+|791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/)|[Python](./Python/791.md)|||Medium|
 |793|[Preimage Size of Factorial Zeroes Function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/)|[Python](./Python/793.md)|||Hard|
 |794|[Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/)|[Python](./Python/794.md)|||Medium|
 |796|[Rotate String](https://leetcode.com/problems/rotate-string/)|[Python](./Python/796.md)|||Easy|
