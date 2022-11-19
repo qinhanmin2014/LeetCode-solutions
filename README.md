@@ -551,6 +551,7 @@
 |789|[Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/)|[Python](./Python/789.md)|||Medium|
 |790|[Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/description/)|[Python](./Python/790.md)|||Medium|
 |791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/)|[Python](./Python/791.md)|||Medium|
+|792|[Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/description/)|[Python](./Python/792.md)|||Medium|
 |793|[Preimage Size of Factorial Zeroes Function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/)|[Python](./Python/793.md)|||Hard|
 |794|[Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/)|[Python](./Python/794.md)|||Medium|
 |796|[Rotate String](https://leetcode.com/problems/rotate-string/)|[Python](./Python/796.md)|||Easy|
@@ -560,6 +561,7 @@
 |802|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)|[Python](./Python/802.md)|||Medium|
 |803|[Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit/)|[Python](./Python/803.md)|||Hard|
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|[Python](./Python/804.md)|||Easy|
+|805|[Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/description/)|[Python](./Python/805.md)|||Medium|
 |806|[Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/)|[Python](./Python/806.md)|||Easy|
 |807|[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|[Python](./Python/807.md)|||Medium|
 |811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)|[Python](./Python/811.md)|||Medium|
@@ -610,6 +612,7 @@
 |886|[Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)|[Python](./Python/886.md)|||Medium|
 |888|[Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)|[Python](./Python/888.md)|||Easy|
 |890|[Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)|[Python](./Python/890.md)|||Medium|
+|891|[Sum of Subsequence Widths](https://leetcode.com/problems/sum-of-subsequence-widths/description/)|[Python](./Python/891.md)|||Hard|
 |896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[Python](./Python/896.md)|||Easy|
 |899|[Orderly Queue](https://leetcode.com/problems/orderly-queue/)|[Python](./Python/899.md)|||Hard|
 |901|[Online Stock Span](https://leetcode.com/problems/online-stock-span/)|[Python](./Python/901.md)|||Medium|
