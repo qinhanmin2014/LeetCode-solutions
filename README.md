@@ -536,6 +536,7 @@
 |769|[Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/)|[Python](./Python/769.md)|||Medium|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python](./Python/771.md)|[Java](./Java/771.md)|[C++](./C++/771.md)|Easy|
 |773|[Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/)|[Python](./Python/773.md)|[Java](./Java/773.md)|[C++](./C++/773.md)|Hard|
+|775|[Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/description/)|[Python](./Python/775.md)|||Medium|
 |777|[Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/)|[Python](./Python/777.md)|||Medium|
 |778|[Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/)|[Python](./Python/778.md)|||Hard|
 |779|[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)|[Python](./Python/779.md)|||Medium|
@@ -850,6 +851,7 @@
 |1704|[Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/description/)|[Python](./Python/1704.md)|||Easy|
 |1705|[Maximum Number of Eaten Apples](https://leetcode.com/problems/maximum-number-of-eaten-apples/)|[Python](./Python/1705.md)|||Medium|
 |1706|[Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/)|[Python](./Python/1706.md)|||Medium|
+|1710|[Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/description/)|[Python](./Python/1711.md)|||Easy|
 |1711|[Count Good Meals](https://leetcode.com/problems/count-good-meals/)|[Python](./Python/1711.md)|[Java](./Java/1711.md)|[C++](./C++/1711.md)|Medium|
 |1716|[Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/)|[Python](./Python/1716.md)|||Easy|
 |1717|[Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/)|[Python](./Python/1717.md)|||Medium|
@@ -859,6 +861,7 @@
 |1726|[Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/)|[Python](./Python/1726.md)|||Medium|
 |1727|[Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/)|[Python](./Python/1727.md)|||Medium|
 |1728|[Cat and Mouse II](https://leetcode.com/problems/cat-and-mouse-ii/)|[Python](./Python/1728.md)|||Hard|
+|1732|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/description/)|[Python](./Python/1732.md)|||Easy|
 |1748|[Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/)|[Python](./Python/1748.md)|||Easy|
 |1749|[Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/)|[Python](./Python/1749.md)|||Medium|
 |1750|[Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/)|[Python](./Python/1750.md)|||Medium|
