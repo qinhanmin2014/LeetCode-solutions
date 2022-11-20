@@ -557,6 +557,7 @@
 |796|[Rotate String](https://leetcode.com/problems/rotate-string/)|[Python](./Python/796.md)|||Easy|
 |797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)|[Python](./Python/797.md)|||Medium|
 |798|[Smallest Rotation with Highest Score](https://leetcode.com/problems/smallest-rotation-with-highest-score/)|[Python](./Python/797.md)|||Medium|
+|799|[Champagne Tower](https://leetcode.com/problems/champagne-tower/)|[Python](./Python/799.md)|||Medium|
 |801|[Minimum Swaps To Make Sequences Increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/)|[Python](./Python/801.md)|||Hard|
 |802|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)|[Python](./Python/802.md)|||Medium|
 |803|[Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit/)|[Python](./Python/803.md)|||Hard|
