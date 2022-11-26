@@ -566,6 +566,7 @@
 |805|[Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/description/)|[Python](./Python/805.md)|||Medium|
 |806|[Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/)|[Python](./Python/806.md)|||Easy|
 |807|[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|[Python](./Python/807.md)|||Medium|
+|808|[Soup Servings](https://leetcode.com/problems/soup-servings/)|[Python](./Python/808.md)|||Medium|
 |809|[Expressive Words](https://leetcode.com/problems/expressive-words/)|[Python](./Python/809.md)|||Medium|
 |811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)|[Python](./Python/811.md)|||Medium|
 |812|[Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/)|[Python](./Python/812.md)|||Easy|
@@ -608,7 +609,9 @@
 |873|[Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/)|[Python](./Python/873.md)|||Medium|
 |875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|[Python](./Python/875.md)|||Medium|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python](./Python/876.md)|||Easy|
+|878|[Nth Magical Number](https://leetcode.com/problems/nth-magical-number/)|[Python](./Python/878.md)|||Hard|
 |881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[Python](./Python/881.md)|||Medium|
+|882|[Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/)|[Python](./Python/882.md)|||Hard|
 |883|[Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/)|[Python](./Python/883.md)|||Easy|
 |884|[Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/)|[Python](./Python/884.md)|||Easy|
 |885|[Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)|[Python](./Python/885.md)|||Medium|
