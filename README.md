@@ -875,6 +875,7 @@
 |1748|[Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/)|[Python](./Python/1748.md)|||Easy|
 |1749|[Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/)|[Python](./Python/1749.md)|||Medium|
 |1750|[Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/)|[Python](./Python/1750.md)|||Medium|
+|1752|[Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)|[Python](./Python/1752.md)|||Easy|
 |1763|[Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/)|[Python](./Python/1763.md)|||Easy|
 |1764|[Form Array by Concatenating Subarrays of Another Array](https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array/)|[Python](./Python/1764.md)|||Medium|
 |1765|[Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/)|[Python](./Python/1765.md)|||Medium|
