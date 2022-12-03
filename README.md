@@ -570,7 +570,8 @@
 |809|[Expressive Words](https://leetcode.com/problems/expressive-words/)|[Python](./Python/809.md)|||Medium|
 |811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)|[Python](./Python/811.md)|||Medium|
 |812|[Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/)|[Python](./Python/812.md)|||Easy|
-|814|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning//)|[Python](./Python/814.md)|||Medium|
+|813|[Largest Sum of Averages](https://leetcode.com/problems/largest-sum-of-averages/)|[Python](./Python/813.md)|||Medium|
+|814|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)|[Python](./Python/814.md)|||Medium|
 |815|[Bus Routes](https://leetcode.com/problems/bus-routes/)|[Python](./Python/815.md)|[Java](./Java/815.md)|[C++](./C++/815.md)|Hard|
 |816|[Ambiguous Coordinates](https://leetcode.com/problems/ambiguous-coordinates/)|[Python](./Python/816.md)|||Medium|
 |817|[Linked List Components](https://leetcode.com/problems/linked-list-components/)|[Python](./Python/817.md)|||Medium|
@@ -618,7 +619,8 @@
 |886|[Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)|[Python](./Python/886.md)|||Medium|
 |888|[Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)|[Python](./Python/888.md)|||Easy|
 |890|[Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)|[Python](./Python/890.md)|||Medium|
-|891|[Sum of Subsequence Widths](https://leetcode.com/problems/sum-of-subsequence-widths/description/)|[Python](./Python/891.md)|||Hard|
+|891|[Sum of Subsequence Widths](https://leetcode.com/problems/sum-of-subsequence-widths/)|[Python](./Python/891.md)|||Hard|
+|895|[Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)|[Python](./Python/895.md)|||Hard|
 |896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[Python](./Python/896.md)|||Easy|
 |899|[Orderly Queue](https://leetcode.com/problems/orderly-queue/)|[Python](./Python/899.md)|||Hard|
 |901|[Online Stock Span](https://leetcode.com/problems/online-stock-span/)|[Python](./Python/901.md)|||Medium|
@@ -876,6 +878,7 @@
 |1749|[Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/)|[Python](./Python/1749.md)|||Medium|
 |1750|[Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/)|[Python](./Python/1750.md)|||Medium|
 |1752|[Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)|[Python](./Python/1752.md)|||Easy|
+|1758|[Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/)|[Python](./Python/1758.md)|||Easy|
 |1763|[Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/)|[Python](./Python/1763.md)|||Easy|
 |1764|[Form Array by Concatenating Subarrays of Another Array](https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array/)|[Python](./Python/1764.md)|||Medium|
 |1765|[Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/)|[Python](./Python/1765.md)|||Medium|
