@@ -885,6 +885,7 @@
 |1768|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)|[Python](./Python/1768.md)|||Easy|
 |1769|[Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)|[Python](./Python/1769.md)|||Medium|
 |1773|[Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)|[Python](./Python/1773.md)|||Easy|
+|1774|[Closest Dessert Cost](https://leetcode.com/problems/closest-dessert-cost/)|[Python](./Python/1774.md)|||Medium|
 |1779|[Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/)|[Python](./Python/1779.md)|||Easy|
 |1784|[Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)|[Python](./Python/1784.md)|||Easy|
 |1790|[Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/)|[Python](./Python/1790.md)|||Easy|
