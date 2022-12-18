@@ -888,6 +888,8 @@
 |1774|[Closest Dessert Cost](https://leetcode.com/problems/closest-dessert-cost/)|[Python](./Python/1774.md)|||Medium|
 |1775|[Equal Sum Arrays With Minimum Number of Operations](https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations/)|[Python](./Python/1775.md)|||Medium|
 |1779|[Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/)|[Python](./Python/1779.md)|||Easy|
+|1780|[Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/)|[Python](./Python/1780.md)|||Medium|
+|1781|[Sum of Beauty of All Substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/)|[Python](./Python/1781.md)|||Medium|
 |1784|[Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)|[Python](./Python/1784.md)|||Easy|
 |1790|[Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/)|[Python](./Python/1790.md)|||Easy|
 |1791|[Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/)|[Python](./Python/1791.md)|||Easy|
@@ -900,6 +902,7 @@
 |1818|[Minimum Absolute Sum Difference](https://leetcode.com/problems/minimum-absolute-sum-difference/)|[Python](./Python/1818.md)|||Medium|
 |1822|[Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)|[Python](./Python/1822.md)|||Easy|
 |1823|[Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)|[Python](./Python/1823.md)|||Medium|
+|1827|[Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/)|[Python](./Python/1827.md)|||Easy|
 |1833|[Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)|[Python](./Python/1833.md)|[Java](./Java/1833.md)|[C++](./C++/1833.md)|Medium|
 |1845|[Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/)|[Python](./Python/1845.md)|||Medium|
 |1846|[Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/)|[Python](./Python/1846.md)|||Medium|
