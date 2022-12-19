@@ -857,6 +857,7 @@
 |1688|[Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)|[Python](./Python/1688.md)|||Easy|
 |1689|[Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|[Python](./Python/1689.md)|||Medium|
 |1690|[Stone Game VII](https://leetcode.com/problems/stone-game-vii/)|[Python](./Python/1690.md)|||Medium|
+|1691|[Maximum Height by Stacking Cuboids](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/)|[Python](./Python/1691.md)|||Hard|
 |1694|[Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/)|[Python](./Python/1694.md)|||Easy|
 |1700|[Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)|[Python](./Python/1700.md)|||Easy|
 |1704|[Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/description/)|[Python](./Python/1704.md)|||Easy|
