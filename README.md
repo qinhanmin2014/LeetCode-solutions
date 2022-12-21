@@ -879,7 +879,9 @@
 |1749|[Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/)|[Python](./Python/1749.md)|||Medium|
 |1750|[Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/)|[Python](./Python/1750.md)|||Medium|
 |1752|[Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)|[Python](./Python/1752.md)|||Easy|
+|1753|[Maximum Score From Removing Stones](https://leetcode.com/problems/maximum-score-from-removing-stones/)|[Python](./Python/1753.md)|||Medium|
 |1758|[Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/)|[Python](./Python/1758.md)|||Easy|
+|1760|[Minimum Limit of Balls in a Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/)|[Python](./Python/1760.md)|||Medium|
 |1763|[Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/)|[Python](./Python/1763.md)|||Easy|
 |1764|[Form Array by Concatenating Subarrays of Another Array](https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array/)|[Python](./Python/1764.md)|||Medium|
 |1765|[Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/)|[Python](./Python/1765.md)|||Medium|
