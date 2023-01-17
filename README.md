@@ -874,14 +874,16 @@
 |1726|[Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/)|[Python](./Python/1726.md)|||Medium|
 |1727|[Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/)|[Python](./Python/1727.md)|||Medium|
 |1728|[Cat and Mouse II](https://leetcode.com/problems/cat-and-mouse-ii/)|[Python](./Python/1728.md)|||Hard|
-|1732|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/description/)|[Python](./Python/1732.md)|||Easy|
-|1742|[Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/description/)|[Python](./Python/1742.md)|||Easy|
+|1732|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)|[Python](./Python/1732.md)|||Easy|
+|1742|[Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/)|[Python](./Python/1742.md)|||Easy|
 |1748|[Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/)|[Python](./Python/1748.md)|||Easy|
 |1749|[Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/)|[Python](./Python/1749.md)|||Medium|
 |1750|[Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/)|[Python](./Python/1750.md)|||Medium|
 |1752|[Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)|[Python](./Python/1752.md)|||Easy|
 |1753|[Maximum Score From Removing Stones](https://leetcode.com/problems/maximum-score-from-removing-stones/)|[Python](./Python/1753.md)|||Medium|
+|1754|[Largest Merge Of Two Strings](https://leetcode.com/problems/largest-merge-of-two-strings/)|[Python](./Python/1754.md)|||Medium|
 |1758|[Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/)|[Python](./Python/1758.md)|||Easy|
+|1759|[Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/)|[Python](./Python/1760.md)|||Medium|
 |1760|[Minimum Limit of Balls in a Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/)|[Python](./Python/1760.md)|||Medium|
 |1763|[Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/)|[Python](./Python/1763.md)|||Easy|
 |1764|[Form Array by Concatenating Subarrays of Another Array](https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array/)|[Python](./Python/1764.md)|||Medium|
@@ -901,6 +903,7 @@
 |1796|[Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/)|[Python](./Python/1796.md)|||Easy|
 |1797|[Design Authentication Manager](https://leetcode.com/problems/design-authentication-manager/)|[Python](./Python/1797.md)|||Medium|
 |1800|[Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Python](./Python/1800.md)|||Easy|
+|1802|[Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/)|[Python](./Python/1802.md)|||Medium|
 |1805|[Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Python](./Python/1805.md)|||Easy|
 |1806|[Minimum Number of Operations to Reinitialize a Permutation](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Python](./Python/1806.md)|||Medium|
 |1807|[Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Python](./Python/1807.md)|||Medium|
@@ -945,6 +948,7 @@
 |2032|[Two Out of Three](https://leetcode.com/problems/two-out-of-three/)|[Python](./Python/2032.md)|||Easy|
 |2033|[Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/)|[Python](./Python/2033.md)|||Medium|
 |2034|[Stock Price Fluctuation](https://leetcode.com/problems/stock-price-fluctuation/)|[Python](./Python/2034.md)|||Medium|
+|2037|[Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/)|[Python](./Python/2037.md)|||Easy|
 |2038|[Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/)|[Python](./Python/2038.md)|||Medium|
 |2039|[The Time When the Network Becomes Idle](https://leetcode.com/problems/the-time-when-the-network-becomes-idle/)|[Python](./Python/2039.md)|||Medium|
 |2042|[Check if Numbers Are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/)|[Python](./Python/2042.md)|||Easy|
