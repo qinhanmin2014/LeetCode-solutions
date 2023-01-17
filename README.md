@@ -860,6 +860,7 @@
 |1690|[Stone Game VII](https://leetcode.com/problems/stone-game-vii/)|[Python](./Python/1690.md)|||Medium|
 |1691|[Maximum Height by Stacking Cuboids](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/)|[Python](./Python/1691.md)|||Hard|
 |1694|[Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/)|[Python](./Python/1694.md)|||Easy|
+|1697|[Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/)|[Python](./Python/1697.md)|||Hard|
 |1700|[Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)|[Python](./Python/1700.md)|||Easy|
 |1704|[Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/description/)|[Python](./Python/1704.md)|||Easy|
 |1705|[Maximum Number of Eaten Apples](https://leetcode.com/problems/maximum-number-of-eaten-apples/)|[Python](./Python/1705.md)|||Medium|
@@ -875,6 +876,7 @@
 |1727|[Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/)|[Python](./Python/1727.md)|||Medium|
 |1728|[Cat and Mouse II](https://leetcode.com/problems/cat-and-mouse-ii/)|[Python](./Python/1728.md)|||Hard|
 |1732|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)|[Python](./Python/1732.md)|||Easy|
+|1739|[Building Boxes](https://leetcode.com/problems/building-boxes/)|[Python](./Python/1739.md)|||Hard|
 |1742|[Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/)|[Python](./Python/1742.md)|||Easy|
 |1748|[Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/)|[Python](./Python/1748.md)|||Easy|
 |1749|[Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/)|[Python](./Python/1749.md)|||Medium|
@@ -903,7 +905,9 @@
 |1796|[Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/)|[Python](./Python/1796.md)|||Easy|
 |1797|[Design Authentication Manager](https://leetcode.com/problems/design-authentication-manager/)|[Python](./Python/1797.md)|||Medium|
 |1800|[Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Python](./Python/1800.md)|||Easy|
+|1801|[Number of Orders in the Backlog](https://leetcode.com/problems/number-of-orders-in-the-backlog/)|[Python](./Python/1801.md)|||Medium|
 |1802|[Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/)|[Python](./Python/1802.md)|||Medium|
+|1803|[Count Pairs With XOR in a Range](https://leetcode.com/problems/count-pairs-with-xor-in-a-range/)|[Python](./Python/1803.md)|||Hard|
 |1805|[Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Python](./Python/1805.md)|||Easy|
 |1806|[Minimum Number of Operations to Reinitialize a Permutation](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Python](./Python/1806.md)|||Medium|
 |1807|[Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Python](./Python/1807.md)|||Medium|
@@ -912,6 +916,7 @@
 |1814|[Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/)|[Python](./Python/1814.md)|||Medium|
 |1816|[Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)|[Python](./Python/1816.md)|||Easy|
 |1818|[Minimum Absolute Sum Difference](https://leetcode.com/problems/minimum-absolute-sum-difference/)|[Python](./Python/1818.md)|||Medium|
+|1819|[Number of Different Subsequences GCDs](https://leetcode.com/problems/number-of-different-subsequences-gcds/)|[Python](./Python/1819.md)|||Hard|
 |1822|[Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)|[Python](./Python/1822.md)|||Easy|
 |1823|[Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)|[Python](./Python/1823.md)|||Medium|
 |1827|[Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/)|[Python](./Python/1827.md)|||Easy|
