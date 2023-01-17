@@ -906,6 +906,7 @@
 |1807|[Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Python](./Python/1807.md)|||Medium|
 |1812|[Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/)|[Python](./Python/1812.md)|||Easy|
 |1813|[Sentence Similarity III](https://leetcode.com/problems/sentence-similarity-iii/)|[Python](./Python/1813.md)|||Medium|
+|1814|[Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/)|[Python](./Python/1814.md)|||Medium|
 |1816|[Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)|[Python](./Python/1816.md)|||Easy|
 |1818|[Minimum Absolute Sum Difference](https://leetcode.com/problems/minimum-absolute-sum-difference/)|[Python](./Python/1818.md)|||Medium|
 |1822|[Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)|[Python](./Python/1822.md)|||Easy|
@@ -946,6 +947,7 @@
 |2034|[Stock Price Fluctuation](https://leetcode.com/problems/stock-price-fluctuation/)|[Python](./Python/2034.md)|||Medium|
 |2038|[Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/)|[Python](./Python/2038.md)|||Medium|
 |2039|[The Time When the Network Becomes Idle](https://leetcode.com/problems/the-time-when-the-network-becomes-idle/)|[Python](./Python/2039.md)|||Medium|
+|2042|[Check if Numbers Are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/)|[Python](./Python/2042.md)|||Easy|
 |2043|[Simple Bank System](https://leetcode.com/problems/simple-bank-system/)|[Python](./Python/2043.md)|||Medium|
 |2044|[Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/)|[Python](./Python/2044.md)|||Medium|
 |2045|[Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination/)|[Python](./Python/2045.md)|||Hard|
@@ -968,7 +970,9 @@
 |2109|[Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/)|[Python](./Python/2109.md)|||Medium|
 |2110|[Number of Smooth Descent Periods of a Stock](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/)|[Python](./Python/2110.md)|||Medium|
 |2111|[Minimum Operations to Make the Array K-Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-k-increasing/)|[Python](./Python/2111.md)|||Hard|
+|2180|[Count Integers With Even Digit Sum](https://leetcode.com/problems/count-integers-with-even-digit-sum/)|[Python](./Python/2180.md)|||Easy|
 |2185|[Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/)|[Python](./Python/2185.md)|||Easy|
 |2283|[Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/)|[Python](./Python/2283.md)|||Easy|
 |2287|[Rearrange Characters to Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string/)|[Python](./Python/2287.md)|||Easy|
 |2293|[Min Max Game](https://leetcode.com/problems/min-max-game/)|[Python](./Python/2293.md)|||Easy|
+|2351|[First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/)|[Python](./Python/2351.md)|||Easy|
