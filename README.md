@@ -523,6 +523,7 @@
 |748|[Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/)|[Python](./Python/748.md)|||Easy|
 |749|[Contain Virus](https://leetcode.com/problems/contain-virus/)|[Python](./Python/749.md)|||Hard|
 |752|[Open the Lock](https://leetcode.com/problems/open-the-lock/)|[Python](./Python/752.md)|[Java](./Java/752.md)|[C++](./C++/752.md)|Medium|
+|753|[Cracking the Safe](https://leetcode.com/problems/cracking-the-safe/)|[Python](./Python/753.md)|||Hard|
 |754|[Reach a Number](https://leetcode.com/problems/reach-a-number/)|[Python](./Python/754.md)|||Medium|
 |757|[Set Intersection Size At Least Two](https://leetcode.com/problems/set-intersection-size-at-least-two/)|[Python](./Python/757.md)|||Hard|
 |761|[Special Binary String](https://leetcode.com/problems/special-binary-string/)|[Python](./Python/761.md)|||Hard|
@@ -856,6 +857,7 @@
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[Python](./Python/1672.md)|||Easy|
 |1678|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[Python](./Python/1678.md)|||Easy|
 |1684|[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|[Python](./Python/1684.md)|||Easy|
+|1687|[Delivering Boxes from Storage to Ports](https://leetcode.com/problems/delivering-boxes-from-storage-to-ports/)|[Python](./Python/1687.md)|||Hard|
 |1688|[Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)|[Python](./Python/1688.md)|||Easy|
 |1689|[Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|[Python](./Python/1689.md)|||Medium|
 |1690|[Stone Game VII](https://leetcode.com/problems/stone-game-vii/)|[Python](./Python/1690.md)|||Medium|
@@ -863,6 +865,7 @@
 |1694|[Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/)|[Python](./Python/1694.md)|||Easy|
 |1697|[Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/)|[Python](./Python/1697.md)|||Hard|
 |1700|[Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)|[Python](./Python/1700.md)|||Easy|
+|1703|[Minimum Adjacent Swaps for K Consecutive Ones](https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones/)|[Python](./Python/1703.md)|||Hard|
 |1704|[Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/description/)|[Python](./Python/1704.md)|||Easy|
 |1705|[Maximum Number of Eaten Apples](https://leetcode.com/problems/maximum-number-of-eaten-apples/)|[Python](./Python/1705.md)|||Medium|
 |1706|[Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/)|[Python](./Python/1706.md)|||Medium|
