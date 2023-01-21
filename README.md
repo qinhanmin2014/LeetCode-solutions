@@ -925,6 +925,7 @@
 |1819|[Number of Different Subsequences GCDs](https://leetcode.com/problems/number-of-different-subsequences-gcds/)|[Python](./Python/1819.md)|||Hard|
 |1822|[Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)|[Python](./Python/1822.md)|||Easy|
 |1823|[Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)|[Python](./Python/1823.md)|||Medium|
+|1824|[Minimum Sideway Jumps](https://leetcode.com/problems/minimum-sideway-jumps/)|[Python](./Python/1824.md)|||Medium|
 |1825|[Finding MK Average](https://leetcode.com/problems/finding-mk-average/)|[Python](./Python/1825.md)|||Hard|
 |1827|[Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/)|[Python](./Python/1827.md)|||Easy|
 |1832|[Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)|[Python](./Python/1832.md)|||Easy|
