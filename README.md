@@ -929,6 +929,7 @@
 |1824|[Minimum Sideway Jumps](https://leetcode.com/problems/minimum-sideway-jumps/)|[Python](./Python/1824.md)|||Medium|
 |1825|[Finding MK Average](https://leetcode.com/problems/finding-mk-average/)|[Python](./Python/1825.md)|||Hard|
 |1827|[Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/)|[Python](./Python/1827.md)|||Easy|
+|1828|[Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/)|[Python](./Python/1828.md)|||Medium|
 |1832|[Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)|[Python](./Python/1832.md)|||Easy|
 |1833|[Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)|[Python](./Python/1833.md)|[Java](./Java/1833.md)|[C++](./C++/1833.md)|Medium|
 |1845|[Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/)|[Python](./Python/1845.md)|||Medium|
