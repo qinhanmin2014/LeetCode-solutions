@@ -537,7 +537,7 @@
 |769|[Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/)|[Python](./Python/769.md)|||Medium|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python](./Python/771.md)|[Java](./Java/771.md)|[C++](./C++/771.md)|Easy|
 |773|[Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/)|[Python](./Python/773.md)|[Java](./Java/773.md)|[C++](./C++/773.md)|Hard|
-|775|[Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/description/)|[Python](./Python/775.md)|||Medium|
+|775|[Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/)|[Python](./Python/775.md)|||Medium|
 |777|[Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/)|[Python](./Python/777.md)|||Medium|
 |778|[Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/)|[Python](./Python/778.md)|||Hard|
 |779|[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)|[Python](./Python/779.md)|||Medium|
@@ -550,12 +550,12 @@
 |787|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|[Python](./Python/787.md)|||Medium|
 |788|[Rotated Digits](https://leetcode.com/problems/rotated-digits/)|[Python](./Python/788.md)|||Medium|
 |789|[Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/)|[Python](./Python/789.md)|||Medium|
-|790|[Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/description/)|[Python](./Python/790.md)|||Medium|
-|791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/)|[Python](./Python/791.md)|||Medium|
-|792|[Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/description/)|[Python](./Python/792.md)|||Medium|
+|790|[Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/)|[Python](./Python/790.md)|||Medium|
+|791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string/)|[Python](./Python/791.md)|||Medium|
+|792|[Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)|[Python](./Python/792.md)|||Medium|
 |793|[Preimage Size of Factorial Zeroes Function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/)|[Python](./Python/793.md)|||Hard|
 |794|[Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/)|[Python](./Python/794.md)|||Medium|
-|795|[Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/description/)|[Python](./Python/795.md)|||Medium|
+|795|[Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/)|[Python](./Python/795.md)|||Medium|
 |796|[Rotate String](https://leetcode.com/problems/rotate-string/)|[Python](./Python/796.md)|||Easy|
 |797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)|[Python](./Python/797.md)|||Medium|
 |798|[Smallest Rotation with Highest Score](https://leetcode.com/problems/smallest-rotation-with-highest-score/)|[Python](./Python/797.md)|||Medium|
@@ -564,7 +564,7 @@
 |802|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)|[Python](./Python/802.md)|||Medium|
 |803|[Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit/)|[Python](./Python/803.md)|||Hard|
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|[Python](./Python/804.md)|||Easy|
-|805|[Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/description/)|[Python](./Python/805.md)|||Medium|
+|805|[Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/)|[Python](./Python/805.md)|||Medium|
 |806|[Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/)|[Python](./Python/806.md)|||Easy|
 |807|[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|[Python](./Python/807.md)|||Medium|
 |808|[Soup Servings](https://leetcode.com/problems/soup-servings/)|[Python](./Python/808.md)|||Medium|
@@ -603,7 +603,7 @@
 |860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/)|[Python](./Python/860.md)|||Easy|
 |861|[Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/)|[Python](./Python/861.md)|||Medium|
 |862|[Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/)|[Python](./Python/862.md)|||Hard|
-|864|[Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/description/)|[Python](./Python/864.md)|||Hard|
+|864|[Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/)|[Python](./Python/864.md)|||Hard|
 |867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[Python](./Python/867.md)|||Easy|
 |868|[Binary Gap](https://leetcode.com/problems/binary-gap/)|[Python](./Python/868.md)|||Easy|
 |869|[Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/)|[Python](./Python/869.md)|||Medium|
@@ -721,7 +721,7 @@
 |1052|[Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/)|[Python](./Python/1052.md)|||Medium|
 |1078|[Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/)|[Python](./Python/1078.md)|||Easy|
 |1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[Python](./Python/1089.md)|||Easy|
-|1106|[Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/description/)|[Python](./Python/1106.md)|||Hard|
+|1106|[Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/)|[Python](./Python/1106.md)|||Hard|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Python](./Python/1108.md)|||Easy|
 |1109|[Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/)|[Python](./Python/1109.md)|||Medium|
 |1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)|[Python](./Python/1122.md)|||Easy|
@@ -840,7 +840,7 @@
 |1616|[Split Two Strings to Make Palindrome](https://leetcode.com/problems/split-two-strings-to-make-palindrome/)|[Python](./Python/1616.md)|||Medium|
 |1617|[Count Subtrees With Max Distance Between Cities](https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/)|[Python](./Python/1617.md)|||Hard|
 |1619|[Mean of Array After Removing Some Elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/)|[Python](./Python/1619.md)|||Easy|
-|1620|[Coordinate With Maximum Network Quality](https://leetcode.com/problems/coordinate-with-maximum-network-quality/description/)|[Python](./Python/1620.md)|||Medium|
+|1620|[Coordinate With Maximum Network Quality](https://leetcode.com/problems/coordinate-with-maximum-network-quality/)|[Python](./Python/1620.md)|||Medium|
 |1624|[Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/)|[Python](./Python/1624.md)|||Easy|
 |1629|[Slowest Key](https://leetcode.com/problems/slowest-key/)|[Python](./Python/1629.md)|||Easy|
 |1630|[Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/)|[Python](./Python/1630.md)|||Medium|
@@ -853,7 +853,8 @@
 |1656|[Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream/)|[Python](./Python/1656.md)|||Easy|
 |1658|[Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)|[Python](./Python/1658.md)|||Medium|
 |1662|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[Python](./Python/1662.md)|||Easy|
-|1668|[Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/description/)|[Python](./Python/1668.md)|||Easy|
+|1663|[Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/)|[Python](./Python/1663.md)|||Medium|
+|1668|[Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/)|[Python](./Python/1668.md)|||Easy|
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[Python](./Python/1672.md)|||Easy|
 |1678|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[Python](./Python/1678.md)|||Easy|
 |1684|[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|[Python](./Python/1684.md)|||Easy|
@@ -866,10 +867,10 @@
 |1697|[Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/)|[Python](./Python/1697.md)|||Hard|
 |1700|[Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)|[Python](./Python/1700.md)|||Easy|
 |1703|[Minimum Adjacent Swaps for K Consecutive Ones](https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones/)|[Python](./Python/1703.md)|||Hard|
-|1704|[Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/description/)|[Python](./Python/1704.md)|||Easy|
+|1704|[Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)|[Python](./Python/1704.md)|||Easy|
 |1705|[Maximum Number of Eaten Apples](https://leetcode.com/problems/maximum-number-of-eaten-apples/)|[Python](./Python/1705.md)|||Medium|
 |1706|[Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/)|[Python](./Python/1706.md)|||Medium|
-|1710|[Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/description/)|[Python](./Python/1711.md)|||Easy|
+|1710|[Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)|[Python](./Python/1711.md)|||Easy|
 |1711|[Count Good Meals](https://leetcode.com/problems/count-good-meals/)|[Python](./Python/1711.md)|[Java](./Java/1711.md)|[C++](./C++/1711.md)|Medium|
 |1716|[Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/)|[Python](./Python/1716.md)|||Easy|
 |1717|[Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/)|[Python](./Python/1717.md)|||Medium|
