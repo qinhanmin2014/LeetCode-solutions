@@ -745,6 +745,7 @@
 |1206|[ Design Skiplist](https://leetcode.com/problems/design-skiplist/)|[Python](./Python/1206.md)|||Hard|
 |1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[Python](./Python/1207.md)|||Easy|
 |1208|[Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/)|[Python](./Python/1208.md)|||Medium|
+|1210|[Minimum Moves to Reach Target with Rotations](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/)|[Python](./Python/1210.md)|||Hard|
 |1217|[Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)|[Python](./Python/1217.md)|||Easy|
 |1218|[Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/)|[Python](./Python/1218.md)|||Medium|
 |1219|[Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/)|[Python](./Python/1219.md)|||Medium|
