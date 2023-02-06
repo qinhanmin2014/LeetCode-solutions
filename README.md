@@ -1007,4 +1007,5 @@
 |2315|[Count Asterisks](https://leetcode.com/problems/count-asterisks/)|[Python](./Python/2315.md)|||Easy|
 |2319|[Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/)|[Python](./Python/2319.md)|||Easy|
 |2325|[Decode the Message](https://leetcode.com/problems/decode-the-message/)|[Python](./Python/2325.md)|||Easy|
+|2331|[Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/)|[Python](./Python/2331.md)|||Easy|
 |2351|[First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/)|[Python](./Python/2351.md)|||Easy|
