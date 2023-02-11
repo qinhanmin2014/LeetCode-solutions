@@ -751,8 +751,10 @@
 |1219|[Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/)|[Python](./Python/1219.md)|||Medium|
 |1220|[Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/)|[Python](./Python/1220.md)|||Hard|
 |1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[Python](./Python/1221.md)|||Easy|
+|1223|[Dice Roll Simulation](https://leetcode.com/problems/dice-roll-simulation/)|[Python](./Python/1223.md)|||Hard|
 |1224|[Maximum Equal Frequency](https://leetcode.com/problems/maximum-equal-frequency/)|[Python](./Python/1224.md)|||Hard|
 |1232|[Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)|[Python](./Python/1232.md)|||Easy|
+|1233|[Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/)|[Python](./Python/1233.md)|||Medium|
 |1235|[Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)|[Python](./Python/1235.md)|||Hard|
 |1239|[Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)|[Python](./Python/1239.md)|[Java](./Java/1239.md)|[C++](./C++/1239.md)|Medium|
 |1252|[Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)|[Python](./Python/1252.md)|||Easy|
@@ -834,6 +836,7 @@
 |1600|[Throne Inheritance](https://leetcode.com/problems/throne-inheritance/)|[Python](./Python/1600.md)|[Java](./Java/1600.md)|[C++](./C++/1600.md)|Medium|
 |1601|[Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/)|[Python](./Python/1601.md)|||Hard|
 |1603|[Design Parking System](https://leetcode.com/problems/design-parking-system/)|[Python](./Python/1603.md)|||Easy|
+|1604|[Alert Using Same Key-Card Three or More Times in a One Hour Period](https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/)|[Python](./Python/1604.md)|||Medium|
 |1606|[Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/)|[Python](./Python/1606.md)|||Hard|
 |1608|[Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)|[Python](./Python/1608.md)|||Easy|
 |1609|[Even Odd Tree](https://leetcode.com/problems/even-odd-tree/)|[Python](./Python/1609.md)|||Medium|
@@ -1008,4 +1011,5 @@
 |2319|[Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/)|[Python](./Python/2319.md)|||Easy|
 |2325|[Decode the Message](https://leetcode.com/problems/decode-the-message/)|[Python](./Python/2325.md)|||Easy|
 |2331|[Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/)|[Python](./Python/2331.md)|||Easy|
+|2335|[Minimum Amount of Time to Fill Cups](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/)|[Python](./Python/2335.md)|||Easy|
 |2351|[First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/)|[Python](./Python/2351.md)|||Easy|
