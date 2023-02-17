@@ -758,6 +758,7 @@
 |1224|[Maximum Equal Frequency](https://leetcode.com/problems/maximum-equal-frequency/)|[Python](./Python/1224.md)|||Hard|
 |1232|[Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)|[Python](./Python/1232.md)|||Easy|
 |1233|[Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/)|[Python](./Python/1233.md)|||Medium|
+|1234|[Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/)|[Python](./Python/1234.md)|||Medium|
 |1235|[Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)|[Python](./Python/1235.md)|||Hard|
 |1239|[Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)|[Python](./Python/1239.md)|[Java](./Java/1239.md)|[C++](./C++/1239.md)|Medium|
 |1250|[Check If It Is a Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/)|[Python](./Python/1250.md)|||Hard|
