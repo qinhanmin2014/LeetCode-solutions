@@ -731,6 +731,7 @@
 |1129|[Shortest Path with Alternating Colors](https://leetcode.cn/problems/shortest-path-with-alternating-colors/)|[Python](./Python/1129.md)|||Medium|
 |1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[Python](./Python/1137.md)|||Easy|
 |1138|[Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path/)|[Python](./Python/1138.md)|||Medium|
+|1139|[Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/description/)|[Python](./Python/1139.md)|||Medium|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[Python](./Python/1143.md)|||Medium|
 |1145|[Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/)|[Python](./Python/1145.md)|||Medium|
 |1154|[Day of the Year](https://leetcode.com/problems/day-of-the-year/)|[Python](./Python/1154.md)|||Easy|
@@ -760,6 +761,7 @@
 |1233|[Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/)|[Python](./Python/1233.md)|||Medium|
 |1234|[Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/)|[Python](./Python/1234.md)|||Medium|
 |1235|[Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)|[Python](./Python/1235.md)|||Hard|
+|1237|[Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/description/)|[Python](./Python/1237.md)|||Medium|
 |1239|[Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)|[Python](./Python/1239.md)|[Java](./Java/1239.md)|[C++](./C++/1239.md)|Medium|
 |1250|[Check If It Is a Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/)|[Python](./Python/1250.md)|||Hard|
 |1252|[Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)|[Python](./Python/1252.md)|||Easy|
@@ -1017,4 +1019,5 @@
 |2325|[Decode the Message](https://leetcode.com/problems/decode-the-message/)|[Python](./Python/2325.md)|||Easy|
 |2331|[Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/)|[Python](./Python/2331.md)|||Easy|
 |2335|[Minimum Amount of Time to Fill Cups](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/)|[Python](./Python/2335.md)|||Easy|
+|2341|[Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/)|[Python](./Python/2341.md)|||Easy|
 |2351|[First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/)|[Python](./Python/2351.md)|||Easy|
