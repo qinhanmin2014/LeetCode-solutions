@@ -922,6 +922,7 @@
 |1785|[Minimum Elements to Add to Form a Given Sum](https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum/)|[Python](./Python/1785.md)|||Medium|
 |1790|[Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/)|[Python](./Python/1790.md)|||Easy|
 |1791|[Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/)|[Python](./Python/1791.md)|||Easy|
+|1792|[Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/)|[Python](./Python/1792.md)|||Medium|
 |1796|[Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/)|[Python](./Python/1796.md)|||Easy|
 |1797|[Design Authentication Manager](https://leetcode.com/problems/design-authentication-manager/)|[Python](./Python/1797.md)|||Medium|
 |1798|[Maximum Number of Consecutive Values You Can Make](https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make/)|[Python](./Python/1798.md)|||Medium|
