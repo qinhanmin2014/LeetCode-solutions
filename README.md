@@ -1021,4 +1021,5 @@
 |2331|[Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/)|[Python](./Python/2331.md)|||Easy|
 |2335|[Minimum Amount of Time to Fill Cups](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/)|[Python](./Python/2335.md)|||Easy|
 |2341|[Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/)|[Python](./Python/2341.md)|||Easy|
+|2347|[Best Poker Hand](https://leetcode.com/problems/best-poker-hand/)|[Python](./Python/2347.md)|||Easy|
 |2351|[First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/)|[Python](./Python/2351.md)|||Easy|
