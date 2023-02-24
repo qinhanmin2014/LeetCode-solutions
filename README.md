@@ -731,7 +731,8 @@
 |1129|[Shortest Path with Alternating Colors](https://leetcode.cn/problems/shortest-path-with-alternating-colors/)|[Python](./Python/1129.md)|||Medium|
 |1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[Python](./Python/1137.md)|||Easy|
 |1138|[Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path/)|[Python](./Python/1138.md)|||Medium|
-|1139|[Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/description/)|[Python](./Python/1139.md)|||Medium|
+|1139|[Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/)|[Python](./Python/1139.md)|||Medium|
+|1140|[Stone Game II](https://leetcode.com/problems/stone-game-ii/)|[Python](./Python/1140.md)|||Medium|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[Python](./Python/1143.md)|||Medium|
 |1145|[Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/)|[Python](./Python/1145.md)|||Medium|
 |1154|[Day of the Year](https://leetcode.com/problems/day-of-the-year/)|[Python](./Python/1154.md)|||Easy|
@@ -1025,3 +1026,4 @@
 |2341|[Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/)|[Python](./Python/2341.md)|||Easy|
 |2347|[Best Poker Hand](https://leetcode.com/problems/best-poker-hand/)|[Python](./Python/2347.md)|||Easy|
 |2351|[First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/)|[Python](./Python/2351.md)|||Easy|
+|2357|[Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/)|[Python](./Python/2357.md)|||Easy|
