@@ -1038,4 +1038,7 @@
 |2357|[Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/)|[Python](./Python/2357.md)|||Easy|
 |2363|[Merge Similar Items](https://leetcode.com/problems/merge-similar-items/)|[Python](./Python/2363.md)|||Easy|
 |2373|[Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/)|[Python](./Python/2373.md)|||Easy|
-|2379|[Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/description/)|[Python](./Python/2379.md)|||Easy|
+|2379|[Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/)|[Python](./Python/2379.md)|||Easy|
+|2383|[Minimum Hours of Training to Win a Competition](https://leetcode.com/problems/minimum-hours-of-training-to-win-a-competition/)|[Python](./Python/2383.md)|||Easy|
+|2389|[Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)|[Python](./Python/2389.md)|||Easy|
+|2488|[Count Subarrays With Median K](https://leetcode.cn/problems/count-subarrays-with-median-k/)|[Python](./Python/2488.md)|||Hard|
