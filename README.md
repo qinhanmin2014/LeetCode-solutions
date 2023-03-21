@@ -703,6 +703,7 @@
 |1005|[Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/)|[Python](./Python/1005.md)|||Easy|
 |1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[Python](./Python/1008.md)|||Medium|
 |1009|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)|[Python](./Python/1009.md)|||Easy|
+|1012|[Numbers With Repeated Digits](https://leetcode.com/problems/numbers-with-repeated-digits/)|[Python](./Python/1012.md)|||Hard|
 |1014|[Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/)|[Python](./Python/1014.md)|||Medium|
 |1018|[Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/)|[Python](./Python/1018.md)|||Easy|
 |1019|[Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)|[Python](./Python/1019.md)|||Medium|
@@ -1042,4 +1043,5 @@
 |2379|[Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/)|[Python](./Python/2379.md)|||Easy|
 |2383|[Minimum Hours of Training to Win a Competition](https://leetcode.com/problems/minimum-hours-of-training-to-win-a-competition/)|[Python](./Python/2383.md)|||Easy|
 |2389|[Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)|[Python](./Python/2389.md)|||Easy|
+|2469|[Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/)|[Python](./Python/2469.md)|||Easy|
 |2488|[Count Subarrays With Median K](https://leetcode.cn/problems/count-subarrays-with-median-k/)|[Python](./Python/2488.md)|||Hard|
