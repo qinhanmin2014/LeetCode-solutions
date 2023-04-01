@@ -586,7 +586,8 @@
 |828|[Count Unique Characters of All Substrings of a Given String](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/)|[Python](./Python/828.md)|||Hard|
 |829|[Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/)|[Python](./Python/829.md)|||Hard|
 |830|[Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)|[Python](./Python/830.md)|||Easy|
-|832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Python](./Python/830.md)|||Easy|
+|831|[Masking Personal Information](https://leetcode.com/problems/masking-personal-information/)|[Python](./Python/831.md)|||Medium|
+|832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Python](./Python/832.md)|||Easy|
 |834|[Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/)|[Python](./Python/834.md)|||Hard|
 |838|[Push Dominoes](https://leetcode.com/problems/push-dominoes/)|[Python](./Python/838.md)|||Medium|
 |839|[Similar String Groups](https://leetcode.com/problems/similar-string-groups/)|[Python](./Python/839.md)|||Hard|
@@ -1046,6 +1047,7 @@
 |2351|[First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/)|[Python](./Python/2351.md)|||Easy|
 |2357|[Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/)|[Python](./Python/2357.md)|||Easy|
 |2363|[Merge Similar Items](https://leetcode.com/problems/merge-similar-items/)|[Python](./Python/2363.md)|||Easy|
+|2367|[Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/)|[Python](./Python/2367.md)|||Easy|
 |2373|[Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/)|[Python](./Python/2373.md)|||Easy|
 |2379|[Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/)|[Python](./Python/2379.md)|||Easy|
 |2383|[Minimum Hours of Training to Win a Competition](https://leetcode.com/problems/minimum-hours-of-training-to-win-a-competition/)|[Python](./Python/2383.md)|||Easy|
