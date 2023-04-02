@@ -720,6 +720,7 @@
 |1035|[Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)|[Python](./Python/1035.md)|||Medium|
 |1036|[Escape a Large Maze](https://leetcode.com/problems/escape-a-large-maze/)|[Python](./Python/1036.md)|||Hard|
 |1037|[Valid Boomerang](https://leetcode.com/problems/valid-boomerang/)|[Python](./Python/1037.md)|||Easy|
+|1039|[Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/)|[Python](./Python/1039.md)|||Medium|
 |1044|[Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/)|[Python](./Python/1044.md)|||Hard|
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[Python](./Python/1046.md)|||Easy|
 |1051|[Height Checker](https://leetcode.com/problems/height-checker/)|[Python](./Python/1051.md)|||Easy|
