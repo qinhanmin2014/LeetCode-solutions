@@ -698,6 +698,7 @@
 |997|[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)|[Python](./Python/997.md)|||Easy|
 |998|[Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/)|[Python](./Python/998.md)|||Medium|
 |999|[Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/)|[Python](./Python/999.md)|||Easy|
+|1000|[Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/)|[Python](./Python/1000.md)|||Hard|
 |1001|[Grid Illumination](https://leetcode.com/problems/grid-illumination/)|[Python](./Python/1001.md)|||Hard|
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[Python](./Python/1002.md)|||Easy|
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)|[Python](./Python/1004.md)|||Medium|
@@ -725,6 +726,7 @@
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[Python](./Python/1046.md)|||Easy|
 |1051|[Height Checker](https://leetcode.com/problems/height-checker/)|[Python](./Python/1051.md)|||Easy|
 |1052|[Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/)|[Python](./Python/1052.md)|||Medium|
+|1053|[Previous Permutation With One Swap](https://leetcode.com/problems/previous-permutation-with-one-swap/)|[Python](./Python/1053.md)|||Medium|
 |1078|[Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/)|[Python](./Python/1078.md)|||Easy|
 |1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[Python](./Python/1089.md)|||Easy|
 |1096|[Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/)|[Python](./Python/1096.md)|||Hard|
@@ -1054,5 +1056,6 @@
 |2383|[Minimum Hours of Training to Win a Competition](https://leetcode.com/problems/minimum-hours-of-training-to-win-a-competition/)|[Python](./Python/2383.md)|||Easy|
 |2389|[Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)|[Python](./Python/2389.md)|||Easy|
 |2395|[Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/)|[Python](./Python/2395.md)|||Easy|
+|2427|[Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/)|[Python](./Python/2427.md)|||Easy|
 |2469|[Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/)|[Python](./Python/2469.md)|||Easy|
 |2488|[Count Subarrays With Median K](https://leetcode.cn/problems/count-subarrays-with-median-k/)|[Python](./Python/2488.md)|||Hard|
