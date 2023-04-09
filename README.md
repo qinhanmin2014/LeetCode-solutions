@@ -722,6 +722,7 @@
 |1036|[Escape a Large Maze](https://leetcode.com/problems/escape-a-large-maze/)|[Python](./Python/1036.md)|||Hard|
 |1037|[Valid Boomerang](https://leetcode.com/problems/valid-boomerang/)|[Python](./Python/1037.md)|||Easy|
 |1039|[Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/)|[Python](./Python/1039.md)|||Medium|
+|1040|[Moving Stones Until Consecutive II](https://leetcode.com/problems/moving-stones-until-consecutive-ii/)|[Python](./Python/1040.md)|||Medium|
 |1044|[Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/)|[Python](./Python/1044.md)|||Hard|
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[Python](./Python/1046.md)|||Easy|
 |1051|[Height Checker](https://leetcode.com/problems/height-checker/)|[Python](./Python/1051.md)|||Easy|
@@ -735,6 +736,7 @@
 |1109|[Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/)|[Python](./Python/1109.md)|||Medium|
 |1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)|[Python](./Python/1122.md)|||Easy|
 |1124|[Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/)|[Python](./Python/1124.md)|||Medium|
+|1125|[Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/)|[Python](./Python/1125.md)|||Hard|
 |1128|[Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/)|[Python](./Python/1128.md)|||Easy|
 |1129|[Shortest Path with Alternating Colors](https://leetcode.cn/problems/shortest-path-with-alternating-colors/)|[Python](./Python/1129.md)|||Medium|
 |1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[Python](./Python/1137.md)|||Easy|
@@ -1056,6 +1058,7 @@
 |2383|[Minimum Hours of Training to Win a Competition](https://leetcode.com/problems/minimum-hours-of-training-to-win-a-competition/)|[Python](./Python/2383.md)|||Easy|
 |2389|[Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)|[Python](./Python/2389.md)|||Easy|
 |2395|[Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/)|[Python](./Python/2395.md)|||Easy|
+|2399|[Check Distances Between Same Letters](https://leetcode.com/problems/check-distances-between-same-letters/)|[Python](./Python/2399.md)|||Easy|
 |2427|[Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/)|[Python](./Python/2427.md)|||Easy|
 |2469|[Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/)|[Python](./Python/2469.md)|||Easy|
 |2488|[Count Subarrays With Median K](https://leetcode.cn/problems/count-subarrays-with-median-k/)|[Python](./Python/2488.md)|||Hard|
