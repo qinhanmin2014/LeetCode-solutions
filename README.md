@@ -743,6 +743,7 @@
 |1138|[Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path/)|[Python](./Python/1138.md)|||Medium|
 |1139|[Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/)|[Python](./Python/1139.md)|||Medium|
 |1140|[Stone Game II](https://leetcode.com/problems/stone-game-ii/)|[Python](./Python/1140.md)|||Medium|
+|1141|[Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)|[Python](./Python/1141.md)|||Medium|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[Python](./Python/1143.md)|||Medium|
 |1144|[Decrease Elements To Make Array Zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/)|[Python](./Python/1144.md)|||Medium|
 |1145|[Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/)|[Python](./Python/1145.md)|||Medium|
