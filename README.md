@@ -714,6 +714,7 @@
 |1022|[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)|[Python](./Python/1022.md)|||Easy|
 |1023|[Camelcase Matching](https://leetcode.com/problems/camelcase-matching/)|[Python](./Python/1023.md)|||Medium|
 |1024|[Video Stitching](https://leetcode.com/problems/video-stitching/)|[Python](./Python/1024.md)|||Medium|
+|1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)|[Python](./Python/1026.md)|||Medium|
 |1027|[Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/)|[Python](./Python/1027.md)|||Medium|
 |1030|[Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/)|[Python](./Python/1030.md)|||Easy|
 |1032|[Stream of Characters](https://leetcode.com/problems/stream-of-characters/)|[Python](./Python/1032.md)|||Hard|
@@ -734,6 +735,7 @@
 |1078|[Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/)|[Python](./Python/1078.md)|||Easy|
 |1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[Python](./Python/1089.md)|||Easy|
 |1096|[Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/)|[Python](./Python/1096.md)|||Hard|
+|1105|[Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/)|[Python](./Python/1105.md)|||Medium|
 |1106|[Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/)|[Python](./Python/1106.md)|||Hard|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Python](./Python/1108.md)|||Easy|
 |1109|[Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/)|[Python](./Python/1109.md)|||Medium|
@@ -1064,6 +1066,9 @@
 |2395|[Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/)|[Python](./Python/2395.md)|||Easy|
 |2399|[Check Distances Between Same Letters](https://leetcode.com/problems/check-distances-between-same-letters/)|[Python](./Python/2399.md)|||Easy|
 |2404|[Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/)|[Python](./Python/2404.md)|||Easy|
+|2409|[Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/)|[Python](./Python/2409.md)|||Easy|
+|2418|[Sort the People](https://leetcode.com/problems/sort-the-people/)|[Python](./Python/2418.md)|||Easy|
+|2423|[Remove Letter To Equalize Frequency](https://leetcode.com/problems/remove-letter-to-equalize-frequency/)|[Python](./Python/2423.md)|||Easy|
 |2427|[Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/)|[Python](./Python/2427.md)|||Easy|
 |2469|[Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/)|[Python](./Python/2469.md)|||Easy|
 |2488|[Count Subarrays With Median K](https://leetcode.cn/problems/count-subarrays-with-median-k/)|[Python](./Python/2488.md)|||Hard|
