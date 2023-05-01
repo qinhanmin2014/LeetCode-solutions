@@ -717,6 +717,7 @@
 |1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)|[Python](./Python/1026.md)|||Medium|
 |1027|[Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/)|[Python](./Python/1027.md)|||Medium|
 |1030|[Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/)|[Python](./Python/1030.md)|||Easy|
+|1031|[Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/)|[Python](./Python/1031.md)|||Medium|
 |1032|[Stream of Characters](https://leetcode.com/problems/stream-of-characters/)|[Python](./Python/1032.md)|||Hard|
 |1033|[Moving Stones Until Consecutive](https://leetcode.com/problems/moving-stones-until-consecutive/)|[Python](./Python/1033.md)|||Medium|
 |1034|[Coloring A Border](https://leetcode.com/problems/coloring-a-border/)|[Python](./Python/1034.md)|||Medium|
@@ -727,6 +728,7 @@
 |1040|[Moving Stones Until Consecutive II](https://leetcode.com/problems/moving-stones-until-consecutive-ii/)|[Python](./Python/1040.md)|||Medium|
 |1041|[Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)|[Python](./Python/1041.md)|||Medium|
 |1042|[Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/)|[Python](./Python/1042.md)|||Medium|
+|1043|[Partition Array for Maximum Sum](https://leetcode.cn/problems/partition-array-for-maximum-sum/)|[Python](./Python/1043.md)|||Medium|
 |1044|[Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/)|[Python](./Python/1044.md)|||Hard|
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[Python](./Python/1046.md)|||Easy|
 |1051|[Height Checker](https://leetcode.com/problems/height-checker/)|[Python](./Python/1051.md)|||Easy|
@@ -754,6 +756,7 @@
 |1147|[Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/)|[Python](./Python/1147.md)|||Medium|
 |1154|[Day of the Year](https://leetcode.com/problems/day-of-the-year/)|[Python](./Python/1154.md)|||Easy|
 |1161|[Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)|[Python](./Python/1161.md)|||Medium|
+|1163|[Last Substring in Lexicographical Order](https://leetcode.com/problems/last-substring-in-lexicographical-order/)|[Python](./Python/1163.md)|||Hard|
 |1175|[Prime Arrangements](https://leetcode.com/problems/prime-arrangements/)|[Python](./Python/1175.md)|||Easy|
 |1178|[Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/)|[Python](./Python/1178.md)|||Hard|
 |1184|[Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/)|[Python](./Python/1184.md)|||Easy|
@@ -1067,6 +1070,7 @@
 |2399|[Check Distances Between Same Letters](https://leetcode.com/problems/check-distances-between-same-letters/)|[Python](./Python/2399.md)|||Easy|
 |2404|[Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/)|[Python](./Python/2404.md)|||Easy|
 |2409|[Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/)|[Python](./Python/2409.md)|||Easy|
+|2413|[Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)|[Python](./Python/2413.md)|||Easy|
 |2418|[Sort the People](https://leetcode.com/problems/sort-the-people/)|[Python](./Python/2418.md)|||Easy|
 |2423|[Remove Letter To Equalize Frequency](https://leetcode.com/problems/remove-letter-to-equalize-frequency/)|[Python](./Python/2423.md)|||Easy|
 |2427|[Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/)|[Python](./Python/2427.md)|||Easy|
