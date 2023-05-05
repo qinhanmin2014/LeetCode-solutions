@@ -759,6 +759,7 @@
 |1154|[Day of the Year](https://leetcode.com/problems/day-of-the-year/)|[Python](./Python/1154.md)|||Easy|
 |1161|[Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)|[Python](./Python/1161.md)|||Medium|
 |1163|[Last Substring in Lexicographical Order](https://leetcode.com/problems/last-substring-in-lexicographical-order/)|[Python](./Python/1163.md)|||Hard|
+|1172|[Dinner Plate Stacks](https://leetcode.com/problems/dinner-plate-stacks/)|[Python](./Python/1172.md)|||Hard|
 |1175|[Prime Arrangements](https://leetcode.com/problems/prime-arrangements/)|[Python](./Python/1175.md)|||Easy|
 |1178|[Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/)|[Python](./Python/1178.md)|||Hard|
 |1184|[Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/)|[Python](./Python/1184.md)|||Easy|
