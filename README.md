@@ -701,11 +701,12 @@
 |1000|[Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/)|[Python](./Python/1000.md)|||Hard|
 |1001|[Grid Illumination](https://leetcode.com/problems/grid-illumination/)|[Python](./Python/1001.md)|||Hard|
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[Python](./Python/1002.md)|||Easy|
-|1003|[Check If Word Is Valid After Substitutions](https://leetcode.cn/problems/check-if-word-is-valid-after-substitutions/)|[Python](./Python/1003.md)|||Medium|
+|1003|[Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/)|[Python](./Python/1003.md)|||Medium|
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)|[Python](./Python/1004.md)|||Medium|
 |1005|[Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/)|[Python](./Python/1005.md)|||Easy|
 |1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[Python](./Python/1008.md)|||Medium|
 |1009|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)|[Python](./Python/1009.md)|||Easy|
+|1010|[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)|[Python](./Python/1010.md)|||Medium|
 |1012|[Numbers With Repeated Digits](https://leetcode.com/problems/numbers-with-repeated-digits/)|[Python](./Python/1012.md)|||Hard|
 |1014|[Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/)|[Python](./Python/1014.md)|||Medium|
 |1018|[Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/)|[Python](./Python/1018.md)|||Easy|
@@ -729,7 +730,7 @@
 |1040|[Moving Stones Until Consecutive II](https://leetcode.com/problems/moving-stones-until-consecutive-ii/)|[Python](./Python/1040.md)|||Medium|
 |1041|[Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)|[Python](./Python/1041.md)|||Medium|
 |1042|[Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/)|[Python](./Python/1042.md)|||Medium|
-|1043|[Partition Array for Maximum Sum](https://leetcode.cn/problems/partition-array-for-maximum-sum/)|[Python](./Python/1043.md)|||Medium|
+|1043|[Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/)|[Python](./Python/1043.md)|||Medium|
 |1044|[Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/)|[Python](./Python/1044.md)|||Hard|
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[Python](./Python/1046.md)|||Easy|
 |1048|[Longest String Chain](https://leetcode.com/problems/longest-string-chain/)|[Python](./Python/1048.md)|||Medium|
@@ -747,7 +748,7 @@
 |1124|[Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/)|[Python](./Python/1124.md)|||Medium|
 |1125|[Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/)|[Python](./Python/1125.md)|||Hard|
 |1128|[Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/)|[Python](./Python/1128.md)|||Easy|
-|1129|[Shortest Path with Alternating Colors](https://leetcode.cn/problems/shortest-path-with-alternating-colors/)|[Python](./Python/1129.md)|||Medium|
+|1129|[Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/)|[Python](./Python/1129.md)|||Medium|
 |1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[Python](./Python/1137.md)|||Easy|
 |1138|[Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path/)|[Python](./Python/1138.md)|||Medium|
 |1139|[Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/)|[Python](./Python/1139.md)|||Medium|
@@ -757,6 +758,7 @@
 |1145|[Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/)|[Python](./Python/1145.md)|||Medium|
 |1147|[Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/)|[Python](./Python/1147.md)|||Medium|
 |1154|[Day of the Year](https://leetcode.com/problems/day-of-the-year/)|[Python](./Python/1154.md)|||Easy|
+|1157|[Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray/)|[Python](./Python/1157.md)|||Hard|
 |1161|[Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)|[Python](./Python/1161.md)|||Medium|
 |1163|[Last Substring in Lexicographical Order](https://leetcode.com/problems/last-substring-in-lexicographical-order/)|[Python](./Python/1163.md)|||Hard|
 |1172|[Dinner Plate Stacks](https://leetcode.com/problems/dinner-plate-stacks/)|[Python](./Python/1172.md)|||Hard|
@@ -764,6 +766,7 @@
 |1178|[Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/)|[Python](./Python/1178.md)|||Hard|
 |1184|[Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/)|[Python](./Python/1184.md)|||Easy|
 |1185|[Day of the Week](https://leetcode.com/problems/day-of-the-week/)|[Python](./Python/1185.md)|||Easy|
+|1187|[Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing/)|[Python](./Python/1187.md)|||Hard|
 |1189|[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)|[Python](./Python/1189.md)|||Easy|
 |1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)|[Python](./Python/1190.md)|||Medium|
 |1191|[K-Concatenation Maximum Sum](https://leetcode.com/problems/k-concatenation-maximum-sum/)|[Python](./Python/1191.md)|||Medium|
@@ -830,6 +833,7 @@
 |1415|[The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/)|[Python](./Python/1415.md)|||Medium|
 |1417|[Reformat The String](https://leetcode.com/problems/reformat-the-string/)|[Python](./Python/1417.md)|||Easy|
 |1418|[Display Table of Food Orders in a Restaurant](https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/)|[Python](./Python/1418.md)|[Java](./Java/1418.md)|[C++](./C++/1418.md)|Medium|
+|1419|[Minimum Number of Frogs Croaking](https://leetcode.com/problems/minimum-number-of-frogs-croaking/)|[Python](./Python/1419.md)|||Medium|
 |1422|[Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/)|[Python](./Python/1422.md)|||Easy|
 |1423|[Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)|[Python](./Python/1423.md)|||Medium|
 |1436|[Destination City](https://leetcode.com/problems/destination-city/)|[Python](./Python/1436.md)|||Easy|
@@ -1077,6 +1081,6 @@
 |2418|[Sort the People](https://leetcode.com/problems/sort-the-people/)|[Python](./Python/2418.md)|||Easy|
 |2423|[Remove Letter To Equalize Frequency](https://leetcode.com/problems/remove-letter-to-equalize-frequency/)|[Python](./Python/2423.md)|||Easy|
 |2427|[Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/)|[Python](./Python/2427.md)|||Easy|
-|2432|[The Employee That Worked on the Longest Task](https://leetcode.cn/problems/the-employee-that-worked-on-the-longest-task/)|[Python](./Python/2432.md)|||Easy|
+|2432|[The Employee That Worked on the Longest Task](https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task/)|[Python](./Python/2432.md)|||Easy|
 |2469|[Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/)|[Python](./Python/2469.md)|||Easy|
-|2488|[Count Subarrays With Median K](https://leetcode.cn/problems/count-subarrays-with-median-k/)|[Python](./Python/2488.md)|||Hard|
+|2488|[Count Subarrays With Median K](https://leetcode.com/problems/count-subarrays-with-median-k/)|[Python](./Python/2488.md)|||Hard|
