@@ -745,6 +745,7 @@
 |1073|[Adding Two Negabinary Numbers](https://leetcode.com/problems/adding-two-negabinary-numbers/)|[Python](./Python/1073.md)|||Medium|
 |1078|[Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/)|[Python](./Python/1078.md)|||Easy|
 |1079|[Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/)|[Python](./Python/1079.md)|||Medium|
+|1080|[Insufficient Nodes in Root to Leaf Paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/)|[Python](./Python/1080.md)|||Medium|
 |1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[Python](./Python/1089.md)|||Easy|
 |1096|[Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/)|[Python](./Python/1096.md)|||Hard|
 |1105|[Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/)|[Python](./Python/1105.md)|||Medium|
