@@ -747,6 +747,7 @@
 |1079|[Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/)|[Python](./Python/1079.md)|||Medium|
 |1080|[Insufficient Nodes in Root to Leaf Paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/)|[Python](./Python/1080.md)|||Medium|
 |1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[Python](./Python/1089.md)|||Easy|
+|1090|[Largest Values From Labels](https://leetcode.com/problems/largest-values-from-labels/)|[Python](./Python/1090.md)|||Medium|
 |1096|[Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/)|[Python](./Python/1096.md)|||Hard|
 |1105|[Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/)|[Python](./Python/1105.md)|||Medium|
 |1106|[Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/)|[Python](./Python/1106.md)|||Hard|
