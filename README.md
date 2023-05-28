@@ -854,6 +854,7 @@
 |1423|[Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)|[Python](./Python/1423.md)|||Medium|
 |1436|[Destination City](https://leetcode.com/problems/destination-city/)|[Python](./Python/1436.md)|||Easy|
 |1438|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)|[Python](./Python/1438.md)|||Medium|
+|1439|[Find the Kth Smallest Sum of a Matrix With Sorted Rows](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/)|[Python](./Python/1439.md)|||Hard|
 |1441|[Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)|[Python](./Python/1441.md)|||Easy|
 |1446|[Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)|[Python](./Python/1446.md)|||Easy|
 |1447|[Simplified Fractions](https://leetcode.com/problems/simplified-fractions/)|[Python](./Python/1447.md)|||Medium|
