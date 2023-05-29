@@ -1103,5 +1103,6 @@
 |2441|[Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/)|[Python](./Python/2441.md)|||Easy|
 |2446|[Determine if Two Events Have Conflict](https://leetcode.com/problems/determine-if-two-events-have-conflict/)|[Python](./Python/2446.md)|||Easy|
 |2451|[Odd String Difference](https://leetcode.com/problems/odd-string-difference/)|[Python](./Python/2451.md)|||Easy|
+|2455|[Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/)|[Python](./Python/2455.md)|||Easy|
 |2469|[Number of Valid Clock Times](https://leetcode.com/problems/convert-the-temperature/)|[Python](./Python/2469.md)|||Easy|
 |2488|[Count Subarrays With Median K](https://leetcode.com/problems/count-subarrays-with-median-k/)|[Python](./Python/2488.md)|||Hard|
