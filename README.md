@@ -761,6 +761,7 @@
 |1125|[Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/)|[Python](./Python/1125.md)|||Hard|
 |1128|[Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/)|[Python](./Python/1128.md)|||Easy|
 |1129|[Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/)|[Python](./Python/1129.md)|||Medium|
+|1130|[Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/)|[Python](./Python/1130.md)|||Medium|
 |1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[Python](./Python/1137.md)|||Easy|
 |1138|[Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path/)|[Python](./Python/1138.md)|||Medium|
 |1139|[Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/)|[Python](./Python/1139.md)|||Medium|
@@ -770,6 +771,7 @@
 |1145|[Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/)|[Python](./Python/1145.md)|||Medium|
 |1147|[Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/)|[Python](./Python/1147.md)|||Medium|
 |1154|[Day of the Year](https://leetcode.com/problems/day-of-the-year/)|[Python](./Python/1154.md)|||Easy|
+|1156|[Swap For Longest Repeated Character Substring](https://leetcode.com/problems/swap-for-longest-repeated-character-substring/)|[Python](./Python/1156.md)|||Medium|
 |1157|[Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray/)|[Python](./Python/1157.md)|||Hard|
 |1161|[Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)|[Python](./Python/1161.md)|||Medium|
 |1163|[Last Substring in Lexicographical Order](https://leetcode.com/problems/last-substring-in-lexicographical-order/)|[Python](./Python/1163.md)|||Hard|
@@ -1107,3 +1109,5 @@
 |2455|[Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/)|[Python](./Python/2455.md)|||Easy|
 |2469|[Number of Valid Clock Times](https://leetcode.com/problems/convert-the-temperature/)|[Python](./Python/2469.md)|||Easy|
 |2488|[Count Subarrays With Median K](https://leetcode.com/problems/count-subarrays-with-median-k/)|[Python](./Python/2488.md)|||Hard|
+|2517|[Maximum Tastiness of Candy Basket](https://leetcode.com/problems/maximum-tastiness-of-candy-basket/)|[Python](./Python/2517.md)|||Medium|
+|2559|[Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/)|[Python](./Python/2559.md)|||Medium|
