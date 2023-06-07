@@ -1086,6 +1086,7 @@
 |2341|[Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/)|[Python](./Python/2341.md)|||Easy|
 |2347|[Best Poker Hand](https://leetcode.com/problems/best-poker-hand/)|[Python](./Python/2347.md)|||Easy|
 |2351|[First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/)|[Python](./Python/2351.md)|||Easy|
+|2352|[Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/)|[Python](./Python/2352.md)|||Medium|
 |2357|[Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/)|[Python](./Python/2357.md)|||Easy|
 |2363|[Merge Similar Items](https://leetcode.com/problems/merge-similar-items/)|[Python](./Python/2363.md)|||Easy|
 |2367|[Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/)|[Python](./Python/2367.md)|||Easy|
@@ -1107,7 +1108,10 @@
 |2446|[Determine if Two Events Have Conflict](https://leetcode.com/problems/determine-if-two-events-have-conflict/)|[Python](./Python/2446.md)|||Easy|
 |2451|[Odd String Difference](https://leetcode.com/problems/odd-string-difference/)|[Python](./Python/2451.md)|||Easy|
 |2455|[Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/)|[Python](./Python/2455.md)|||Easy|
+|2460|[Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/)|[Python](./Python/2460.md)|||Easy|
+|2465|[Number of Distinct Averages](https://leetcode.com/problems/number-of-distinct-averages/)|[Python](./Python/2465.md)|||Easy|
 |2469|[Number of Valid Clock Times](https://leetcode.com/problems/convert-the-temperature/)|[Python](./Python/2469.md)|||Easy|
 |2488|[Count Subarrays With Median K](https://leetcode.com/problems/count-subarrays-with-median-k/)|[Python](./Python/2488.md)|||Hard|
 |2517|[Maximum Tastiness of Candy Basket](https://leetcode.com/problems/maximum-tastiness-of-candy-basket/)|[Python](./Python/2517.md)|||Medium|
 |2559|[Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/)|[Python](./Python/2559.md)|||Medium|
+|2611|[Mice and Cheese](https://leetcode.com/problems/mice-and-cheese/)|[Python](./Python/611.md)|||Medium|
