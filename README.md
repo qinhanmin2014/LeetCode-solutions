@@ -775,8 +775,10 @@
 |1157|[Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray/)|[Python](./Python/1157.md)|||Hard|
 |1161|[Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)|[Python](./Python/1161.md)|||Medium|
 |1163|[Last Substring in Lexicographical Order](https://leetcode.com/problems/last-substring-in-lexicographical-order/)|[Python](./Python/1163.md)|||Hard|
+|1171|[Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/)|[Python](./Python/1171.md)|||Medium|
 |1172|[Dinner Plate Stacks](https://leetcode.com/problems/dinner-plate-stacks/)|[Python](./Python/1172.md)|||Hard|
 |1175|[Prime Arrangements](https://leetcode.com/problems/prime-arrangements/)|[Python](./Python/1175.md)|||Easy|
+|1177|[Can Make Palindrome from Substring](https://leetcode.com/problems/can-make-palindrome-from-substring/)|[Python](./Python/1177.md)|||Medium|
 |1178|[Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/)|[Python](./Python/1178.md)|||Hard|
 |1184|[Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/)|[Python](./Python/1184.md)|||Easy|
 |1185|[Day of the Week](https://leetcode.com/problems/day-of-the-week/)|[Python](./Python/1185.md)|||Easy|
@@ -809,6 +811,7 @@
 |1247|[Minimum Swaps to Make Strings Equal](https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/)|[Python](./Python/1247.md)|||Medium|
 |1250|[Check If It Is a Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/)|[Python](./Python/1250.md)|||Hard|
 |1252|[Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)|[Python](./Python/1252.md)|||Easy|
+|1254|[Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/)|[Python](./Python/1254.md)|||Medium|
 |1255|[Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/)|[Python](./Python/1255.md)|||Hard|
 |1260|[Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/)|[Python](./Python/1260.md)|||Easy|
 |1263|[Minimum Moves to Move a Box to Their Target Location](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/)|[Python](./Python/1263.md)|||Hard|
