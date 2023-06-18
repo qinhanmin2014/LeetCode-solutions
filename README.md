@@ -842,6 +842,7 @@
 |1370|[Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/)|[Python](./Python/1370.md)|||Easy|
 |1373|[Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/)|[Python](./Python/1373.md)|||Hard|
 |1374|[Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/)|[Python](./Python/1374.md)|||Easy|
+|1375|[Number of Times Binary String Is Prefix-Aligned](https://leetcode.com/problems/number-of-times-binary-string-is-prefix-aligned/)|[Python](./Python/1375.md)|||Medium|
 |1376|[Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/)|[Python](./Python/1376.md)|||Medium|
 |1377|[Frog Position After T Seconds](https://leetcode.com/problems/frog-position-after-t-seconds/)|[Python](./Python/1377.md)|||Hard|
 |1380|[Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)|[Python](./Python/1380.md)|||Easy|
@@ -1114,6 +1115,8 @@
 |2460|[Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/)|[Python](./Python/2460.md)|||Easy|
 |2465|[Number of Distinct Averages](https://leetcode.com/problems/number-of-distinct-averages/)|[Python](./Python/2465.md)|||Easy|
 |2469|[Number of Valid Clock Times](https://leetcode.com/problems/convert-the-temperature/)|[Python](./Python/2469.md)|||Easy|
+|2475|[Number of Unequal Triplets in Array](https://leetcode.com/problems/number-of-unequal-triplets-in-array/)|[Python](./Python/2475.md)|||Easy|
+|2481|[Minimum Cuts to Divide a Circle](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/)|[Python](./Python/2481.md)|||Easy|
 |2488|[Count Subarrays With Median K](https://leetcode.com/problems/count-subarrays-with-median-k/)|[Python](./Python/2488.md)|||Hard|
 |2517|[Maximum Tastiness of Candy Basket](https://leetcode.com/problems/maximum-tastiness-of-candy-basket/)|[Python](./Python/2517.md)|||Medium|
 |2559|[Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/)|[Python](./Python/2559.md)|||Medium|
