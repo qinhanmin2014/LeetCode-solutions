@@ -775,6 +775,7 @@
 |1157|[Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray/)|[Python](./Python/1157.md)|||Hard|
 |1161|[Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)|[Python](./Python/1161.md)|||Medium|
 |1163|[Last Substring in Lexicographical Order](https://leetcode.com/problems/last-substring-in-lexicographical-order/)|[Python](./Python/1163.md)|||Hard|
+|1170|[Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/)|[Python](./Python/1170.md)|||Medium|
 |1171|[Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/)|[Python](./Python/1171.md)|||Medium|
 |1172|[Dinner Plate Stacks](https://leetcode.com/problems/dinner-plate-stacks/)|[Python](./Python/1172.md)|||Hard|
 |1175|[Prime Arrangements](https://leetcode.com/problems/prime-arrangements/)|[Python](./Python/1175.md)|||Easy|
