@@ -814,6 +814,7 @@
 |1254|[Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/)|[Python](./Python/1254.md)|||Medium|
 |1255|[Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/)|[Python](./Python/1255.md)|||Hard|
 |1260|[Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/)|[Python](./Python/1260.md)|||Easy|
+|1262|[Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/)|[Python](./Python/1262.md)|||Medium|
 |1263|[Minimum Moves to Move a Box to Their Target Location](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/)|[Python](./Python/1263.md)|||Hard|
 |1277|[Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)|[Python](./Python/1277.md)|||Medium|
 |1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[Python](./Python/1281.md)|||Easy|
