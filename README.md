@@ -879,6 +879,7 @@
 |1487|[Making File Names Unique](https://leetcode.com/problems/making-file-names-unique/)|[Python](./Python/1487.md)|||Medium|
 |1489|[Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/)|[Python](./Python/1489.md)|||Hard|
 |1491|[Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)|[Python](./Python/1491.md)|||Easy|
+|1494|[Parallel Courses II](https://leetcode.com/problems/parallel-courses-ii/)|[Python](./Python/1494.md)|||Hard|
 |1502|[Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)|[Python](./Python/1502.md)|||Easy|
 |1518|[Water Bottles](https://leetcode.com/problems/water-bottles/)|[Python](./Python/1518.md)|||Easy|
 |1523|[Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)|[Python](./Python/1523.md)|||Easy|
