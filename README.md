@@ -310,6 +310,7 @@
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Python](./Python/412.md)|||Easy|
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)|[Python](./Python/413.md)|||Medium|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[Python](./Python/414.md)|||Easy|
+|415|[Add Strings](https://leetcode.cn/problems/add-strings/)|[Python](./Python/415.md)|||Easy|
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|[Python](./Python/416.md)|||Medium|
 |417|[Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)|[Python](./Python/417.md)|||Medium|
 |419|[Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/)|[Python](./Python/419.md)|||Medium|
