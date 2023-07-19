@@ -614,6 +614,7 @@
 |870|[Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/)|[Python](./Python/870.md)|||Medium|
 |871|[Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)|[Python](./Python/871.md)|||Hard|
 |873|[Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/)|[Python](./Python/873.md)|||Medium|
+|874|[Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/)|[Python](./Python/874.md)|||Medium|
 |875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|[Python](./Python/875.md)|||Medium|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python](./Python/876.md)|||Easy|
 |878|[Nth Magical Number](https://leetcode.com/problems/nth-magical-number/)|[Python](./Python/878.md)|||Hard|
@@ -1030,6 +1031,7 @@
 |1833|[Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)|[Python](./Python/1833.md)|[Java](./Java/1833.md)|[C++](./C++/1833.md)|Medium|
 |1845|[Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/)|[Python](./Python/1845.md)|||Medium|
 |1846|[Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/)|[Python](./Python/1846.md)|||Medium|
+|1851|[Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/)|[Python](./Python/1851.md)|||Hard|
 |1886|[Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)|[Python](./Python/1894.md)|||Easy|
 |1894|[Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/)|[Python](./Python/1894.md)|||Medium|
 |1911|[Maximum Alternating Subsequence Sum](https://leetcode.com/problems/maximum-alternating-subsequence-sum/)|[Python](./Python/1911.md)|||Medium|
