@@ -1092,6 +1092,7 @@
 |2178|[Maximum Split of Positive Even Integers](https://leetcode.com/problems/maximum-split-of-positive-even-integers/)|[Python](./Python/2178.md)|||Medium|
 |2180|[Count Integers With Even Digit Sum](https://leetcode.com/problems/count-integers-with-even-digit-sum/)|[Python](./Python/2180.md)|||Easy|
 |2185|[Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/)|[Python](./Python/2185.md)|||Easy|
+|2208|[Minimum Operations to Halve Array Sum](https://leetcode.com/problems/minimum-operations-to-halve-array-sum/)|[Python](./Python/2208.md)|||Medium|
 |2283|[Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/)|[Python](./Python/2283.md)|||Easy|
 |2287|[Rearrange Characters to Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string/)|[Python](./Python/2287.md)|||Easy|
 |2293|[Min Max Game](https://leetcode.com/problems/min-max-game/)|[Python](./Python/2293.md)|||Easy|
