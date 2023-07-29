@@ -1073,6 +1073,7 @@
 |2047|[Number of Valid Words in a Sentence](https://leetcode.com/problems/number-of-valid-words-in-a-sentence/)|[Python](./Python/2047.md)|||Easy|
 |2048|[Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number/)|[Python](./Python/2048.md)|||Medium|
 |2049|[Count Nodes With the Highest Score](https://leetcode.com/problems/count-nodes-with-the-highest-score/)|[Python](./Python/2049.md)|||Medium|
+|2050|[Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii/)|[Python](./Python/2050.md)|||Hard|
 |2055|[Plates Between Candles](https://leetcode.com/problems/plates-between-candles/)|[Python](./Python/2055.md)|||Medium|
 |2094|[Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/)|[Python](./Python/2094.md)|||Easy|
 |2095|[Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)|[Python](./Python/2095.md)|||Medium|
@@ -1138,10 +1139,12 @@
 |2488|[Count Subarrays With Median K](https://leetcode.com/problems/count-subarrays-with-median-k/)|[Python](./Python/2488.md)|||Hard|
 |2490|[Circular Sentence](https://leetcode.com/problems/circular-sentence/)|[Python](./Python/2490.md)|||Medium|
 |2496|[Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/)|[Python](./Python/2496.md)|||Easy|
+|2500|[Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row/)|[Python](./Python/2500.md)|||Easy|
 |2517|[Maximum Tastiness of Candy Basket](https://leetcode.com/problems/maximum-tastiness-of-candy-basket/)|[Python](./Python/2517.md)|||Medium|
 |2532|[Time to Cross a Bridge](https://leetcode.com/problems/time-to-cross-a-bridge/)|[Python](./Python/2532.md)|||Hard|
 |2544|[Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum/description/)|[Python](./Python/2544.md)|||Easy|
-|2559|[Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/)|[Python](./Python/2559.md)|||Medium|
+|2559|[Handling Sum Queries After Update](https://leetcode.com/problems/count-vowel-strings-in-ranges/)|[Python](./Python/2559.md)|||Medium|
+|2569|[Count Vowel Strings in Ranges](https://leetcode.com/problems/handling-sum-queries-after-update/)|[Python](./Python/2569.md)|||Hard|
 |2600|[K Items With the Maximum Sum](https://leetcode.com/problems/k-items-with-the-maximum-sum/)|[Python](./Python/2600.md)|||Easy|
 |2611|[Mice and Cheese](https://leetcode.com/problems/mice-and-cheese/)|[Python](./Python/2611.md)|||Medium|
 |2679|[Sum in a Matrix](https://leetcode.com/problems/sum-in-a-matrix/)|[Python](./Python/2679.md)|||Medium|
