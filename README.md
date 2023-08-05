@@ -503,6 +503,7 @@
 |719|[Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/)|[Python](./Python/719.md)|||Hard|
 |720|[Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/)|[Python](./Python/720.md)|||Easy|
 |721|[Accounts Merge](https://leetcode.com/problems/accounts-merge/)|[Python](./Python/721.md)|||Medium|
+|722|[Remove Comments](https://leetcode.com/problems/remove-comments/)|[Python](./Python/722.md)|||Medium|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Python](./Python/724.md)|||Easy|
 |725|[Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/)|[Python](./Python/725.md)|||Medium|
 |726|[Number of Atoms](https://leetcode.com/problems/number-of-atoms/)|[Python](./Python/726.md)|[Java](./Java/726.md)|[C++](./C++/726.md)|Hard|
@@ -581,6 +582,7 @@
 |817|[Linked List Components](https://leetcode.com/problems/linked-list-components/)|[Python](./Python/817.md)|||Medium|
 |819|[Most Common Word](https://leetcode.com/problems/most-common-word/)|[Python](./Python/819.md)|||Easy|
 |821|[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)|[Python](./Python/821.md)|||Easy|
+|822|[Card Flipping Game](https://leetcode.com/problems/card-flipping-game/)|[Python](./Python/822.md)|||Medium|
 |824|[Goat Latin](https://leetcode.com/problems/goat-latin/)|[Python](./Python/824.md)|||Easy|
 |825|[Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/)|[Python](./Python/825.md)|||Medium|
 |827|[Making A Large Island](https://leetcode.com/problems/making-a-large-island/)|[Python](./Python/827.md)|||Hard|
@@ -1148,4 +1150,5 @@
 |2600|[K Items With the Maximum Sum](https://leetcode.com/problems/k-items-with-the-maximum-sum/)|[Python](./Python/2600.md)|||Easy|
 |2611|[Mice and Cheese](https://leetcode.com/problems/mice-and-cheese/)|[Python](./Python/2611.md)|||Medium|
 |2679|[Sum in a Matrix](https://leetcode.com/problems/sum-in-a-matrix/)|[Python](./Python/2679.md)|||Medium|
+|2681|[Power of Heroes](https://leetcode.com/problems/power-of-heroes/)|[Python](./Python/2681.md)|||Hard|
 |2699|[Modify Graph Edge Weights](https://leetcode.com/problems/modify-graph-edge-weights/)|[Python](./Python/2699.md)|||Hard|
