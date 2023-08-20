@@ -591,6 +591,7 @@
 |830|[Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)|[Python](./Python/830.md)|||Easy|
 |831|[Masking Personal Information](https://leetcode.com/problems/masking-personal-information/)|[Python](./Python/831.md)|||Medium|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Python](./Python/832.md)|||Easy|
+|833|[Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/)|[Python](./Python/833.md)|||Medium|
 |834|[Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/)|[Python](./Python/834.md)|||Hard|
 |838|[Push Dominoes](https://leetcode.com/problems/push-dominoes/)|[Python](./Python/838.md)|||Medium|
 |839|[Similar String Groups](https://leetcode.com/problems/similar-string-groups/)|[Python](./Python/839.md)|||Hard|
@@ -874,6 +875,7 @@
 |1438|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)|[Python](./Python/1438.md)|||Medium|
 |1439|[Find the Kth Smallest Sum of a Matrix With Sorted Rows](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/)|[Python](./Python/1439.md)|||Hard|
 |1441|[Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)|[Python](./Python/1441.md)|||Easy|
+|1444|[Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/)|[Python](./Python/1444.md)|||Hard|
 |1446|[Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)|[Python](./Python/1446.md)|||Easy|
 |1447|[Simplified Fractions](https://leetcode.com/problems/simplified-fractions/)|[Python](./Python/1447.md)|||Medium|
 |1450|[Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)|[Python](./Python/1450.md)|||Easy|
@@ -1097,6 +1099,8 @@
 |2180|[Count Integers With Even Digit Sum](https://leetcode.com/problems/count-integers-with-even-digit-sum/)|[Python](./Python/2180.md)|||Easy|
 |2185|[Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/)|[Python](./Python/2185.md)|||Easy|
 |2208|[Minimum Operations to Halve Array Sum](https://leetcode.com/problems/minimum-operations-to-halve-array-sum/)|[Python](./Python/2208.md)|||Medium|
+|2235|[Add Two Integers](https://leetcode.cn/problems/add-two-integers/)|[Python](./Python/2235.md)|||Easy|
+|2236|[Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/)|[Python](./Python/2236.md)|||Easy|
 |2283|[Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/)|[Python](./Python/2283.md)|||Easy|
 |2287|[Rearrange Characters to Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string/)|[Python](./Python/2287.md)|||Easy|
 |2293|[Min Max Game](https://leetcode.com/problems/min-max-game/)|[Python](./Python/2293.md)|||Easy|
@@ -1152,4 +1156,5 @@
 |2611|[Mice and Cheese](https://leetcode.com/problems/mice-and-cheese/)|[Python](./Python/2611.md)|||Medium|
 |2679|[Sum in a Matrix](https://leetcode.com/problems/sum-in-a-matrix/)|[Python](./Python/2679.md)|||Medium|
 |2681|[Power of Heroes](https://leetcode.com/problems/power-of-heroes/)|[Python](./Python/2681.md)|||Hard|
+|2682|[Find the Losers of the Circular Game](https://leetcode.com/problems/find-the-losers-of-the-circular-game/)|[Python](./Python/2682.md)|||Easy|
 |2699|[Modify Graph Edge Weights](https://leetcode.com/problems/modify-graph-edge-weights/)|[Python](./Python/2699.md)|||Hard|
