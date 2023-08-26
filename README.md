@@ -600,6 +600,7 @@
 |845|[Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)|[Python](./Python/845.md)|||Medium|
 |846|[Hand of Straights](https://leetcode.com/problems/hand-of-straights/)|[Python](./Python/846.md)|||Medium|
 |847|[Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)|[Python](./Python/847.md)|||Hard|
+|849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)|[Python](./Python/849.md)|||Medium|
 |850|[Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/)|[Python](./Python/850.md)|||Hard|
 |851|[Loud and Rich](https://leetcode.com/problems/loud-and-rich/)|[Python](./Python/851.md)|||Medium|
 |854|[K-Similar Strings](https://leetcode.com/problems/k-similar-strings/)|[Python](./Python/854.md)|||Hard|
@@ -825,6 +826,7 @@
 |1260|[Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/)|[Python](./Python/1260.md)|||Easy|
 |1262|[Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/)|[Python](./Python/1262.md)|||Medium|
 |1263|[Minimum Moves to Move a Box to Their Target Location](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/)|[Python](./Python/1263.md)|||Hard|
+|1267|[Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/)|[Python](./Python/1267.md)|||Medium|
 |1277|[Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)|[Python](./Python/1277.md)|||Medium|
 |1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[Python](./Python/1281.md)|||Easy|
 |1282|[Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)|[Python](./Python/1282.md)|||Medium|
@@ -1003,6 +1005,7 @@
 |1779|[Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/)|[Python](./Python/1779.md)|||Easy|
 |1780|[Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/)|[Python](./Python/1780.md)|||Medium|
 |1781|[Sum of Beauty of All Substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/)|[Python](./Python/1781.md)|||Medium|
+|1782|[Count Pairs Of Nodes](https://leetcode.com/problems/count-pairs-of-nodes/)|[Python](./Python/1782.md)|||Hard|
 |1784|[Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)|[Python](./Python/1784.md)|||Easy|
 |1785|[Minimum Elements to Add to Form a Given Sum](https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum/)|[Python](./Python/1785.md)|||Medium|
 |1790|[Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/)|[Python](./Python/1790.md)|||Easy|
@@ -1112,6 +1115,7 @@
 |2325|[Decode the Message](https://leetcode.com/problems/decode-the-message/)|[Python](./Python/2325.md)|||Easy|
 |2331|[Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/)|[Python](./Python/2331.md)|||Easy|
 |2335|[Minimum Amount of Time to Fill Cups](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/)|[Python](./Python/2335.md)|||Easy|
+|2337|[Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/)|[Python](./Python/2337.md)|||Medium|
 |2341|[Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/)|[Python](./Python/2341.md)|||Easy|
 |2347|[Best Poker Hand](https://leetcode.com/problems/best-poker-hand/)|[Python](./Python/2347.md)|||Easy|
 |2351|[First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/)|[Python](./Python/2351.md)|||Easy|
