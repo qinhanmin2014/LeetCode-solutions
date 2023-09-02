@@ -583,6 +583,7 @@
 |819|[Most Common Word](https://leetcode.com/problems/most-common-word/)|[Python](./Python/819.md)|||Easy|
 |821|[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)|[Python](./Python/821.md)|||Easy|
 |822|[Card Flipping Game](https://leetcode.com/problems/card-flipping-game/)|[Python](./Python/822.md)|||Medium|
+|823|[Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/)|[Python](./Python/823.md)|||Medium|
 |824|[Goat Latin](https://leetcode.com/problems/goat-latin/)|[Python](./Python/824.md)|||Easy|
 |825|[Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/)|[Python](./Python/825.md)|||Medium|
 |827|[Making A Large Island](https://leetcode.com/problems/making-a-large-island/)|[Python](./Python/827.md)|||Hard|
@@ -948,6 +949,7 @@
 |1646|[Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/)|[Python](./Python/1646.md)|||Easy|
 |1652|[Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/)|[Python](./Python/1652.md)|||Easy|
 |1653|[Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/)|[Python](./Python/1653.md)|||Medium|
+|1654|[Minimum Jumps to Reach Home](https://leetcode.com/problems/minimum-jumps-to-reach-home/)|[Python](./Python/1654.md)|||Medium|
 |1656|[Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream/)|[Python](./Python/1656.md)|||Easy|
 |1658|[Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)|[Python](./Python/1658.md)|||Medium|
 |1659|[Maximize Grid Happiness](https://leetcode.com/problems/maximize-grid-happiness/)|[Python](./Python/1659.md)|||Hard|
@@ -994,6 +996,7 @@
 |1758|[Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/)|[Python](./Python/1758.md)|||Easy|
 |1759|[Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/)|[Python](./Python/1760.md)|||Medium|
 |1760|[Minimum Limit of Balls in a Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/)|[Python](./Python/1760.md)|||Medium|
+|1761|[Minimum Degree of a Connected Trio in a Graph](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/)|[Python](./Python/1761.md)|||Hard|
 |1763|[Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/)|[Python](./Python/1763.md)|||Easy|
 |1764|[Form Array by Concatenating Subarrays of Another Array](https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array/)|[Python](./Python/1764.md)|||Medium|
 |1765|[Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/)|[Python](./Python/1765.md)|||Medium|
@@ -1104,6 +1107,7 @@
 |2208|[Minimum Operations to Halve Array Sum](https://leetcode.com/problems/minimum-operations-to-halve-array-sum/)|[Python](./Python/2208.md)|||Medium|
 |2235|[Add Two Integers](https://leetcode.cn/problems/add-two-integers/)|[Python](./Python/2235.md)|||Easy|
 |2236|[Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/)|[Python](./Python/2236.md)|||Easy|
+|2240|[Number of Ways to Buy Pens and Pencils](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/)|[Python](./Python/2240.md)|||Medium|
 |2283|[Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/)|[Python](./Python/2283.md)|||Easy|
 |2287|[Rearrange Characters to Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string/)|[Python](./Python/2287.md)|||Easy|
 |2293|[Min Max Game](https://leetcode.com/problems/min-max-game/)|[Python](./Python/2293.md)|||Easy|
@@ -1151,6 +1155,7 @@
 |2490|[Circular Sentence](https://leetcode.com/problems/circular-sentence/)|[Python](./Python/2490.md)|||Medium|
 |2496|[Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/)|[Python](./Python/2496.md)|||Easy|
 |2500|[Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row/)|[Python](./Python/2500.md)|||Easy|
+|2511|[Maximum Enemy Forts That Can Be Captured](https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured/)|[Python](./Python/2511.md)|||Easy|
 |2517|[Maximum Tastiness of Candy Basket](https://leetcode.com/problems/maximum-tastiness-of-candy-basket/)|[Python](./Python/2517.md)|||Medium|
 |2532|[Time to Cross a Bridge](https://leetcode.com/problems/time-to-cross-a-bridge/)|[Python](./Python/2532.md)|||Hard|
 |2544|[Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum/description/)|[Python](./Python/2544.md)|||Easy|
