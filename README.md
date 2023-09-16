@@ -811,6 +811,7 @@
 |1219|[Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/)|[Python](./Python/1219.md)|||Medium|
 |1220|[Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/)|[Python](./Python/1220.md)|||Hard|
 |1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[Python](./Python/1221.md)|||Easy|
+|1222|[Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/)|[Python](./Python/1222.md)|||Medium|
 |1223|[Dice Roll Simulation](https://leetcode.com/problems/dice-roll-simulation/)|[Python](./Python/1223.md)|||Hard|
 |1224|[Maximum Equal Frequency](https://leetcode.com/problems/maximum-equal-frequency/)|[Python](./Python/1224.md)|||Hard|
 |1232|[Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)|[Python](./Python/1232.md)|||Easy|
@@ -888,6 +889,7 @@
 |1455|[Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/)|[Python](./Python/1455.md)|||Easy|
 |1448|[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)|[Python](./Python/1448.md)|||Medium|
 |1460|[Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/)|[Python](./Python/1460.md)|||Easy|
+|1462|[Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/)|[Python](./Python/1462.md)|||Medium|
 |1464|[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)|[Python](./Python/1464.md)|||Easy|
 |1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[Python](./Python/1470.md)|||Easy|
 |1475|[Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/)|[Python](./Python/1475.md)|||Easy|
@@ -1166,6 +1168,7 @@
 |2559|[Handling Sum Queries After Update](https://leetcode.com/problems/count-vowel-strings-in-ranges/)|[Python](./Python/2559.md)|||Medium|
 |2569|[Count Vowel Strings in Ranges](https://leetcode.com/problems/handling-sum-queries-after-update/)|[Python](./Python/2569.md)|||Hard|
 |2594|[Minimum Time to Repair Cars](https://leetcode.com/problems/minimum-time-to-repair-cars/)|[Python](./Python/2594.md)|||Medium|
+|2596|[Check Knight Tour Configuration](https://leetcode.com/problems/check-knight-tour-configuration/)|[Python](./Python/2596.md)|||Medium|
 |2600|[K Items With the Maximum Sum](https://leetcode.com/problems/k-items-with-the-maximum-sum/)|[Python](./Python/2600.md)|||Easy|
 |2605|[Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/)|[Python](./Python/2605.md)|||Easy|
 |2611|[Mice and Cheese](https://leetcode.com/problems/mice-and-cheese/)|[Python](./Python/2611.md)|||Medium|
