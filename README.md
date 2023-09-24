@@ -1058,6 +1058,7 @@
 |1984|[Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/)|[Python](./Python/1984.md)|||Easy|
 |1985|[Find the Kth Largest Integer in the Array](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/)|[Python](./Python/1985.md)|||Medium|
 |1986|[Minimum Number of Work Sessions to Finish the Tasks](https://leetcode.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks/)|[Python](./Python/1986.md)|||Medium|
+|1993|[Operations on Tree](https://leetcode.com/problems/operations-on-tree/)|[Python](./Python/1993.md)|||Medium|
 |1994|[The Number of Good Subsets](https://leetcode.com/problems/the-number-of-good-subsets/)|[Python](./Python/1994.md)|||Hard|
 |1995|[Count Special Quadruplets](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/)|[Python](./Python/1995.md)|||Easy|
 |1996|[The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)|[Python](./Python/1996.md)|||Medium|
@@ -1166,10 +1167,13 @@
 |2532|[Time to Cross a Bridge](https://leetcode.com/problems/time-to-cross-a-bridge/)|[Python](./Python/2532.md)|||Hard|
 |2544|[Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum/description/)|[Python](./Python/2544.md)|||Easy|
 |2559|[Handling Sum Queries After Update](https://leetcode.com/problems/count-vowel-strings-in-ranges/)|[Python](./Python/2559.md)|||Medium|
+|2560|[House Robber IV](https://leetcode.com/problems/house-robber-iv/)|[Python](./Python/2560.md)|||Medium|
 |2569|[Count Vowel Strings in Ranges](https://leetcode.com/problems/handling-sum-queries-after-update/)|[Python](./Python/2569.md)|||Hard|
+|2591|[Distribute Money to Maximum Children](https://leetcode.com/problems/distribute-money-to-maximum-children/)|[Python](./Python/2591.md)|||Easy|
 |2594|[Minimum Time to Repair Cars](https://leetcode.com/problems/minimum-time-to-repair-cars/)|[Python](./Python/2594.md)|||Medium|
 |2596|[Check Knight Tour Configuration](https://leetcode.com/problems/check-knight-tour-configuration/)|[Python](./Python/2596.md)|||Medium|
 |2600|[K Items With the Maximum Sum](https://leetcode.com/problems/k-items-with-the-maximum-sum/)|[Python](./Python/2600.md)|||Easy|
+|2603|[Collect Coins in a Tree](https://leetcode.com/problems/collect-coins-in-a-tree/)|[Python](./Python/2603.md)||Hard|
 |2605|[Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/)|[Python](./Python/2605.md)|||Easy|
 |2611|[Mice and Cheese](https://leetcode.com/problems/mice-and-cheese/)|[Python](./Python/2611.md)|||Medium|
 |2651|[Calculate Delayed Arrival Time](https://leetcode.com/problems/calculate-delayed-arrival-time/)|[Python](./Python/2651.md)|||Easy|
