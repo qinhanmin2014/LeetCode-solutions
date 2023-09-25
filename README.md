@@ -347,6 +347,7 @@
 |457|[Circular Array Loop](https://leetcode.com/problems/circular-array-loop/)|[Python](./Python/457.md)|||Medium|
 |458|[Poor Pigs](https://leetcode.com/problems/poor-pigs/)|[Python](./Python/458.md)|||Hard|
 |459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|[Python](./Python/459.md)|||Easy|
+|460|[LFU Cache](https://leetcode.com/problems/lfu-cache/)|[Python](./Python/460.md)|||Hard|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Python](./Python/461.md)|||Easy|
 |462|[Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)|[Python](./Python/462.md)|||Medium|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Python](./Python/463.md)|||Easy|
