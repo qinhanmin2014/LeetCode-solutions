@@ -8,10 +8,12 @@
 |176|Second Highest SalaryI|Solution(176.md)|Medium|
 |177|Nth Highest SalaryI|Solution(177.md)|Medium|
 |178|Rank Scores|Solution(178.md)|Medium|
+|180|Consecutive Numbers|Solution(180.md)|Medium|
 |181|Employees Earning More Than Their Managers|Solution(181.md)|Easy|
 |182|Duplicate Emails|Solution(182.md)|Easy|
 |183|Customers Who Never Order|Solution(183.md)|Easy|
 |184|Department Highest Salary|Solution(184.md)|Medium|
+|185|Department Top Three Salaries|Solution(185.md)|Hard|
 |196|Delete Duplicate Emails|Solution(196.md)|Easy|
 |197|Rising Temperature|Solution(197.md)|Easy|
 |511|Game Play Analysis I|Solution(511.md)|Easy|
