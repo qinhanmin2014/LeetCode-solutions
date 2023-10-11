@@ -311,7 +311,7 @@
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Python](./Python/412.md)|||Easy|
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)|[Python](./Python/413.md)|||Medium|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[Python](./Python/414.md)|||Easy|
-|415|[Add Strings](https://leetcode.cn/problems/add-strings/)|[Python](./Python/415.md)|||Easy|
+|415|[Add Strings](https://leetcode.com/problems/add-strings/)|[Python](./Python/415.md)|||Easy|
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|[Python](./Python/416.md)|||Medium|
 |417|[Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)|[Python](./Python/417.md)|||Medium|
 |419|[Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/)|[Python](./Python/419.md)|||Medium|
@@ -1114,7 +1114,7 @@
 |2180|[Count Integers With Even Digit Sum](https://leetcode.com/problems/count-integers-with-even-digit-sum/)|[Python](./Python/2180.md)|||Easy|
 |2185|[Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/)|[Python](./Python/2185.md)|||Easy|
 |2208|[Minimum Operations to Halve Array Sum](https://leetcode.com/problems/minimum-operations-to-halve-array-sum/)|[Python](./Python/2208.md)|||Medium|
-|2235|[Add Two Integers](https://leetcode.cn/problems/add-two-integers/)|[Python](./Python/2235.md)|||Easy|
+|2235|[Add Two Integers](https://leetcode.com/problems/add-two-integers/)|[Python](./Python/2235.md)|||Easy|
 |2236|[Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/)|[Python](./Python/2236.md)|||Easy|
 |2240|[Number of Ways to Buy Pens and Pencils](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/)|[Python](./Python/2240.md)|||Medium|
 |2251|[Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/)|[Python](./Python/2251.md)|||Hard|
@@ -1166,6 +1166,7 @@
 |2496|[Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/)|[Python](./Python/2496.md)|||Easy|
 |2500|[Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row/)|[Python](./Python/2500.md)|||Easy|
 |2511|[Maximum Enemy Forts That Can Be Captured](https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured/)|[Python](./Python/2511.md)|||Easy|
+|2512|[Reward Top K Students](https://leetcode.com/problems/reward-top-k-students/)|[Python](./Python/2512.md)|||Medium|
 |2517|[Maximum Tastiness of Candy Basket](https://leetcode.com/problems/maximum-tastiness-of-candy-basket/)|[Python](./Python/2517.md)|||Medium|
 |2532|[Time to Cross a Bridge](https://leetcode.com/problems/time-to-cross-a-bridge/)|[Python](./Python/2532.md)|||Hard|
 |2544|[Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum/description/)|[Python](./Python/2544.md)|||Easy|
@@ -1186,3 +1187,4 @@
 |2681|[Power of Heroes](https://leetcode.com/problems/power-of-heroes/)|[Python](./Python/2681.md)|||Hard|
 |2682|[Find the Losers of the Circular Game](https://leetcode.com/problems/find-the-losers-of-the-circular-game/)|[Python](./Python/2682.md)|||Easy|
 |2699|[Modify Graph Edge Weights](https://leetcode.com/problems/modify-graph-edge-weights/)|[Python](./Python/2699.md)|||Hard|
+|2731|[Movement of Robots](https://leetcode.com/problems/movement-of-robots/)|[Python](./Python/2731.md)|||Medium|
