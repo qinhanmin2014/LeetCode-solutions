@@ -897,6 +897,7 @@
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Python](./Python/1480.md)|||Easy|
 |1483|[Kth Ancestor of a Tree Node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/)|[Python](./Python/1483.md)|||Hard|
 |1487|[Making File Names Unique](https://leetcode.com/problems/making-file-names-unique/)|[Python](./Python/1487.md)|||Medium|
+|1488|[Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city/)|[Python](./Python/1488.md)|||Medium|
 |1489|[Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/)|[Python](./Python/1489.md)|||Hard|
 |1491|[Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)|[Python](./Python/1491.md)|||Easy|
 |1494|[Parallel Courses II](https://leetcode.com/problems/parallel-courses-ii/)|[Python](./Python/1494.md)|||Hard|
@@ -1172,6 +1173,7 @@
 |2544|[Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum/description/)|[Python](./Python/2544.md)|||Easy|
 |2559|[Handling Sum Queries After Update](https://leetcode.com/problems/count-vowel-strings-in-ranges/)|[Python](./Python/2559.md)|||Medium|
 |2560|[House Robber IV](https://leetcode.com/problems/house-robber-iv/)|[Python](./Python/2560.md)|||Medium|
+|2562|[Find the Array Concatenation Value](https://leetcode.com/problems/find-the-array-concatenation-value/)|[Python](./Python/2562.md)|||Medium|
 |2569|[Count Vowel Strings in Ranges](https://leetcode.com/problems/handling-sum-queries-after-update/)|[Python](./Python/2569.md)|||Hard|
 |2578|[Split With Minimum Sum](https://leetcode.com/problems/split-with-minimum-sum/)|[Python](./Python/2578.md)|||Easy|
 |2582|[Pass the Pillow](https://leetcode.com/problems/pass-the-pillow/)|[Python](./Python/2582.md)|||Easy|
