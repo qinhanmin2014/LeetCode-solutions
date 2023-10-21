@@ -1126,6 +1126,7 @@
 |2303|[Calculate Amount Paid in Taxes](https://leetcode.com/problems/calculate-amount-paid-in-taxes/)|[Python](./Python/2303.md)|||Easy|
 |2309|[Greatest English Letter in Upper and Lower Case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/)|[Python](./Python/2309.md)|||Easy|
 |2315|[Count Asterisks](https://leetcode.com/problems/count-asterisks/)|[Python](./Python/2315.md)|||Easy|
+|2316|[Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/)|[Python](./Python/2316.md)|||Medium|
 |2319|[Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/)|[Python](./Python/2319.md)|||Easy|
 |2325|[Decode the Message](https://leetcode.com/problems/decode-the-message/)|[Python](./Python/2325.md)|||Easy|
 |2331|[Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/)|[Python](./Python/2331.md)|||Easy|
@@ -1169,6 +1170,8 @@
 |2511|[Maximum Enemy Forts That Can Be Captured](https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured/)|[Python](./Python/2511.md)|||Easy|
 |2512|[Reward Top K Students](https://leetcode.com/problems/reward-top-k-students/)|[Python](./Python/2512.md)|||Medium|
 |2517|[Maximum Tastiness of Candy Basket](https://leetcode.com/problems/maximum-tastiness-of-candy-basket/)|[Python](./Python/2517.md)|||Medium|
+|2525|[Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria/)|[Python](./Python/2525.md)|||Easy|
+|2530|[Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/)|[Python](./Python/2532.md)|||Medium|
 |2532|[Time to Cross a Bridge](https://leetcode.com/problems/time-to-cross-a-bridge/)|[Python](./Python/2532.md)|||Hard|
 |2544|[Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum/description/)|[Python](./Python/2544.md)|||Easy|
 |2559|[Handling Sum Queries After Update](https://leetcode.com/problems/count-vowel-strings-in-ranges/)|[Python](./Python/2559.md)|||Medium|
@@ -1185,6 +1188,7 @@
 |2605|[Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/)|[Python](./Python/2605.md)|||Easy|
 |2611|[Mice and Cheese](https://leetcode.com/problems/mice-and-cheese/)|[Python](./Python/2611.md)|||Medium|
 |2651|[Calculate Delayed Arrival Time](https://leetcode.com/problems/calculate-delayed-arrival-time/)|[Python](./Python/2651.md)|||Easy|
+|2652|[Sum Multiples](https://leetcode.com/problems/sum-multiples/)|[Python](./Python/2652.md)|||Easy|
 |2679|[Sum in a Matrix](https://leetcode.com/problems/sum-in-a-matrix/)|[Python](./Python/2679.md)|||Medium|
 |2681|[Power of Heroes](https://leetcode.com/problems/power-of-heroes/)|[Python](./Python/2681.md)|||Hard|
 |2682|[Find the Losers of the Circular Game](https://leetcode.com/problems/find-the-losers-of-the-circular-game/)|[Python](./Python/2682.md)|||Easy|
