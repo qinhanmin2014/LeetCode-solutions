@@ -867,6 +867,7 @@
 |1380|[Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)|[Python](./Python/1380.md)|||Easy|
 |1388|[Pizza With 3n Slices](https://leetcode.com/problems/pizza-with-3n-slices/)|[Python](./Python/1388.md)|||Hard|
 |1401|[Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/)|[Python](./Python/1401.md)|||Medium|
+|1402|[Reducing Dishes](https://leetcode.com/problems/reducing-dishes/)|[Python](./Python/1402.md)|||Hard|
 |1403|[Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/)|[Python](./Python/1403.md)|||Easy|
 |1404|[Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/)|[Python](./Python/1404.md)|||Medium|
 |1405|[Longest Happy String](https://leetcode.com/problems/longest-happy-string/)|[Python](./Python/1405.md)|||Medium|
