@@ -1190,6 +1190,7 @@
 |2611|[Mice and Cheese](https://leetcode.com/problems/mice-and-cheese/)|[Python](./Python/2611.md)|||Medium|
 |2651|[Calculate Delayed Arrival Time](https://leetcode.com/problems/calculate-delayed-arrival-time/)|[Python](./Python/2651.md)|||Easy|
 |2652|[Sum Multiples](https://leetcode.com/problems/sum-multiples/)|[Python](./Python/2652.md)|||Easy|
+|2678|[Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/)|[Python](./Python/2678.md)|||Easy|
 |2679|[Sum in a Matrix](https://leetcode.com/problems/sum-in-a-matrix/)|[Python](./Python/2679.md)|||Medium|
 |2681|[Power of Heroes](https://leetcode.com/problems/power-of-heroes/)|[Python](./Python/2681.md)|||Hard|
 |2682|[Find the Losers of the Circular Game](https://leetcode.com/problems/find-the-losers-of-the-circular-game/)|[Python](./Python/2682.md)|||Easy|
