@@ -894,6 +894,7 @@
 |1460|[Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/)|[Python](./Python/1460.md)|||Easy|
 |1462|[Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/)|[Python](./Python/1462.md)|||Medium|
 |1464|[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)|[Python](./Python/1464.md)|||Easy|
+|1465|[Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)|[Python](./Python/1465.md)|||Medium|
 |1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[Python](./Python/1470.md)|||Easy|
 |1475|[Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/)|[Python](./Python/1475.md)|||Easy|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Python](./Python/1480.md)|||Easy|
@@ -1172,10 +1173,12 @@
 |2511|[Maximum Enemy Forts That Can Be Captured](https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured/)|[Python](./Python/2511.md)|||Easy|
 |2512|[Reward Top K Students](https://leetcode.com/problems/reward-top-k-students/)|[Python](./Python/2512.md)|||Medium|
 |2517|[Maximum Tastiness of Candy Basket](https://leetcode.com/problems/maximum-tastiness-of-candy-basket/)|[Python](./Python/2517.md)|||Medium|
+|2520|[Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/)|[Python](./Python/2520.md)|||Easy|
 |2525|[Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria/)|[Python](./Python/2525.md)|||Easy|
 |2530|[Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/)|[Python](./Python/2532.md)|||Medium|
 |2532|[Time to Cross a Bridge](https://leetcode.com/problems/time-to-cross-a-bridge/)|[Python](./Python/2532.md)|||Hard|
 |2544|[Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum/description/)|[Python](./Python/2544.md)|||Easy|
+|2558|[Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/)|[Python](./Python/2558.md)|||Easy|
 |2559|[Handling Sum Queries After Update](https://leetcode.com/problems/count-vowel-strings-in-ranges/)|[Python](./Python/2559.md)|||Medium|
 |2560|[House Robber IV](https://leetcode.com/problems/house-robber-iv/)|[Python](./Python/2560.md)|||Medium|
 |2562|[Find the Array Concatenation Value](https://leetcode.com/problems/find-the-array-concatenation-value/)|[Python](./Python/2562.md)|||Medium|
@@ -1195,5 +1198,6 @@
 |2679|[Sum in a Matrix](https://leetcode.com/problems/sum-in-a-matrix/)|[Python](./Python/2679.md)|||Medium|
 |2681|[Power of Heroes](https://leetcode.com/problems/power-of-heroes/)|[Python](./Python/2681.md)|||Hard|
 |2682|[Find the Losers of the Circular Game](https://leetcode.com/problems/find-the-losers-of-the-circular-game/)|[Python](./Python/2682.md)|||Easy|
+|2698|[Find the Punishment Number of an Integer](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/)|[Python](./Python/2698.md)|||Medium|
 |2699|[Modify Graph Edge Weights](https://leetcode.com/problems/modify-graph-edge-weights/)|[Python](./Python/2699.md)|||Hard|
 |2731|[Movement of Robots](https://leetcode.com/problems/movement-of-robots/)|[Python](./Python/2731.md)|||Medium|
