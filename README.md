@@ -1188,6 +1188,7 @@
 |2569|[Count Vowel Strings in Ranges](https://leetcode.com/problems/handling-sum-queries-after-update/)|[Python](./Python/2569.md)|||Hard|
 |2578|[Split With Minimum Sum](https://leetcode.com/problems/split-with-minimum-sum/)|[Python](./Python/2578.md)|||Easy|
 |2582|[Pass the Pillow](https://leetcode.com/problems/pass-the-pillow/)|[Python](./Python/2582.md)|||Easy|
+|2586|[Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/)|[Python](./Python/2586.md)|||Easy|
 |2591|[Distribute Money to Maximum Children](https://leetcode.com/problems/distribute-money-to-maximum-children/)|[Python](./Python/2591.md)|||Easy|
 |2594|[Minimum Time to Repair Cars](https://leetcode.com/problems/minimum-time-to-repair-cars/)|[Python](./Python/2594.md)|||Medium|
 |2596|[Check Knight Tour Configuration](https://leetcode.com/problems/check-knight-tour-configuration/)|[Python](./Python/2596.md)|||Medium|
