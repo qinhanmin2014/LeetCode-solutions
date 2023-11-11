@@ -1125,10 +1125,12 @@
 |2236|[Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/)|[Python](./Python/2236.md)|||Easy|
 |2240|[Number of Ways to Buy Pens and Pencils](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/)|[Python](./Python/2240.md)|||Medium|
 |2251|[Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/)|[Python](./Python/2251.md)|||Hard|
+|2258|[Escape the Spreading Fire](https://leetcode.com/problems/escape-the-spreading-fire/)|[Python](./Python/2258.md)|||Hard|
 |2283|[Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/)|[Python](./Python/2283.md)|||Easy|
 |2287|[Rearrange Characters to Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string/)|[Python](./Python/2287.md)|||Easy|
 |2293|[Min Max Game](https://leetcode.com/problems/min-max-game/)|[Python](./Python/2293.md)|||Easy|
 |2299|[Strong Password Checker II](https://leetcode.com/problems/strong-password-checker-ii/)|[Python](./Python/2299.md)|||Easy|
+|2300|[Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)|[Python](./Python/2300.md)|||Medium|
 |2303|[Calculate Amount Paid in Taxes](https://leetcode.com/problems/calculate-amount-paid-in-taxes/)|[Python](./Python/2303.md)|||Easy|
 |2309|[Greatest English Letter in Upper and Lower Case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/)|[Python](./Python/2309.md)|||Easy|
 |2315|[Count Asterisks](https://leetcode.com/problems/count-asterisks/)|[Python](./Python/2315.md)|||Easy|
@@ -1195,6 +1197,7 @@
 |2600|[K Items With the Maximum Sum](https://leetcode.com/problems/k-items-with-the-maximum-sum/)|[Python](./Python/2600.md)|||Easy|
 |2603|[Collect Coins in a Tree](https://leetcode.com/problems/collect-coins-in-a-tree/)|[Python](./Python/2603.md)||Hard|
 |2605|[Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/)|[Python](./Python/2605.md)|||Easy|
+|2609|[Find the Longest Balanced Substring of a Binary String](https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string/)|[Python](./Python/2611.md)|||Easy|
 |2611|[Mice and Cheese](https://leetcode.com/problems/mice-and-cheese/)|[Python](./Python/2611.md)|||Medium|
 |2651|[Calculate Delayed Arrival Time](https://leetcode.com/problems/calculate-delayed-arrival-time/)|[Python](./Python/2651.md)|||Easy|
 |2652|[Sum Multiples](https://leetcode.com/problems/sum-multiples/)|[Python](./Python/2652.md)|||Easy|
