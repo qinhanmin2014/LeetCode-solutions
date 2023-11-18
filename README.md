@@ -1141,6 +1141,7 @@
 |2335|[Minimum Amount of Time to Fill Cups](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/)|[Python](./Python/2335.md)|||Easy|
 |2337|[Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/)|[Python](./Python/2337.md)|||Medium|
 |2341|[Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/)|[Python](./Python/2341.md)|||Easy|
+|2342|[Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/)|[Python](./Python/2342.md)|||Medium|
 |2347|[Best Poker Hand](https://leetcode.com/problems/best-poker-hand/)|[Python](./Python/2347.md)|||Easy|
 |2351|[First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/)|[Python](./Python/2351.md)|||Easy|
 |2352|[Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/)|[Python](./Python/2352.md)|||Medium|
@@ -1209,3 +1210,5 @@
 |2698|[Find the Punishment Number of an Integer](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/)|[Python](./Python/2698.md)|||Medium|
 |2699|[Modify Graph Edge Weights](https://leetcode.com/problems/modify-graph-edge-weights/)|[Python](./Python/2699.md)|||Hard|
 |2731|[Movement of Robots](https://leetcode.com/problems/movement-of-robots/)|[Python](./Python/2731.md)|||Medium|
+|2736|[Maximum Sum Queries](https://leetcode.com/problems/maximum-sum-queries/)|[Python](./Python/2736.md)|||Hard|
+|2760|[Longest Even Odd Subarray With Threshold](https://leetcode.com/problems/longest-even-odd-subarray-with-threshold/)|[Python](./Python/2760.md)|||Easy|
