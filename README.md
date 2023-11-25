@@ -874,6 +874,7 @@
 |1404|[Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/)|[Python](./Python/1404.md)|||Medium|
 |1405|[Longest Happy String](https://leetcode.com/problems/longest-happy-string/)|[Python](./Python/1405.md)|||Medium|
 |1408|[String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/)|[Python](./Python/1408.md)|||Easy|
+|1410|[HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/)|[Python](./Python/1410.md)|||Medium|
 |1413|[Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)|[Python](./Python/1413.md)|||Easy|
 |1414|[Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/)|[Python](./Python/1414.md)|||Medium|
 |1415|[The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/)|[Python](./Python/1415.md)|||Medium|
@@ -889,9 +890,10 @@
 |1444|[Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/)|[Python](./Python/1444.md)|||Hard|
 |1446|[Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)|[Python](./Python/1446.md)|||Easy|
 |1447|[Simplified Fractions](https://leetcode.com/problems/simplified-fractions/)|[Python](./Python/1447.md)|||Medium|
+|1448|[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)|[Python](./Python/1448.md)|||Medium|
 |1450|[Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)|[Python](./Python/1450.md)|||Easy|
 |1455|[Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/)|[Python](./Python/1455.md)|||Easy|
-|1448|[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)|[Python](./Python/1448.md)|||Medium|
+|1457|[Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)|[Python](./Python/1457.md)|||Medium|
 |1460|[Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/)|[Python](./Python/1460.md)|||Easy|
 |1462|[Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/)|[Python](./Python/1462.md)|||Medium|
 |1464|[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)|[Python](./Python/1464.md)|||Easy|
@@ -1121,6 +1123,7 @@
 |2180|[Count Integers With Even Digit Sum](https://leetcode.com/problems/count-integers-with-even-digit-sum/)|[Python](./Python/2180.md)|||Easy|
 |2185|[Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/)|[Python](./Python/2185.md)|||Easy|
 |2208|[Minimum Operations to Halve Array Sum](https://leetcode.com/problems/minimum-operations-to-halve-array-sum/)|[Python](./Python/2208.md)|||Medium|
+|2216|[Minimum Deletions to Make Array Beautiful](https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/)|[Python](./Python/2216.md)|||Easy|
 |2235|[Add Two Integers](https://leetcode.com/problems/add-two-integers/)|[Python](./Python/2235.md)|||Easy|
 |2236|[Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/)|[Python](./Python/2236.md)|||Easy|
 |2240|[Number of Ways to Buy Pens and Pencils](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/)|[Python](./Python/2240.md)|||Medium|
@@ -1132,6 +1135,7 @@
 |2299|[Strong Password Checker II](https://leetcode.com/problems/strong-password-checker-ii/)|[Python](./Python/2299.md)|||Easy|
 |2300|[Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)|[Python](./Python/2300.md)|||Medium|
 |2303|[Calculate Amount Paid in Taxes](https://leetcode.com/problems/calculate-amount-paid-in-taxes/)|[Python](./Python/2303.md)|||Easy|
+|2304|[Minimum Path Cost in a Grid](https://leetcode.com/problems/minimum-path-cost-in-a-grid/)|[Python](./Python/2304.md)|||Medium|
 |2309|[Greatest English Letter in Upper and Lower Case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/)|[Python](./Python/2309.md)|||Easy|
 |2315|[Count Asterisks](https://leetcode.com/problems/count-asterisks/)|[Python](./Python/2315.md)|||Easy|
 |2316|[Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/)|[Python](./Python/2316.md)|||Medium|
@@ -1212,3 +1216,4 @@
 |2731|[Movement of Robots](https://leetcode.com/problems/movement-of-robots/)|[Python](./Python/2731.md)|||Medium|
 |2736|[Maximum Sum Queries](https://leetcode.com/problems/maximum-sum-queries/)|[Python](./Python/2736.md)|||Hard|
 |2760|[Longest Even Odd Subarray With Threshold](https://leetcode.com/problems/longest-even-odd-subarray-with-threshold/)|[Python](./Python/2760.md)|||Easy|
+|2824|[Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/)|[Python](./Python/2824.md)|||Easy|
