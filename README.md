@@ -1145,7 +1145,7 @@
 |2325|[Decode the Message](https://leetcode.com/problems/decode-the-message/)|[Python](./Python/2325.md)|||Easy|
 |2331|[Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/)|[Python](./Python/2331.md)|||Easy|
 |2335|[Minimum Amount of Time to Fill Cups](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/)|[Python](./Python/2335.md)|||Easy|
-|2336|[Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/description/)|[Python](./Python/2336.md)|||Medium|
+|2336|[Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/)|[Python](./Python/2336.md)|||Medium|
 |2337|[Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/)|[Python](./Python/2337.md)|||Medium|
 |2341|[Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/)|[Python](./Python/2341.md)|||Easy|
 |2342|[Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/)|[Python](./Python/2342.md)|||Medium|
@@ -1190,7 +1190,7 @@
 |2525|[Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria/)|[Python](./Python/2525.md)|||Easy|
 |2530|[Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/)|[Python](./Python/2532.md)|||Medium|
 |2532|[Time to Cross a Bridge](https://leetcode.com/problems/time-to-cross-a-bridge/)|[Python](./Python/2532.md)|||Hard|
-|2544|[Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum/description/)|[Python](./Python/2544.md)|||Easy|
+|2544|[Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum/)|[Python](./Python/2544.md)|||Easy|
 |2558|[Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/)|[Python](./Python/2558.md)|||Easy|
 |2559|[Handling Sum Queries After Update](https://leetcode.com/problems/count-vowel-strings-in-ranges/)|[Python](./Python/2559.md)|||Medium|
 |2560|[House Robber IV](https://leetcode.com/problems/house-robber-iv/)|[Python](./Python/2560.md)|||Medium|
