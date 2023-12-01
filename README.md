@@ -964,6 +964,7 @@
 |1653|[Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/)|[Python](./Python/1653.md)|||Medium|
 |1654|[Minimum Jumps to Reach Home](https://leetcode.com/problems/minimum-jumps-to-reach-home/)|[Python](./Python/1654.md)|||Medium|
 |1656|[Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream/)|[Python](./Python/1656.md)|||Easy|
+|1657|[Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)|[Python](./Python/1657.md)|||Medium|
 |1658|[Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)|[Python](./Python/1658.md)|||Medium|
 |1659|[Maximize Grid Happiness](https://leetcode.com/problems/maximize-grid-happiness/)|[Python](./Python/1659.md)|||Hard|
 |1662|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[Python](./Python/1662.md)|||Easy|
@@ -971,6 +972,7 @@
 |1664|[Ways to Make a Fair Array](https://leetcode.com/problems/ways-to-make-a-fair-array/)|[Python](./Python/1664.md)|||Medium|
 |1668|[Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/)|[Python](./Python/1668.md)|||Easy|
 |1669|[Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/)|[Python](./Python/1669.md)|||Medium|
+|1670|[Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/)|[Python](./Python/1670.md)|||Medium|
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[Python](./Python/1672.md)|||Easy|
 |1678|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[Python](./Python/1678.md)|||Easy|
 |1681|[Minimum Incompatibility](https://leetcode.com/problems/minimum-incompatibility/)|[Python](./Python/1681.md)|||Hard|
@@ -1143,6 +1145,7 @@
 |2325|[Decode the Message](https://leetcode.com/problems/decode-the-message/)|[Python](./Python/2325.md)|||Easy|
 |2331|[Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/)|[Python](./Python/2331.md)|||Easy|
 |2335|[Minimum Amount of Time to Fill Cups](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/)|[Python](./Python/2335.md)|||Easy|
+|2336|[Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/description/)|[Python](./Python/2336.md)|||Medium|
 |2337|[Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/)|[Python](./Python/2337.md)|||Medium|
 |2341|[Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/)|[Python](./Python/2341.md)|||Easy|
 |2342|[Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/)|[Python](./Python/2342.md)|||Medium|
