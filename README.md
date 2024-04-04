@@ -1220,3 +1220,7 @@
 |2736|[Maximum Sum Queries](https://leetcode.com/problems/maximum-sum-queries/)|[Python](./Python/2736.md)|||Hard|
 |2760|[Longest Even Odd Subarray With Threshold](https://leetcode.com/problems/longest-even-odd-subarray-with-threshold/)|[Python](./Python/2760.md)|||Easy|
 |2824|[Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/)|[Python](./Python/2824.md)|||Easy|
+|3099|[Harshad Number](https://leetcode.com/problems/harshad-number/)|[Python](./Python/2824.md)|||Easy|
+|3100|[Water Bottles II](https://leetcode.com/problems/water-bottles-ii/)|[Python](./Python/2824.md)|||Medium|
+|3101|[Count Alternating Subarrays](https://leetcode.com/problems/count-alternating-subarrays/)|[Python](./Python/2824.md)|||Medium|
+|3102|[Minimize Manhattan Distances](https://leetcode.com/problems/minimize-manhattan-distances/)|[Python](./Python/2824.md)|||Hard|
