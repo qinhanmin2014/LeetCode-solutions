@@ -1219,6 +1219,7 @@
 |2731|[Movement of Robots](https://leetcode.com/problems/movement-of-robots/)|[Python](./Python/2731.md)|||Medium|
 |2736|[Maximum Sum Queries](https://leetcode.com/problems/maximum-sum-queries/)|[Python](./Python/2736.md)|||Hard|
 |2760|[Longest Even Odd Subarray With Threshold](https://leetcode.com/problems/longest-even-odd-subarray-with-threshold/)|[Python](./Python/2760.md)|||Easy|
+|2779|[Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/)|[Python](./Python/2779.md)|||Medium|
 |2824|[Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/)|[Python](./Python/2824.md)|||Easy|
 |3099|[Harshad Number](https://leetcode.com/problems/harshad-number/)|[Python](./Python/2824.md)|||Easy|
 |3100|[Water Bottles II](https://leetcode.com/problems/water-bottles-ii/)|[Python](./Python/2824.md)|||Medium|
