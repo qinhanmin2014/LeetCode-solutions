@@ -180,13 +180,14 @@
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[Python](./Python/198.md)|||Easy|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Python](./Python/199.md)|||Medium|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Python](./Python/200.md)|||Medium|
-|203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Python](./Python/203.md)|[Java](./Java/203.md)|[C++](./C++/203.md)|Easy|
+|201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|[Python](./Python/201.md)|||Medium|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[Python](./Python/202.md)|||Easy|
-|204|[Count Primes](https://leetcode.com/problems/count-primes/)|[Python](./Python/204.md)|||Easy|
+|203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Python](./Python/203.md)|[Java](./Java/203.md)|[C++](./C++/203.md)|Easy||204|[Count Primes](https://leetcode.com/problems/count-primes/)|[Python](./Python/204.md)|||Easy|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Python](./Python/205.md)|||Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python](./Python/206.md)|||Easy|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[Python](./Python/207.md)|||Medium|
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Python](./Python/208.md)|||Medium|
+|209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Python](./Python/209.md)|||Medium|
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[Python](./Python/210.md)|||Medium|
 |211|[Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)|[Python](./Python/211.md)|||Medium|
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|[Python](./Python/212.md)|||Hard|
@@ -1124,6 +1125,7 @@
 |2178|[Maximum Split of Positive Even Integers](https://leetcode.com/problems/maximum-split-of-positive-even-integers/)|[Python](./Python/2178.md)|||Medium|
 |2180|[Count Integers With Even Digit Sum](https://leetcode.com/problems/count-integers-with-even-digit-sum/)|[Python](./Python/2180.md)|||Easy|
 |2185|[Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/)|[Python](./Python/2185.md)|||Easy|
+|2187|[Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/)|[Python](./Python/2187.md)|||Medium|
 |2208|[Minimum Operations to Halve Array Sum](https://leetcode.com/problems/minimum-operations-to-halve-array-sum/)|[Python](./Python/2208.md)|||Medium|
 |2216|[Minimum Deletions to Make Array Beautiful](https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/)|[Python](./Python/2216.md)|||Easy|
 |2235|[Add Two Integers](https://leetcode.com/problems/add-two-integers/)|[Python](./Python/2235.md)|||Easy|
