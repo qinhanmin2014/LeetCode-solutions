@@ -1227,6 +1227,9 @@
 |3100|[Water Bottles II](https://leetcode.com/problems/water-bottles-ii/)|[Python](./Python/2824.md)|||Medium|
 |3101|[Count Alternating Subarrays](https://leetcode.com/problems/count-alternating-subarrays/)|[Python](./Python/2824.md)|||Medium|
 |3102|[Minimize Manhattan Distances](https://leetcode.com/problems/minimize-manhattan-distances/)|[Python](./Python/2824.md)|||Hard|
+|3838|[Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/)|[Python](./Python/3838.md)|||Easy|
+|3839|[Number of Prefix Connected Groups](https://leetcode.com/problems/number-of-prefix-connected-groups/)|[Python](./Python/3839.md)|||Medium|
+|3840|[House Robber V](https://leetcode.com/problems/house-robber-v/)|[Python](./Python/3840.md)|||Medium|
 |3842|[Toggle Light Bulbs](https://leetcode.com/problems/toggle-light-bulbs/)|[Python](./Python/3842.md)|||Easy|
 |3843|[First Element with Unique Frequency](https://leetcode.com/problems/first-element-with-unique-frequency/)|[Python](./Python/3843.md)|||Medium|
 |3844|[Longest Almost-Palindromic Substring](https://leetcode.com/problems/longest-almost-palindromic-substring/)|[Python](./Python/3844.md)||[C++](./C++/3844.md)|Medium|
