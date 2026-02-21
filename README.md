@@ -1227,6 +1227,9 @@
 |3100|[Water Bottles II](https://leetcode.com/problems/water-bottles-ii/)|[Python](./Python/2824.md)|||Medium|
 |3101|[Count Alternating Subarrays](https://leetcode.com/problems/count-alternating-subarrays/)|[Python](./Python/2824.md)|||Medium|
 |3102|[Minimize Manhattan Distances](https://leetcode.com/problems/minimize-manhattan-distances/)|[Python](./Python/2824.md)|||Hard|
+|3833|[Count Dominant Indices](https://leetcode.com/problems/count-dominant-indices/)|[Python](./Python/3833.md)|||Easy|
+|3834|[Merge Adjacent Equal Elements](https://leetcode.com/problems/merge-adjacent-equal-elements/)|[Python](./Python/3834.md)|||Medium|
+|3845|[Count Subarrays With Cost Less Than or Equal to K](https://leetcode.com/problems/count-subarrays-with-cost-less-than-or-equal-to-k/)|[Python](./Python/3845.md)|||Medium|
 |3838|[Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/)|[Python](./Python/3838.md)|||Easy|
 |3839|[Number of Prefix Connected Groups](https://leetcode.com/problems/number-of-prefix-connected-groups/)|[Python](./Python/3839.md)|||Medium|
 |3840|[House Robber V](https://leetcode.com/problems/house-robber-v/)|[Python](./Python/3840.md)|||Medium|
