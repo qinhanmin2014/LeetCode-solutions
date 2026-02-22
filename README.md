@@ -1223,10 +1223,14 @@
 |2760|[Longest Even Odd Subarray With Threshold](https://leetcode.com/problems/longest-even-odd-subarray-with-threshold/)|[Python](./Python/2760.md)|||Easy|
 |2779|[Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/)|[Python](./Python/2779.md)|||Medium|
 |2824|[Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/)|[Python](./Python/2824.md)|||Easy|
-|3099|[Harshad Number](https://leetcode.com/problems/harshad-number/)|[Python](./Python/2824.md)|||Easy|
-|3100|[Water Bottles II](https://leetcode.com/problems/water-bottles-ii/)|[Python](./Python/2824.md)|||Medium|
-|3101|[Count Alternating Subarrays](https://leetcode.com/problems/count-alternating-subarrays/)|[Python](./Python/2824.md)|||Medium|
-|3102|[Minimize Manhattan Distances](https://leetcode.com/problems/minimize-manhattan-distances/)|[Python](./Python/2824.md)|||Hard|
+|3099|[Harshad Number](https://leetcode.com/problems/harshad-number/)|[Python](./Python/3099.md)|||Easy|
+|3100|[Water Bottles II](https://leetcode.com/problems/water-bottles-ii/)|[Python](./Python/3100.md)|||Medium|
+|3101|[Count Alternating Subarrays](https://leetcode.com/problems/count-alternating-subarrays/)|[Python](./Python/3101.md)|||Medium|
+|3102|[Minimize Manhattan Distances](https://leetcode.com/problems/minimize-manhattan-distances/)|[Python](./Python/3102.md)|||Hard|
+|3827|[Count Monobit Integers](https://leetcode.com/problems/count-monobit-integers/)|[Python](./Python/3827.md)|||Easy|
+|3828|[Final Element After Subarray Deletions](https://leetcode.com/problems/final-element-after-subarray-deletions/)|[Python](./Python/3828.md)|||Medium|
+|3829|[Design Ride Sharing System](https://leetcode.com/problems/design-ride-sharing-system/)|[Python](./Python/3829.md)|||Medium|
+|3830|[Longest Alternating Subarray After Removing At Most One Element](https://leetcode.com/problems/longest-alternating-subarray-after-removing-at-most-one-element/)|[Python](./Python/3830.md)|||Hard|
 |3833|[Count Dominant Indices](https://leetcode.com/problems/count-dominant-indices/)|[Python](./Python/3833.md)|||Easy|
 |3834|[Merge Adjacent Equal Elements](https://leetcode.com/problems/merge-adjacent-equal-elements/)|[Python](./Python/3834.md)|||Medium|
 |3845|[Count Subarrays With Cost Less Than or Equal to K](https://leetcode.com/problems/count-subarrays-with-cost-less-than-or-equal-to-k/)|[Python](./Python/3845.md)|||Medium|
