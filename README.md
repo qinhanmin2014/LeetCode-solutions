@@ -1227,6 +1227,8 @@
 |3100|[Water Bottles II](https://leetcode.com/problems/water-bottles-ii/)|[Python](./Python/3100.md)|||Medium|
 |3101|[Count Alternating Subarrays](https://leetcode.com/problems/count-alternating-subarrays/)|[Python](./Python/3101.md)|||Medium|
 |3102|[Minimize Manhattan Distances](https://leetcode.com/problems/minimize-manhattan-distances/)|[Python](./Python/3102.md)|||Hard|
+|3823|[Reverse Letters Then Special Characters in a String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string/)|[Python](./Python/3823.md)|||Easy|
+|3824|[Minimum K to Reduce Array Within Limit](https://leetcode.com/problems/minimum-k-to-reduce-array-within-limit/)|[Python](./Python/3824.md)|||Medium|
 |3827|[Count Monobit Integers](https://leetcode.com/problems/count-monobit-integers/)|[Python](./Python/3827.md)|||Easy|
 |3828|[Final Element After Subarray Deletions](https://leetcode.com/problems/final-element-after-subarray-deletions/)|[Python](./Python/3828.md)|||Medium|
 |3829|[Design Ride Sharing System](https://leetcode.com/problems/design-ride-sharing-system/)|[Python](./Python/3829.md)|||Medium|
